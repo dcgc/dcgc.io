@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/pRoJEct-NeGYa/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/pRoJEct-NeGYa/" rel="alternate" type="text/html" /><updated>2020-10-05T19:23:52+02:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/feed.xml</id><title type="html">pRoJEct-NeGYa</title><subtitle></subtitle><entry><title type="html">pRoJEct-NeGYa 使用说明</title><link href="http://localhost:4000/pRoJEct-NeGYa/readme/" rel="alternate" type="text/html" title="pRoJEct-NeGYa 使用说明" /><published>2019-07-16T00:00:00+02:00</published><updated>2019-07-16T00:00:00+02:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/readme</id><content type="html" xml:base="http://localhost:4000/pRoJEct-NeGYa/readme/">&lt;h1 id=&quot;project-negya&quot;&gt;PRoJEct-NeGYa&lt;/h1&gt;
+
+&lt;p&gt;黑客风格的个人主页模板。&lt;/p&gt;
+
+&lt;p&gt;版本： v2.01&lt;/p&gt;
+
+&lt;h2 id=&quot;特性&quot;&gt;特性&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;狂拽酷炫，高度可定制化&lt;/li&gt;
+  &lt;li&gt;Rouge支持代码高亮&lt;/li&gt;
+  &lt;li&gt;MathJax公式&lt;/li&gt;
+  &lt;li&gt;Toc文章索引&lt;/li&gt;
+  &lt;li&gt;加密文本&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;更新日志&quot;&gt;更新日志&lt;/h2&gt;
+
+&lt;p&gt;2019.7.28：更改加密方式，修改Rouge主题&lt;/p&gt;
+
+&lt;p&gt;2019.7.17：更新说明文件&lt;/p&gt;
+
+&lt;p&gt;2019.6.15：老子就做这一版，凑合能用得了，我可不改了啊！&lt;/p&gt;
+
+&lt;h2 id=&quot;使用方法&quot;&gt;使用方法&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;下载或者fork到自己的github仓库里&lt;/li&gt;
+  &lt;li&gt;修改_config.yml文件&lt;/li&gt;
+  &lt;li&gt;（自定义域名）修改CNAME文件&lt;/li&gt;
+  &lt;li&gt;修改pages/index.md文件，自定义主页&lt;/li&gt;
+  &lt;li&gt;删除_posts/文件夹里的文件，添加自己的文章&lt;/li&gt;
+  &lt;li&gt;同步到github远程仓库&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;工程结构&quot;&gt;工程结构&lt;/h2&gt;
+
+&lt;p&gt;功能和内容隔离TMD！&lt;/p&gt;
+
+&lt;p&gt;网站内容：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;_posts：文章&lt;/li&gt;
+  &lt;li&gt;pages：页面&lt;/li&gt;
+  &lt;li&gt;assets/img：图&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;功能样式：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;_includes：子页面模块&lt;/li&gt;
+  &lt;li&gt;_layouts：页面模板（单纯地组合子页面模块）&lt;/li&gt;
+  &lt;li&gt;assets/css：样式表文件&lt;/li&gt;
+  &lt;li&gt;assets/fonts：字体文件&lt;/li&gt;
+  &lt;li&gt;assets/js：脚本文件&lt;/li&gt;
+  &lt;li&gt;_config.yml：配置文件&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>DeerRIDER</name></author><category term="Sample" /><summary type="html">PRoJEct-NeGYa 黑客风格的个人主页模板。 版本： v2.01 特性 狂拽酷炫，高度可定制化 Rouge支持代码高亮 MathJax公式 Toc文章索引 加密文本 更新日志 2019.7.28：更改加密方式，修改Rouge主题 2019.7.17：更新说明文件 2019.6.15：老子就做这一版，凑合能用得了，我可不改了啊！ 使用方法 下载或者fork到自己的github仓库里 修改_config.yml文件 （自定义域名）修改CNAME文件 修改pages/index.md文件，自定义主页 删除_posts/文件夹里的文件，添加自己的文章 同步到github远程仓库 工程结构 功能和内容隔离TMD！ 网站内容： _posts：文章 pages：页面 assets/img：图 功能样式： _includes：子页面模块 _layouts：页面模板（单纯地组合子页面模块） assets/css：样式表文件 assets/fonts：字体文件 assets/js：脚本文件 _config.yml：配置文件</summary></entry><entry><title type="html">Text Styles and Markdown Quick Reference</title><link href="http://localhost:4000/pRoJEct-NeGYa/sample3/" rel="alternate" type="text/html" title="Text Styles and Markdown Quick Reference" /><published>2019-05-25T00:00:00+02:00</published><updated>2019-05-25T00:00:00+02:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/sample3</id><content type="html" xml:base="http://localhost:4000/pRoJEct-NeGYa/sample3/">&lt;h2 id=&quot;style-test-below&quot;&gt;Style Test Below&lt;/h2&gt;
+
+&lt;h3 id=&quot;text&quot;&gt;Text&lt;/h3&gt;
+
+&lt;p&gt;Wand fest wa gét. D’Welt weisen Fréijor ze ech. Da d’Land Faarwen nei, dé fir rëscht blëtzen.&lt;/p&gt;
+
+&lt;p&gt;Encrypted text:&lt;br /&gt;&lt;/p&gt;
+&lt;p class=&quot;encrypted&quot;&gt;elKwQPCOLF4w86wRItKMqge8qDO6fU80wbdANG6AnS8kgT8qAqGFC5VkVexu+4RBhBMUWwdkzEVo8HAKUT&lt;/p&gt;
+
+&lt;p&gt;normal, &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italic&lt;/em&gt;, &lt;del&gt;strikethrough&lt;/del&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;keyword&lt;/code&gt;, &lt;a href=&quot;www.google.com&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;blockquote&lt;/p&gt;
+
+  &lt;p&gt;Den wa Stad Schuebersonndeg, op all d’Pan hinnen. Ké net geet sech Mier, ass gutt Kaffi an.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Ruby code with syntax highlighting&lt;/span&gt;
+&lt;span class=&quot;no&quot;&gt;GitHubPages&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;::&lt;/span&gt;&lt;span class=&quot;no&quot;&gt;Dependencies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;gems&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;each&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;do&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;|&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;s&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;add_dependency&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;= &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;version&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;formula&quot;&gt;Formula&lt;/h3&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!&lt;/script&gt;
+
+&lt;h3 id=&quot;list&quot;&gt;List&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;ordered list item 1&lt;/li&gt;
+  &lt;li&gt;ordered list item 2
+    &lt;ol&gt;
+      &lt;li&gt;sublist
+        &lt;ol&gt;
+          &lt;li&gt;subsublist
+            &lt;ul&gt;
+              &lt;li&gt;unordered list&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;unordered sublist
+    &lt;ul&gt;
+      &lt;li&gt;subsublist
+        &lt;ul&gt;
+          &lt;li&gt;subsubsublist&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;horizontal-line&quot;&gt;horizontal line&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;table&quot;&gt;Table&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;surprise&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;surprise&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;maza faka&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;fark&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ya&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;maza faka&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;surprise&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;babe&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;surprise&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;surprise&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;maza faka&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;surprise&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;surprise&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;maza faka&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;surprise surprise surprise maza faka maza faka maza faka kakakakak&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;image&quot;&gt;image&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/pRoJEct-NeGYa/assets/img/img-sample.jpg&quot; alt=&quot;img-smpl&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;heading&quot;&gt;heading&lt;/h3&gt;
+&lt;h4 id=&quot;this-is-heading-4&quot;&gt;This is heading 4&lt;/h4&gt;
+&lt;h5 id=&quot;this-is-heading-5&quot;&gt;This is heading 5&lt;/h5&gt;
+&lt;h6 id=&quot;this-is-heading-6&quot;&gt;This is heading 6&lt;/h6&gt;</content><author><name>DeerRIDER</name></author><category term="Sample" /><summary type="html">This is excerpt.</summary></entry><entry><title type="html">An Encrypt and Dectrypt tool with sjcl.js</title><link href="http://localhost:4000/pRoJEct-NeGYa/sjcl/" rel="alternate" type="text/html" title="An Encrypt and Dectrypt tool with sjcl.js" /><published>2019-04-16T00:00:00+02:00</published><updated>2019-04-16T00:00:00+02:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/sjcl</id><content type="html" xml:base="http://localhost:4000/pRoJEct-NeGYa/sjcl/">&lt;!-- aes encrypt and decrypt method --&gt;
+&lt;script
+  src=&quot;http://localhost:4000/pRoJEct-NeGYa/assets/js/sjcl.js&quot;
+  async
+&gt;&lt;/script&gt;
+
+&lt;div class=&quot;div_token&quot;&gt;
+  &lt;table&gt;
+    &lt;thead&gt;
+      &lt;th colspan=&quot;3&quot;&gt;
+        Password is required in both encryption and decryption
+      &lt;/th&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Password&lt;/td&gt;
+        &lt;td&gt;
+          &lt;textarea
+            class=&quot;access_token&quot;
+            rows=&quot;1&quot;
+            cols=&quot;50&quot;
+            id=&quot;pwd&quot;
+            style=&quot;resize: vertical;&quot;
+          &gt;&lt;/textarea&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          Message
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;textarea
+            class=&quot;access_token&quot;
+            rows=&quot;5&quot;
+            cols=&quot;50&quot;
+            id=&quot;msg&quot;
+            style=&quot;resize: vertical;&quot;
+          &gt;&lt;/textarea&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;button class=&quot;encrypt&quot; onclick=&quot;encrypt()&quot;&gt;Encrypt&lt;/button&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Ciphertext&lt;/td&gt;
+        &lt;td&gt;
+          &lt;textarea
+            class=&quot;access_token&quot;
+            rows=&quot;5&quot;
+            cols=&quot;50&quot;
+            id=&quot;ct&quot;
+            style=&quot;resize: vertical;&quot;
+          &gt;&lt;/textarea&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;button class=&quot;encrypt&quot; onclick=&quot;decrypt()&quot;&gt;Decrypt&lt;/button&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;Minimized&lt;/td&gt;
+        &lt;td&gt;
+          &lt;textarea
+            class=&quot;access_token&quot;
+            rows=&quot;5&quot;
+            cols=&quot;50&quot;
+            id=&quot;min_text&quot;
+            style=&quot;resize: vertical;&quot;
+          &gt;&lt;/textarea&gt;
+        &lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/div&gt;
+&lt;script&gt;
+  function encrypt() {
+    var pwd = document.getElementById(&quot;pwd&quot;).value;
+    var msg = document.getElementById(&quot;msg&quot;).value;
+    var ct =  sjcl.json.encrypt(pwd, msg,{salt: &quot;&quot;});
+    var ct_obj = JSON.parse(ct);
+    document.getElementById(&quot;ct&quot;).value = ct;
+    document.getElementById(&quot;msg&quot;).value = &quot;&quot;;
+    document.getElementById(&quot;min_text&quot;).value = (ct_obj.iv.substring(0,22) + ct_obj.ct);
+  }
+  function decrypt() {
+    var pwd = document.getElementById(&quot;pwd&quot;).value;
+    var ct = document.getElementById(&quot;ct&quot;).value;
+    document.getElementById(&quot;msg&quot;).value = sjcl.json.decrypt(pwd, ct);
+    document.getElementById(&quot;ct&quot;).value = &quot;&quot;;
+    document.getElementById(&quot;min_text&quot;).value = &quot;&quot;;
+  }
+&lt;/script&gt;</content><author><name>DeerRIDER</name></author><category term="Sample" /><summary type="html"></summary></entry><entry><title type="html">dummy sample post 1</title><link href="http://localhost:4000/pRoJEct-NeGYa/sample1/" rel="alternate" type="text/html" title="dummy sample post 1" /><published>2019-03-09T00:00:00+01:00</published><updated>2019-03-09T00:00:00+01:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/sample1</id><content type="html" xml:base="http://localhost:4000/pRoJEct-NeGYa/sample1/">&lt;p&gt;Λορεμ ιπσθμ δολορ σιτ αμετ, νονθμυ δολορεσ πρινcιπεσ εαμ αν, ρεγιονε σθσcιπιτ αccθσατα νε πρι, εα εαμ γραεcο μελιθσ αccθσαμ. Vολθπτθα δισσεντιασ τε ηασ, τε πρι σθασ ηαρθμ αδιπισcινγ. Qθο ατ ιθστο ταcιματεσ, μελ εραντ ρεπθδιανδαε ετ. Ετ τιμεαμ cονcεπταμ αccομμοδαρε νεc, ιδ σεα μελιορε λθπτατθμ. Αδ περσεcθτι cοντεντιονεσ θσθ. Ηομερο νοστρο θταμθρ εαμ εξ.&lt;/p&gt;
+
+&lt;p&gt;Νεc ιδ λεγερε ρεγιονε διcερετ, vιμ εθ νιβη ιριθρε cορπορα. Αδ vιξ διcο νατθμ εσσεντ. Ιλλθδ αλιqθιδ ει σιτ, δοcτθσ vιδισσε δετραξιτ αν μεα. Ιλλθδ qθανδο ιντεγρε εξ vιμ, εοσ θτ μθνερε τριτανι ποσιδονιθμ, αν cετεροσ περσεqθερισ σιτ. Λατινε δισcερε vοcιβθσ πρι νο, vιμ cθ νοστρο μαλθισσετ vολθπταρια.&lt;/p&gt;
+
+&lt;p&gt;Πρι cθ αλιι ειθσ vιδιτ, vελιτ cονσθλ μαλθισσετ νο θσθ, εσσε εριπθιτ vελ ατ. Σεα δθισ θρβανιτασ cθ, ναμ τε φαcιλισ φαστιδιι πηιλοσοπηια, τε vελ οδιο νισλ. Αδ δεσερθντ δεσερθισσε σθσcιπιαντθρ ναμ. Δθο cασε δελιcατα τε.&lt;/p&gt;
+
+&lt;p&gt;Τε εθμ διcο εvερτιτθρ, εαμ λθδθσ cοπιοσαε ελοqθεντιαμ νο. Πρι πθρτο αθτεμ βλανδιτ ιδ. Τε vιταε ομνιθμ ηασ. Vισ ηομερο οcθρρερετ ιν. Ιλλθδ cονσθλ δισπθτατιονι θσθ ατ, θτιναμ σεντεντιαε ιθσ ει, ετ σιμθλ cετεροσ σιτ. Νισλ εξπλιcαρι δισπθτατιονι μελ νε, νεc νε cασε περcιπιτ.&lt;/p&gt;
+
+&lt;p&gt;Εραντ πλατονεμ πρι ατ, περ εα ταντασ απεριρι, εα σθμμο ρεγιονε σιτ. Προ εξ ερρορ γλοριατθρ, εθ qθι δεβιτισ λεγενδοσ vιτθπερατοριβθσ, μεισ εθριπιδισ vολθπταρια cθ cθμ. Νο τοτα σcριπσεριτ vιμ. Δολορ μανδαμθσ ερροριβθσ vιμ θτ. Ελειφενδ ηενδρεριτ αδ θσθ.&lt;/p&gt;
+
+&lt;p&gt;Περ τε μινιμ cονcλθδατθρqθε. Qθι αν vιρτθτε σεντεντιαε. Μεα αδ ιδqθε θτιναμ. Θσθ αθγθε ομιτταμ εξπετενδα ει, ετ qθι αετερνο φαβελλασ, τε νατθμ αccθσατα ομιτταντθρ ηασ. Διcτα σεντεντιαε δισσεντιασ qθι νο, πρι cθ σιμθλ νιηιλ. Ηινc δετραξιτ μελ τε, ει μει νοστρο εvερτι δισσεντιθντ.&lt;/p&gt;
+
+&lt;p&gt;Πρι vενιαμ λαθδεμ ετ. Qθο ει vερι ηαβεο. Νε ιθδιcο γραεcε μελιθσ vελ, ναμ τατιον cονσθλατθ ετ. Cονvενιρε αδιπισcινγ cθ εαμ, qθι εξ εροσ απεριαμ cονστιτθτο, θτ vισ αλτερα cετερο εθριπιδισ. Μελ νε νομιναvι περcιπιτθρ. Ατ λεγερε περσιθσ σινγθλισ ηισ, εαμ σονετ ινvενιρε εα.&lt;/p&gt;
+
+&lt;p&gt;Αδ ινανι περιcθλισ ρεφορμιδανσ ναμ, ει vελ ιλλθδ σενσιβθσ. Μεντιτθμ ελιγενδι εοσ αν. Εθ ορατιο cοπιοσαε cθμ, μθνδι δολορ νομιναvι θτ cθμ, εαμ μθνερε λεγερε ρεπρεηενδθντ ιδ. Cθμ ομνεσqθε σθσcιπιαντθρ νε, vερο αβηορρεαντ εα περ, εθμ ετ βρθτε φαcετε μεδιοcρεμ. Εθ πρι ηομερο αππελλαντθρ. Νε vοcιβθσ προβατθσ vελ.&lt;/p&gt;
+
+&lt;p&gt;Ετ σεδ ειθσ πριμισ μοδερατιθσ. Αλτερα βλανδιτ ατ μεα. Δθο σανcτθσ σιγνιφερθμqθε νε. Πρι cθ ρεβθμ νθλλαμ λαβορεσ. Qθι δολορ ποσσιμ ιντεγρε ιδ, ιδ νολθισσε πρινcιπεσ cθμ.&lt;/p&gt;
+
+&lt;p&gt;Cθμ ατ νοβισ αλιqθιδ, εθμ νατθμ πονδερθμ δισσεντιασ τε. Διcατ διcτασ εξπλιcαρι αν προ, νοβισ θλλαμcορπερ εθ δθο. Εξ νεc θβιqθε μοδερατιθσ, ιν οφφιcιισ γλοριατθρ vελ, ιδ cηορο διγνισσιμ σπλενδιδε ιθσ. Cομμθνε φαβελλασ περσεcθτι εθ σεδ, μελ ηαβεο cλιτα αν, cλιτα επιcθρι μοδερατιθσ εστ εα. Σαπερετ γραεcισ ηονεστατισ νε σιτ, σεδ θτ ποσσιτ περτιναξ.&lt;/p&gt;</content><author><name></name></author><category term="Dummy" /><summary type="html">Λορεμ ιπσθμ δολορ σιτ αμετ, νονθμυ δολορεσ πρινcιπεσ εαμ αν, ρεγιονε σθσcιπιτ αccθσατα νε πρι, εα εαμ γραεcο μελιθσ αccθσαμ. Vολθπτθα δισσεντιασ τε ηασ, τε πρι σθασ ηαρθμ αδιπισcινγ. Qθο ατ ιθστο ταcιματεσ, μελ εραντ ρεπθδιανδαε ετ. Ετ τιμεαμ cονcεπταμ αccομμοδαρε νεc, ιδ σεα μελιορε λθπτατθμ. Αδ περσεcθτι cοντεντιονεσ θσθ. Ηομερο νοστρο θταμθρ εαμ εξ.</summary></entry><entry><title type="html">Sample Code - Quick Sort</title><link href="http://localhost:4000/pRoJEct-NeGYa/code-sample/" rel="alternate" type="text/html" title="Sample Code - Quick Sort" /><published>2019-02-04T00:00:00+01:00</published><updated>2019-02-04T00:00:00+01:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/code-sample</id><content type="html" xml:base="http://localhost:4000/pRoJEct-NeGYa/code-sample/">&lt;h2 id=&quot;quick-sort-in-python&quot;&gt;Quick sort in python&lt;/h2&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Python program for implementation of Quicksort Sort 
+&lt;/span&gt;  
+&lt;span class=&quot;c1&quot;&gt;# This function takes last element as pivot, places 
+# the pivot element at its correct position in sorted 
+# array, and places all smaller (smaller than pivot) 
+# to left of pivot and all greater elements to right 
+# of pivot 
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;partition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;low&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; 
+    &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;low&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;         &lt;span class=&quot;c1&quot;&gt;# index of smaller element 
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;pivot&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# pivot 
+&lt;/span&gt;  
+    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;low&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; 
+  
+        &lt;span class=&quot;c1&quot;&gt;# If current element is smaller than or 
+&lt;/span&gt;        &lt;span class=&quot;c1&quot;&gt;# equal to pivot 
+&lt;/span&gt;        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;   &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+          
+            &lt;span class=&quot;c1&quot;&gt;# increment index of smaller element 
+&lt;/span&gt;            &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; 
+            &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; 
+  
+    &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; 
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+  
+&lt;span class=&quot;c1&quot;&gt;# The main function that implements QuickSort 
+# arr[] --&amp;gt; Array to be sorted, 
+# low  --&amp;gt; Starting index, 
+# high  --&amp;gt; Ending index 
+&lt;/span&gt;  
+&lt;span class=&quot;c1&quot;&gt;# Function to do Quick sort 
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;low&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; 
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;low&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; 
+  
+        &lt;span class=&quot;c1&quot;&gt;# pi is partitioning index, arr[p] is now 
+&lt;/span&gt;        &lt;span class=&quot;c1&quot;&gt;# at right place 
+&lt;/span&gt;        &lt;span class=&quot;n&quot;&gt;pi&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;partition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;low&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+  
+        &lt;span class=&quot;c1&quot;&gt;# Separately sort elements before 
+&lt;/span&gt;        &lt;span class=&quot;c1&quot;&gt;# partition and after partition 
+&lt;/span&gt;        &lt;span class=&quot;n&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;low&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pi&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+        &lt;span class=&quot;n&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pi&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;high&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+  
+&lt;span class=&quot;c1&quot;&gt;# Driver code to test above 
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;9&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;len&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;n&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Sorted array is:&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; 
+&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt; 
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;d&quot;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]),&lt;/span&gt; 
+  
+&lt;span class=&quot;c1&quot;&gt;# This code is contributed by Mohit Kumra 
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h2 id=&quot;quick-sort-in-haskell&quot;&gt;Quick sort in haskell&lt;/h2&gt;
+
+&lt;div class=&quot;language-haskell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;n&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;::&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;Ord&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;[]&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;
+    &lt;span class=&quot;kr&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;smallerSorted&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;biggerSorted&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;|&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;-&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;xs&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;kr&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;smallerSorted&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;++&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;biggerSorted&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;quick-sort-in-scheme&quot;&gt;Quick sort in scheme&lt;/h2&gt;
+
+&lt;div class=&quot;language-scheme highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;define&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;lst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;cond&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;null?&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;lst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; empty list is sorted&lt;/span&gt;
+         &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;null?&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cdr&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;lst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; single-element list is sorted&lt;/span&gt;
+     &lt;span class=&quot;nv&quot;&gt;lst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;
+      &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;((&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;pivot&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;car&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;lst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; Select the first element as the pivot&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;rest&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cdr&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;lst&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;append&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; Recursively sort the list of smaller values&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;filter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;rest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; Select the smaller values&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;list&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; Add the pivot in the middle&lt;/span&gt;
+          &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;quicksort&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; Recursively sort the list of larger values&lt;/span&gt;
+            &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;filter&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;lambda&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;nv&quot;&gt;rest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)))))))&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;; Select the larger and equal values&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;quick-sort-in-java&quot;&gt;Quick sort in java&lt;/h2&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;package&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;com.theme.rouge&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;MyQuickSort&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+	
+	&lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[];&lt;/span&gt;
+	&lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+	&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inputArr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+		
+		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;inputArr&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;null&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;||&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inputArr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+			&lt;span class=&quot;k&quot;&gt;return&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;array&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inputArr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;inputArr&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;length&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;length&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+	&lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lowerIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;higherIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+		
+		&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lowerIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;higherIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;// calculate pivot number, I am taking pivot as middle index number&lt;/span&gt;
+		&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pivot&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lowerIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;higherIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lowerIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)/&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;];&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;// Divide into two arrays&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+			&lt;span class=&quot;cm&quot;&gt;/**
+			 * In each iteration, we will identify a number from left side which 
+			 * is greater then the pivot value, and also we will identify a number 
+			 * from right side which is less then the pivot value. Once the search 
+			 * is done, then we exchange both numbers.
+			 */&lt;/span&gt;
+			&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+				&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++;&lt;/span&gt;
+			&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+			&lt;span class=&quot;k&quot;&gt;while&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pivot&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+				&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--;&lt;/span&gt;
+			&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+			&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+				&lt;span class=&quot;n&quot;&gt;exchangeNumbers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+				&lt;span class=&quot;c1&quot;&gt;//move index to next position on both sides&lt;/span&gt;
+				&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;++;&lt;/span&gt;
+				&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;--;&lt;/span&gt;
+			&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+		&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+		&lt;span class=&quot;c1&quot;&gt;// call quickSort() method recursively&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lowerIndex&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lowerIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;higherIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;quickSort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;higherIndex&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+	&lt;span class=&quot;kd&quot;&gt;private&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;exchangeNumbers&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;];&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;];&lt;/span&gt;
+		&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;temp&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+	
+	&lt;span class=&quot;kd&quot;&gt;public&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;static&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;String&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]){&lt;/span&gt;
+		
+		&lt;span class=&quot;nc&quot;&gt;MyQuickSort&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;sorter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;MyQuickSort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+	    &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;[]&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;input&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;24&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;45&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;20&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;75&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;56&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;99&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;53&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;};&lt;/span&gt;
+	    &lt;span class=&quot;n&quot;&gt;sorter&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;sort&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+	    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;nl&quot;&gt;i:&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;){&lt;/span&gt;
+	    	&lt;span class=&quot;nc&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+	    	&lt;span class=&quot;nc&quot;&gt;System&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;out&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot; &quot;&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+	    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+	&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="Sample" /><summary type="html">Quick sort in python</summary></entry><entry><title type="html">Test Toc Level - TOC_LEVEL = 6</title><link href="http://localhost:4000/pRoJEct-NeGYa/sample2/" rel="alternate" type="text/html" title="Test Toc Level - TOC_LEVEL = 6" /><published>2019-01-01T00:00:00+01:00</published><updated>2019-01-01T00:00:00+01:00</updated><id>http://localhost:4000/pRoJEct-NeGYa/sample2</id><content type="html" xml:base="http://localhost:4000/pRoJEct-NeGYa/sample2/">&lt;h2 id=&quot;1-σθασ&quot;&gt;1. σθασ&lt;/h2&gt;
+&lt;p&gt;Λορεμ ιπσθμ δολορ σιτ αμετ, νονθμυ δολορεσ πρινcιπεσ εαμ αν, ρεγιονε σθσcιπιτ αccθσατα νε πρι, εα εαμ γραεcο μελιθσ αccθσαμ. Vολθπτθα δισσεντιασ τε ηασ, τε πρι σθασ ηαρθμ αδιπισcινγ. Qθο ατ ιθστο ταcιματεσ, μελ εραντ ρεπθδιανδαε ετ. Ετ τιμεαμ cονcεπταμ αccομμοδαρε νεc, ιδ σεα μελιορε λθπτατθμ. Αδ περσεcθτι cοντεντιονεσ θσθ. Ηομερο νοστρο θταμθρ εαμ εξ.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-νεc&quot;&gt;2. Νεc&lt;/h2&gt;
+&lt;p&gt;Νεc ιδ λεγερε ρεγιονε διcερετ, vιμ εθ νιβη ιριθρε cορπορα. Αδ vιξ διcο νατθμ εσσεντ. Ιλλθδ αλιqθιδ ει σιτ, δοcτθσ vιδισσε δετραξιτ αν μεα. Ιλλθδ qθανδο ιντεγρε εξ vιμ, εοσ θτ μθνερε τριτανι ποσιδονιθμ, αν cετεροσ περσεqθερισ σιτ. Λατινε δισcερε vοcιβθσ πρι νο, vιμ cθ νοστρο μαλθισσετ vολθπταρια.&lt;/p&gt;
+
+&lt;h3 id=&quot;21-πρι-cθ-αλιι-ειθσ-vιδιτ&quot;&gt;2.1 Πρι cθ αλιι ειθσ vιδιτ&lt;/h3&gt;
+&lt;p&gt;Πρι cθ αλιι ειθσ vιδιτ, vελιτ cονσθλ μαλθισσετ νο θσθ, εσσε εριπθιτ vελ ατ. Σεα δθισ θρβανιτασ cθ, ναμ τε φαcιλισ φαστιδιι πηιλοσοπηια, τε vελ οδιο νισλ. Αδ δεσερθντ δεσερθισσε σθσcιπιαντθρ ναμ. Δθο cασε δελιcατα τε.&lt;/p&gt;
+
+&lt;h3 id=&quot;22-τε-εθμ-διcο-εvερτιτθρ&quot;&gt;2.2 Τε εθμ διcο εvερτιτθρ&lt;/h3&gt;
+&lt;p&gt;Τε εθμ διcο εvερτιτθρ, εαμ λθδθσ cοπιοσαε ελοqθεντιαμ νο. Πρι πθρτο αθτεμ βλανδιτ ιδ. Τε vιταε ομνιθμ ηασ. Vισ ηομερο οcθρρερετ ιν. Ιλλθδ cονσθλ δισπθτατιονι θσθ ατ, θτιναμ σεντεντιαε ιθσ ει, ετ σιμθλ cετεροσ σιτ. Νισλ εξπλιcαρι δισπθτατιονι μελ νε, νεc νε cασε περcιπιτ.&lt;/p&gt;
+
+&lt;h4 id=&quot;221-εραντ-πλατονεμ-πρι-ατ&quot;&gt;2.2.1 Εραντ πλατονεμ πρι ατ&lt;/h4&gt;
+&lt;p&gt;Εραντ πλατονεμ πρι ατ, περ εα ταντασ απεριρι, εα σθμμο ρεγιονε σιτ. Προ εξ ερρορ γλοριατθρ, εθ qθι δεβιτισ λεγενδοσ vιτθπερατοριβθσ, μεισ εθριπιδισ vολθπταρια cθ cθμ. Νο τοτα σcριπσεριτ vιμ. Δολορ μανδαμθσ ερροριβθσ vιμ θτ. Ελειφενδ ηενδρεριτ αδ θσθ.&lt;/p&gt;
+
+&lt;h5 id=&quot;2211-περ-τε-μινιμ-cονcλθδατθρqθε&quot;&gt;2.2.1.1 Περ τε μινιμ cονcλθδατθρqθε&lt;/h5&gt;
+&lt;p&gt;Περ τε μινιμ cονcλθδατθρqθε. Qθι αν vιρτθτε σεντεντιαε. Μεα αδ ιδqθε θτιναμ. Θσθ αθγθε ομιτταμ εξπετενδα ει, ετ qθι αετερνο φαβελλασ, τε νατθμ αccθσατα ομιτταντθρ ηασ. Διcτα σεντεντιαε δισσεντιασ qθι νο, πρι cθ σιμθλ νιηιλ. Ηινc δετραξιτ μελ τε, ει μει νοστρο εvερτι δισσεντιθντ.&lt;/p&gt;
+
+&lt;h6 id=&quot;22111-λαθδεμ&quot;&gt;2.2.1.1.1 λαθδεμ&lt;/h6&gt;
+&lt;p&gt;Πρι vενιαμ λαθδεμ ετ. Qθο ει vερι ηαβεο. Νε ιθδιcο γραεcε μελιθσ vελ, ναμ τατιον cονσθλατθ ετ. Cονvενιρε αδιπισcινγ cθ εαμ, qθι εξ εροσ απεριαμ cονστιτθτο, θτ vισ αλτερα cετερο εθριπιδισ. Μελ νε νομιναvι περcιπιτθρ. Ατ λεγερε περσιθσ σινγθλισ ηισ, εαμ σονετ ινvενιρε εα.&lt;/p&gt;
+
+&lt;p&gt;Αδ ινανι περιcθλισ ρεφορμιδανσ ναμ, ει vελ ιλλθδ σενσιβθσ. Μεντιτθμ ελιγενδι εοσ αν. Εθ ορατιο cοπιοσαε cθμ, μθνδι δολορ νομιναvι θτ cθμ, εαμ μθνερε λεγερε ρεπρεηενδθντ ιδ. Cθμ ομνεσqθε σθσcιπιαντθρ νε, vερο αβηορρεαντ εα περ, εθμ ετ βρθτε φαcετε μεδιοcρεμ. Εθ πρι ηομερο αππελλαντθρ. Νε vοcιβθσ προβατθσ vελ.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-aτε&quot;&gt;3. Aτε&lt;/h2&gt;
+&lt;p&gt;Ετ σεδ ειθσ πριμισ μοδερατιθσ. Αλτερα βλανδιτ ατ μεα. Δθο σανcτθσ σιγνιφερθμqθε νε. Πρι cθ ρεβθμ νθλλαμ λαβορεσ. Qθι δολορ ποσσιμ ιντεγρε ιδ, ιδ νολθισσε πρινcιπεσ cθμ.&lt;/p&gt;
+
+&lt;p&gt;Cθμ ατ νοβισ αλιqθιδ, εθμ νατθμ πονδερθμ δισσεντιασ τε. Διcατ διcτασ εξπλιcαρι αν προ, νοβισ θλλαμcορπερ εθ δθο. Εξ νεc θβιqθε μοδερατιθσ, ιν οφφιcιισ γλοριατθρ vελ, ιδ cηορο διγνισσιμ σπλενδιδε ιθσ. Cομμθνε φαβελλασ περσεcθτι εθ σεδ, μελ ηαβεο cλιτα αν, cλιτα επιcθρι μοδερατιθσ εστ εα. Σαπερετ γραεcισ ηονεστατισ νε σιτ, σεδ θτ ποσσιτ περτιναξ.&lt;/p&gt;</content><author><name></name></author><category term="Dummy" /><summary type="html">1. σθασ Λορεμ ιπσθμ δολορ σιτ αμετ, νονθμυ δολορεσ πρινcιπεσ εαμ αν, ρεγιονε σθσcιπιτ αccθσατα νε πρι, εα εαμ γραεcο μελιθσ αccθσαμ. Vολθπτθα δισσεντιασ τε ηασ, τε πρι σθασ ηαρθμ αδιπισcινγ. Qθο ατ ιθστο ταcιματεσ, μελ εραντ ρεπθδιανδαε ετ. Ετ τιμεαμ cονcεπταμ αccομμοδαρε νεc, ιδ σεα μελιορε λθπτατθμ. Αδ περσεcθτι cοντεντιονεσ θσθ. Ηομερο νοστρο θταμθρ εαμ εξ.</summary></entry></feed>
