@@ -14,11 +14,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <link rel="shortcut icon" type="image/png" href="favicon.ico">
-        <h1><a href="{{ "/" | absolute_url }}"><img src="logo.png"/></a></h1>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+        <link rel="shortcut icon" type="image/png" href="https://dcgc.io/favicon.ico">
+        <h1><a href="{{ "/" | absolute_url }}"><img src="https://dcgc.io/logo.png"/></a></h1>
         <p> Email: <a href="mailto:geral@dcgc.io">{{ site.email | default: site.github.email }}</a> <a href="https://dcgc.io/pgp.asc">PGP</a></p>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
