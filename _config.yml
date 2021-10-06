@@ -6,3 +6,10 @@ email: geral@dcgc.io
 github_username:  dcgc
 gitlab_username:  dcgc
 timezone: 'Europe/Warsaw'
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "default"
