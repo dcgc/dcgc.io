@@ -4,7 +4,7 @@ title: The procession to internship
 categories: infosec
 ---
 
-Trainee: one that is being trained especially for a job. This is the definition according to Merriam-Webster dictionary. This is what we are told when we are learning, when we are starting our learning experience, our developing journey, when we are weeds and when we want to become tall grass. We feel excitement, exhilaration, enthusiasm, and ultimately, it is what we look forward to, when we reach this stage. I could paste here a lot of quotes from famous people (alive or deceased) like many motivational posters do. That would prove the point I am going try to make, of course, but I don’t think I even need to. ![image](https://user-images.githubusercontent.com/3692613/137948421-af5412a6-9079-4ca2-af93-6c9091d649dd.png)
+Trainee: one that is being trained especially for a job. This is the definition according to Merriam-Webster dictionary. This is what we are told when we are learning, when we are starting our learning experience, our developing journey, when we are weeds and when we want to become tall grass. We feel excitement, exhilaration, enthusiasm, and ultimately, it is what we look forward to, when we reach this stage. I could paste here a lot of quotes from famous people (alive or deceased) like many motivational posters do. That would prove the point I am going try to make, of course, but I don’t think I even need to.
 
 ## What is an internship?
 
@@ -28,10 +28,10 @@ Then there are the lies:
 The deal about internships is that they are one of the biggest bullshit *je ne sais quois* things going on, and most of the people involved with it in some form or capacity don't want to admit it. It goes against their own interests. Schools and universities that include it in their programs won't admit it, companies that use them won't admit it, and the students who participate in it won't call out on it because they need it… and so the cycle continues. Due to this, new joiners can end up being a waste of the organization’s time (many employers will tell you that you're great one second, and then dismiss you the next), especially if no adequate resources are allocated: management and recruitment sees them as cheap labour and interns come with unrealistic expectations.
 
 Despite all of this, however, I have to say that even if our experiences in internships were downright awful, they were not a failure and they were an important milestone. When we mature enough to realize that, we truly learn this lesson. There are valuable lessons to be taken away from them and it is a small sample of what you will encounter in the rest of your career: 
-  - A) from a technical standpoint, take note of the technological stack of the company, of the many tools used inside, and try by your own to learn everything (training and feedback on the Internet) and understand how it is applied and used (and how it is not) in the company you are interning for, especially if you are being given the same old boring shitty tasks on a daily basis; it may not look like it, but observing from the sidelines at what is implemented incorrectly, will be beneficial for you down the line (learn from others’ mistakes). 
-  - B) from a relational standpoint, active communication (asking questions when needed, not all the time), assertiveness (meaning being nice and polite to dickheads), and smiling (meaning showing the personality type the company wants) will help you going through the internship and will prove to make it less painful. This is the type of behavior you need to have when working in IT. 
-  - C) from a career standpoint, don’t expect everyone to be on the same level as you and don’t expect everyone to be invested the same way you are, meaning, expect to give a lot and to get little. The more you invest and the more you work, will be beneficial for you in the long-run, but when this work involves helping others, don’t expect a helping hand when it comes time to ask for help (it is human nature, some people will even try to sway you from your path). Don’t get bitter when it occurs, the people who know the most, the people who are more proactive, and the people who work hard, are not necessarily the ones who are the most rewarded; welcome to life, [shit happens](https://pastebin.com/CxwSdWR8). 
-  - D) from a survival standpoint, keep tabs on names, projects and companies where you did your internship, and keep contacts that matter: you don’t want to go back to the mud and where you were unhappy, and you DO want to go to where you think you will be happy and work with the people you had good experience with.
+  - **From a technical standpoint**, take note of the technological stack of the company, of the many tools used inside, and try by your own to learn everything (training and feedback on the Internet) and understand how it is applied and used (and how it is not) in the company you are interning for, especially if you are being given the same old boring shitty tasks on a daily basis; it may not look like it, but observing from the sidelines at what is implemented incorrectly, will be beneficial for you down the line (learn from others’ mistakes). 
+  - **From a relational standpoint**, active communication (asking questions when needed, not all the time), assertiveness (meaning being nice and polite to dickheads), and smiling (meaning showing the personality type the company wants) will help you going through the internship and will prove to make it less painful. This is the type of behavior you need to have when working in IT. 
+  - **From a career standpoint**, don’t expect everyone to be on the same level as you and don’t expect everyone to be invested the same way you are, meaning, expect to give a lot and to get little. The more you invest and the more you work, will be beneficial for you in the long-run, but when this work involves helping others, don’t expect a helping hand when it comes time to ask for help (it is human nature, some people will even try to sway you from your path). Don’t get bitter when it occurs, the people who know the most, the people who are more proactive, and the people who work hard, are not necessarily the ones who are the most rewarded; welcome to life, [shit happens](https://pastebin.com/CxwSdWR8). 
+  - **From a survival standpoint**, keep tabs on names, projects and companies where you did your internship, and keep contacts that matter: you don’t want to go back to the mud and where you were unhappy, and you DO want to go to where you think you will be happy and work with the people you had good experience with.
 
 ## Why you must do a (shitty) internship
 
@@ -50,119 +50,154 @@ Let’s take a look at a job offer from a company I’m familiar with, and under
 
 ### Department/Organization
 >	#DEPARTMENT_NAME is an IT department responsible for all #DEPARTMENT_NAME Applications on the #COMPANY group, supporting bla, bla, bla. 
+
 Official description of the department inside the organization and IT infrastructure, not representative of their real functions.
 
 >	#DEPARTMENT_NAME functions include multiple teams with different roles including architecture, developing, testers and bla, bla, bla. 
+
 Continuation of the official description of the department and detailing what types of roles it has.
 
 >	#DEPARTMENT_NAME aims to link business and IT, enhancing communication and allowing the business to ameliorate itself while following the IT.
+
 Explanation on why IT exists in the company, not necessarily on what you will encounter.
 
 ### Job “Summary”
 
 >	We are currently seeking to recruit a #POSITION_NAME - Trainee. 
+
 Your job title.
 
 >	This is a great opportunity to gain professional experience and develop skills on #WHAT_YOU_DO, including #TECHNOLOGY_NAME and #EXAMPLE_OF_TASK across multiple locations (#DIFFERENT_OFFICES).
+
 Brief description on the envisioned purpose of the role in the department and the “sales pitch”. 
 
 >	The candidate will be working with the #DEPARTMENT_TEAM to understand #BUSINESS_STUFF and assist the #EXTERNAL_OR_INTERNAL_TEAM in #MAIN_TASK supporting the #EXTERNAL_OR_INTERNAL_TEAM.
+
 Brief description on the envisioned daily collaboration and work dynamic of the role in the department.
 
 >	The #PROJECT_NAME implementation supports multiple business stuff within #COMPANY_NAME and bla, bla, bla.
+
 Official description of the “project” your work will be under.
 
 >	The candidate's responsibilities include bla, bla, bla.
+
 Official enumeration of some of the envisioned tasks the position entails.
 
 >	This role plays an important part in #ORGANIZATION_NAME and/or #PRODUCT_OR_SERVICE_NAME. Our ideal candidate will be responsible for a good relationship with the business and ensure requirements are bla, bla, bla.
+
 Official positioning of the role and department inside the company; envisioning expectations for the role.
 
 >	If you enjoy providing #ROLE_DESCRIPTION, we'd like to meet you.
+
 Illusion of friendliness by the company.
 
 ### Key Accountabilities/Responsibilities
 
 >	As #POSITION_NAME - Trainee, you will:
+
 Enumeration of responsibilities commences…
 
 >	Working/work with #INFRASTRUCTURE regarding #DOMAIN/AREA_OF_JOB requirements for #STUFF.
+
 Hint on what technology you will work with.
 
 >	Support other #OTHER_POSITION_NAMES as required.
+
 Who you will work with on a regular basis.
 
 >	Gain knowledge on #TECHNOLOGY_NAME features.
+
 "On-the-job” learning ([“unshit yourself”](https://pastebin.com/JSVfbvrw)).
 
 >	Work in an IT environment with Agile methodologies.
+
 Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF), Department of Defense (DoD) style.
 
 ### Profile and Skills
 
 > #ORGANIZATION_NAME is looking at the following profile:
+
 What you need to “be” in terms of “hard-skills” and work-personality.
 
 >	Relevant third level qualification or currently undertaking qualification.
+
 What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, *funny innit*…
 
 > Excellent analytical skills with strong attention to detail.
+
 You can read and understand text, diagrams, code, etc.
 
 >	Strong communication skills.
 You can speak and be understood in the language you communicate.
 
 >	Ability to work in high pressure industry with strict deadlines.
+
 Ability to not give a fuck when you get shouted at and/or get an unreasonable and unfair task.
 
 >	Knowledge of both the Waterfall and Agile methodologies.
+
 Know fake Agile and have heard about Waterfall from university (because they still teach that crap).
 
 >	Previous experience with #TECHNOLOGY_NAME is desirable.
+
 You need to understand the technology of the position you are applying for.
 
 >	Experience with #TECHNOLOGY_NAME.
+
 You need to understand the technology of the position... yes.
 
 >	Proficiency in #TECHNOLOGY_NAME is desirable.
+
 You need to understand the… again?
 
 >	Willingness to learn
->	Willingness to listen to others (senior teammates), even when they are wrong.
+
+Willingness to listen to others (senior teammates), even when they are wrong.
 
 >	Strong team player
+
 You follow orders and agree with what people say, unconditionally.
 
 >	Fluent in English
+
 You know English from school and television.
 
 >	In addition, you'll need the following key skills:
+
 What you need to “be” in terms of “soft-skills”, life-personality, what qualifications you have and repeated items.
 
 >	Strong relationship and interpersonal skills.
+
 You are not an asshole.
 
 >	Good analytical and problem-solving ability.
+
 You can read and understand text, diagrams… yes.
 
 >	Ability to remain calm under pressure, prioritizing effectively.
+
 Ability to not give a fuck when you get shouted… yes.
 
 >	High level of attention to detail.
+
 You can read and understand text… again?
 
 >	A collaborative approach to your work.
+
 You follow orders and agree with what people say… yes.
 
 >	Education and Knowledge.
+
 You are not a gopnik.
 
 > University degree or equivalent.
+
 You need to have a degree from a university, because that will be the deciding factor for the company accepting you for an interview.
 
 ### Safeguards
 
 > We are proud to be an equal opportunity employer. We do not discriminate against individuals on the basis of race, gender, age, citizenship, religion, sexual orientation, gender identity or expression, disability, bla, bla, bla. We value the unique talents of all our people, who come from diverse backgrounds with different personal experiences and points of view and we are committed to providing an environment of mutual respect.
+
 Do not expect this to be true and this paragraph is a legal requirement by the company so they can save themselves from legal complications regarding shenanigans.
 
 ## So... what else?
