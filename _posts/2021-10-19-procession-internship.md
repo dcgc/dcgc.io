@@ -115,7 +115,7 @@ Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/
 
 ### Profile and Skills
 
-> #ORGANIZATION_NAME is looking at the following profile:
+> The #ORGANIZATION_NAME is looking at the following profile:
 
 What you need to “be” in terms of “hard-skills” and work-personality.
 
@@ -128,6 +128,7 @@ What is an UK-based qualification system doing on a job ad for a position to be 
 You can read and understand text, diagrams, code, etc.
 
 >	Strong communication skills.
+
 You can speak and be understood in the language you communicate.
 
 >	Ability to work in high pressure industry with strict deadlines.
