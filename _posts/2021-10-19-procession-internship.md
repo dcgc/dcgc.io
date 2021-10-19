@@ -95,7 +95,7 @@ Illusion of friendliness by the company.
 
 >	As #POSITION_NAME - Trainee, you will:
 
-Enumeration of responsibilities commences…
+Enumeration of responsibilities commences...
 
 >	Working/work with #INFRASTRUCTURE regarding #DOMAIN/AREA_OF_JOB requirements for #STUFF.
 
@@ -173,11 +173,11 @@ You are not an asshole.
 
 >	Good analytical and problem-solving ability.
 
-You can read and understand text, diagrams… yes.
+You can read and understand text, diagrams... yes.
 
 >	Ability to remain calm under pressure, prioritizing effectively.
 
-Ability to not give a fuck when you get shouted… yes.
+Ability to not give a fuck when you get shouted... yes.
 
 >	High level of attention to detail.
 
@@ -185,7 +185,7 @@ You can read and understand text… again?
 
 >	A collaborative approach to your work.
 
-You follow orders and agree with what people say… yes.
+You follow orders and agree with what people say... yes.
 
 >	Education and Knowledge.
 
@@ -201,6 +201,6 @@ You need to have a degree from a university, because that will be the deciding f
 
 Do not expect this to be true and this paragraph is a legal requirement by the company so they can save themselves from legal complications regarding shenanigans.
 
-## So... what else?
+## So, what else?
 
-Internship is not the place for starting your career, but the place to start learning about your career. Outside of work, start networking with people that matter (you will notice; it can be in person or online). Don't get discouraged if most people you meet are useless and unworthy: most people are and a few aren't. Practice is everything: the more you do it, the better you will get at it. Start off with people in the same boat as you and then work your way up with more senior people. Be prepared to ask good questions to those you network with. Do your homework in advance (investigate and mindmap; it is not stalking, despite what dumbwits will tell you). Internships can be valuable if taken advantage of: you will learn the positives and the negatives and you will have a taste of what is to come...
+Internship is not the place for starting your career, but the place to start learning about your career. Outside of work, start networking with people that matter (you will notice; it can be in person or online). Don't get discouraged if most people you meet are useless and unworthy: most people are and a few aren't. Practice is everything: the more you do it, the better you will get at it. Start off with people in the same boat as you and then work your way up with more senior people. Be prepared to ask good questions to those you network with. Do your homework in advance (investigate and mindmap; it is not stalking, despite what dumbwits will tell you). Internships can be valuable if taken advantage of: you will learn the positives and the negatives and you will have a taste of what is to come.
