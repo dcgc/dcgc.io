@@ -115,7 +115,7 @@ Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/
 
 ### Profile and Skills
 
-> The #ORGANIZATION_NAME is looking at the following profile:
+> Our organization is looking at the following profile:
 
 What you need to “be” in terms of “hard-skills” and work-personality.
 
