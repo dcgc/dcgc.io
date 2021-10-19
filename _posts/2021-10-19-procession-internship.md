@@ -111,7 +111,7 @@ Who you will work with on a regular basis.
 
 >	Work in an IT environment with Agile methodologies.
 
-Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF), Department of Defense (DoD) style.
+Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF).
 
 ### Profile and Skills
 
@@ -121,7 +121,7 @@ What you need to “be” in terms of “hard-skills” and work-personality.
 
 >	Relevant third level qualification or currently undertaking qualification.
 
-What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, *funny innit*…
+What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, *funny innit*...
 
 > Excellent analytical skills with strong attention to detail.
 
