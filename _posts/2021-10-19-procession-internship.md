@@ -111,18 +111,21 @@ Who you will work with on a regular basis.
 
 >	Work in an IT environment with Agile methodologies.
 
-Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF).
+Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
+
 
 ### Profile and Skills
 
+> 
 > Our organization is looking at the following profile:
 
 What you need to “be” in terms of “hard-skills” and work-personality.
 
 >	Relevant third level qualification or currently undertaking qualification.
 
-What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, *funny innit*...
+What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, funny innit.
 
+> 
 > Excellent analytical skills with strong attention to detail.
 
 You can read and understand text, diagrams, code, etc.
@@ -187,9 +190,10 @@ You can read and understand text… again?
 
 You follow orders and agree with what people say... yes.
 
+
 >	Education and Knowledge.
 
-You are not a gopnik.
+You are not a street hood.
 
 > University degree or equivalent.
 
@@ -197,7 +201,10 @@ You need to have a degree from a university, because that will be the deciding f
 
 ### Safeguards
 
-> We are proud to be an equal opportunity employer. We do not discriminate against individuals on the basis of race, gender, age, citizenship, religion, sexual orientation, gender identity or expression, disability, bla, bla, bla. We value the unique talents of all our people, who come from diverse backgrounds with different personal experiences and points of view and we are committed to providing an environment of mutual respect.
+> We are proud to be an equal opportunity employer. We do not discriminate against individuals on the basis of race, 
+> gender, age, citizenship, religion, sexual orientation, gender identity or expression, disability, bla, bla, bla. We 
+> value the unique talents of all our people, who come from diverse backgrounds with different personal experiences and 
+> points of view and we are committed to providing an environment of mutual respect.
 
 Do not expect this to be true and this paragraph is a legal requirement by the company so they can save themselves from legal complications regarding shenanigans.
 
