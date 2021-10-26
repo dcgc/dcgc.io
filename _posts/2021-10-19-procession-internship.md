@@ -235,6 +235,22 @@ Then you have different types of internship that justify the lack of payment, mi
 
   - **Unpaid internships**, also known as "We don't want to pay you, but we will work with you, the same way as our current employees. Do not worry, we swear you will learn new things!". Fortunately, it is not the norm in IT to see unpaid internships, but the gist of it is that the basis for the internship lies on the promise of development/start of the intern's career. What in fact is doing, is lowering the level of admission for newcomers (and the level of quality of workers), having them for free and, more ofthen than not, exploiting them into creating sufficiently enough work.
 
+When in a context of an internship, usually there are several parties involved and responsible for different aspects:
+
+  - Enabler: this is the party responsible for enabling the internship for the intern. It can either be the university and company agreeing on a school-credit internship or it can be the government body establishing a program with benefits for the company to initiate and develop an internship program. As explained before, both are usually enjoying a mutual benefit deal, that in no way benefits the intern (except in the job position opportunity).
+
+  - Maker: this is the party responsible for creating the internship position. It is usually due to the company needing new interns to fill new positions, with the intent of having growing numbers and showing how the company "is growing". The intern will be part of the organization as "one more" and will see that the position he/she is filling in, is nothing particularly interesting.
+
+  - Practitioner: this is the party that will perform the tasks associated with the intership position. They are written on paper and set in stone officialy, making them exacerbated when, in fact, you are faced with...
+
+## Presenteeism and absenteeism
+
+
+
 ## So, what else?
 
-Internship is not the place for starting your career, but the place to start learning about your career. Outside of work, start networking with people that matter (you will notice; it can be in person or online). Don't get discouraged if most people you meet are useless and unworthy: most people are and a few aren't. Practice is everything: the more you do it, the better you will get at it. Start off with people in the same boat as you and then work your way up with more senior people. Be prepared to ask good questions to those you network with. Do your homework in advance (investigate and mindmap; it is not stalking, despite what dumbwits will tell you). Internships can be valuable if taken advantage of: you will learn the positives and the negatives and you will have a taste of what is to come.
+- Internship is not the place for starting your career, but the place to start learning about your career: don’t apply to an internship you don’t want to, the experience isn’t worth the mental anguish doing something you hate. Once you find an internship you’re interested in, do research about it.
+
+- Outside of work, start networking with people that matter (you will notice; it can be in person or online): don't get discouraged if most people you meet are useless and unworthy: most people are and a few aren't. Practice is everything: the more you do it, the better you will get at it. Start off with people in the same boat as you and then work your way up with more senior people. Be prepared to ask good questions to those you network with. Do your homework in advance (investigate and mindmap; it is not stalking, despite what dumbwits will tell you). 
+
+- Internships can be valuable if taken advantage of: you will learn the positives and the negatives and you will have a taste of what is to come.
