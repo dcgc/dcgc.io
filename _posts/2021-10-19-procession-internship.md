@@ -237,11 +237,11 @@ Then you have different types of internship that justify the lack of payment, mi
 
 When in a context of an internship, usually there are several parties involved and responsible for different aspects:
 
-  - Enabler: this is the party responsible for enabling the internship for the intern. It can either be the university and company agreeing on a school-credit internship or it can be the government body establishing a program with benefits for the company to initiate and develop an internship program. As explained before, both are usually enjoying a mutual benefit deal, that in no way benefits the intern (except in the job position opportunity).
+  - **Enabler:** this is the party responsible for enabling the internship for the intern. It can either be the university and company agreeing on a school-credit internship or it can be the government body establishing a program with benefits for the company to initiate and develop an internship program. As explained before, both are usually enjoying a mutual benefit deal, that in no way benefits the intern (except in the job position opportunity).
 
-  - Maker: this is the party responsible for creating the internship position. It is usually due to the company needing new interns to fill new positions, with the intent of having growing numbers and showing how the company "is growing". The intern will be part of the organization as "one more" and will see that the position he/she is filling in, is nothing particularly interesting.
+  - **Maker:** this is the party responsible for creating the internship position. It is usually due to the company needing new interns to fill new positions, with the intent of having growing numbers and showing how the company "is growing". The intern will be part of the organization as "one more" and will see that the position he/she is filling in, is nothing particularly interesting.
 
-  - Practitioner: this is the party that will perform the tasks associated with the intership position. They are written on paper and set in stone officialy, making them exacerbated when, in fact, you are faced with...
+  - **Practitioner:** this is the party that will perform the tasks associated with the intership position. They are written on paper and set in stone officialy, making them exacerbated when, in fact, you are faced with...
 
 ## Presenteeism and absenteeism
 
