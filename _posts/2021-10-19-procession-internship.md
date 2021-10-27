@@ -241,11 +241,7 @@ When in a context of an internship, usually there are several parties involved a
 
   - **Maker:** this is the party responsible for creating the internship position. It is usually due to the company needing new interns to fill new positions, with the intent of having growing numbers and showing how the company "is growing". The intern will be part of the organization as "one more" and will see that the position he/she is filling in, is nothing particularly interesting.
 
-  - **Practitioner:** this is the party that will perform the tasks associated with the intership position. They are written on paper and set in stone officialy, making them exacerbated when, in fact, you are faced with...
-
-## Presenteeism and absenteeism
-
-
+  - **Practitioner:** this is the party that will perform the tasks associated with the internship position. They are written on paper and set in stone officialy, making them exacerbated when you are faced with presenteeism (physically present at the workplace and not operating at maximum capability due to illness, injury, or another condition) and absenteeism (habitual non-presence of an employee at their job) from your colleagues and superiors.
 
 ## So, what else?
 
