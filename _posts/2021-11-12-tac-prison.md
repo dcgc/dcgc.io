@@ -122,3 +122,11 @@ The TAC Engineer title holds authority behind the answer and because of this the
 
 -	To become a good engineer in TAC, you will have to work 10 hsours in an 8-hour shift.
 
+## Why I left
+
+My manager (in a technical team) used to be a project manager and didn't even have a basic knowledge on what I worked with. He also liked to give career advice that he didn't actually possess, and his goals for me didn't get me anywhere while I was there. He had a complete lack of understanding of the things we did actually meant to the customers, industry and company. I left and never looked back, but I am very much grateful for my experience because it showed how bad some positions can be, even under a very well-known brand and it prepared me for the worse for the rest of my career.  Financial restraints and unreasonable budgets are destroying teams and departments that are crucial to the Vendor. A lot of top talent ends up leaving or moving internally and crappy or delusional engineers stay. 
+
+For sure, being outside of a Vendor company can be seen as being an Associate or Beginner in a Vendor company, dealing with multiple different vendors and lacking the depth that you can only obtain when on the “inside”. This holds you back from learning different technologies that only come when you have reached a certain level of depth, only attainable when you work for a Vendor. The downside is that you do not get to see the full picture as people working for the Enterprise customers do. You have a more overall view of what skills you need, concepts you have to master. Even if you change Vendor and go to a similar position, the thought of having to deal with the motivation to change and the effort of starting back at 0 (which would be a shorter tenure for the already experienced) can be quite difficult and changing to a new place does not ensure you of learning a new technology in depth (TAC works differently and has different customers, in different places).
+
+The bottom line for me is that a Product Support position at a Vendor company can be a great place to start your career at because of getting thick-skin and becoming strong mentally (not for technical reasons), but get out when you can, because the world has so much more to offer.
+
