@@ -122,6 +122,16 @@ The TAC Engineer title holds authority behind the answer and because of this the
 
 -	To become a good engineer in TAC, you will have to work 10 hsours in an 8-hour shift.
 
+## Ratings and more metrics
+
+Rating given by the customer at the end of a ticket is separated into three questions:
+
+- How was your experience?: 
+
+- How knowledgeable was the support representative?: 
+
+- Would you recommend support to others?:
+
 ## Why I left
 
 It completely depends on the kind of TAC you're in. Level 1 TAC - you are usually fighting fires, without any time to actually work on cases. Level 2 and above - you do get spare time with the occassional rough patch of truck loads of cases. I was put in a shitshow team and everyone was firefighting and with little time to breath. Also, it was the team with the highest rotation and with more engineers leaving after few weeks or few months.
