@@ -59,3 +59,24 @@ As in a prison, TAC quality depends a lot on the product, people and pervasive e
 **Systems:** Most of the people who work on this domain usually come from the Computer Engineering field and were not good programmers while studying or when they startedw working, or decided to follow an Administration role (normally, between Windows and Linux). They have good understanding of Networking and Operating Systems, some of them are even good at scripting and automating several administration roles and are good at using Vendor applications or tools for Administration purposes (e.g., backups, monitoring, etc.).
 
 **Application:** Most of the people who work on this domain usually come from the Computer Engineering field or from a reconversion program. They studied to become developers and to work in different parts of an Application (e.g., backend, frontend, etc.) or with different Applications altogether (e.g., WebApp, MobileApp, Web Services, etc.). The do not understand much of networking, but in more recent years, developers have begun acquiring an understanding of Operating Systems and Servers (because of underlying architecture serving the applications they develop).
+
+### The People
+
+**Helpers:** the people who you want to work with and interact, they are the people who will help you in need of assistance. Save some of the questions (after researching and doing your part) and ask to them. They will gladly give you a "push" and direct you towards the solution. They usually are team players and care about the team and newcomers. Unfortunately, they are a minority.
+
+**Blockers:** the people who you want to avoid talking on a regular basis but that you want to keep a superficial connection and keep "appearences". These people hate what they do at work and some of them are good at what they do. Because the job sucks and because of lack of perspectives in their career (or lack of opportunities) they have to content with what they have. Because of the grudge and spite they have over the company, but more often than not, because of the envy and hate they have towards other colleagues, they will block others. This can take the form of interpersonal relationship blockage (e.g., gossips) or can take the form of professional blockage (e.g, sabotage). Fortunately, they are a minority.
+
+**Don't Carer:** the people who you can rely on most of the time, because they don't care about consequences. Usually they are exceptional at their job, help others if asked, and do their job rather quick because they don't care about the job. It is just something they do for money and if whatever they need to do to maintain is enough, they will do it. On the other hand, because they are very good, they can change job if they please. Because they don't care.
+
+**Smokers/Kitcheners:** the people who got a need to go smoke outside or go to the kitchen every 30 minutes, because either that is how they operate (hyperactive) to stay focused and motivated for the job, or because they need to "catch a breath". With COVID-19 and Home Office, these people will stop existing.
+
+**Assholer:** the people who are assholes and need to show it to everyone. They smudge it in their colleague's faces. Usually is because they have personal problems, are unsatisfied with their lives, or have envy of other colleagues, but cannnot be better than others.
+
+**Go-To-er:** the people who are always requested by their manager and are always asked questions by their colleagues because they are good enough at what they do, but are gullible to help others (and sometimes work for others) all the time.
+
+**Complainer:** the people who are always complaining, rightfully so or just for the sake of it (doesn't necessary have to be about work). They get energy from it and can inspire others to do the same if the team is in a rough spot. Usually these people pay the price for it, unless they have a favourable spot in the team.
+
+**Ghoster:** the people who are always working in the shadows, delivering results (or not), not knowing where they are and at what time they arrive and leave the office.
+
+## The Partners
+
