@@ -1,3 +1,10 @@
+---
+layout: default
+---
+<p>{{ page.date }} - Written by {{ page.author }}</p>
+
+{{ content }}
+
 {% if site.disqus.shortname %}
   {% include disqus_comments.html %}
 {% endif %}
