@@ -100,3 +100,24 @@ The way a ticket is handled can be seen from different angles: first, the ticket
 
 The TAC Engineer title holds authority behind the answer and because of this there is a huge discrepancy in expectations from customers: you will face irritating customers demanding the silver bullet answer and the single source of truth. You will have to waste time negotiating and decreasing the severity of a ticket and explaining that because something doesn’t work it doesn’t mean the ticket should have critical priority. You will also feel pressure from the customer because you will be challenged several times on your knowledge and expected to be the expert and know the answer right away. The change how customer support is done also contributes to this: instead of TAC being a technical support helpline used by Customer Engineering teams, it is becoming a customer service focused support, having the customer experience/service approach and unifying how support is delivered across all products, and the technical expertise aid being seen as an afterthought.
 
+## The Tickets: Tips for a customer and for an engineer
+
+•	When a support engineer from a Technical Assistance Center actually knows what they're doing and uses good troubleshooting methodology (instead of shooting from the hip), we call it a pleasant surprise. That being said, try not to make support calls where you don't already know the solution. If you don’t know the solution and have tried everything you know and could look for, always open a case/ticket with the utmost priority and ask to transfer the assigned engineer to an American and not to another region in the world, usually they are hard as shit to follow on the phone.
+
+•	Segment your initial case/ticket text and make it perceivable, because not many engineers will bother to read your wall of text: make it short, make it concise and get to the fucking point.
+
+•	Chase up TAC 10 times for a response. Because their first answer will be pasted from their notes (e.g., asking for more data, answering with the easy fix, answering with unrelated answer, answering with bad news).
+
+•	Licensing is a hell so be sure you have licensing up to date before you wait several days for an email saying you will not get support from TAC.
+
+•	Products really are very dependent on TAC, there isn't much you can configure and troubleshoot on your own, so if it is not in the documentation, forum and online KB, go ahead and open a ticket.
+
+•	If you are facing a problem that you do not see documented and discussed by anyone else online, it is a bug. Be ready for a long wait while bug needs to get addressed until next software code release. Products’ code keeps sucking more and more.
+
+•	Troubleshooting: start little first (define scope), collect logs (provided by customer), search for bugs in the relevant software (based on bug platform), look for configuration issues and then you can think about RMA (because RMA is not the end-all-be-all solution).
+
+•	If you are put on hold by a TAC Engineer or if he asks you to wait for a moment, it means he is going around the floor asking for help because he doesn’t know what to do.
+
+•	Talk is cheap: if it is not in the case/ticket notes, it didn’t happen.
+
+•	To become a good engineer in TAC, you will have to work 10 hsours in an 8-hour shift.
