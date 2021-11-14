@@ -62,7 +62,7 @@ categories: infosec
 
 **Reporting:** bullying and mobbing should be reported to an internal resource such as a manager or HR, even if the harassment has not happened to you directly. Reporting helps ensure that the organization knows what is going on, can respond to it appropriately and can watch for broader issues across the organization. And when you do report, you are protected from retaliation. Organization should protect anyone who reports suspected harassment or abusive conduct, or who participates in an investigation into such a report.
 
-**Repercussions:** In the event of bullying and/or mobbing, employees can claim damages in a court proceeding, allowing the employee pressing charges to have the right to a compensation of at least the amount of the minimum remuneration for work. A bullied employee has additional rights if his/her health has deteriorated as a result of bullying/mobbing at work and may claim financial compensation from the employer for the damage suffered, if he/her terminated the employment contract as a result of the incident and long after the event.
+**Repercussions:** In the event of bullying and/or mobbing, employees can claim damages in a court proceeding, allowing the employee pressing charges to have the right to a compensation of at least the amount of the minimum remuneration for work. A bullied employee has additional rights if his/her health has deteriorated as a result of bullying/mobbing at work and may claim financial compensation from the employer for the damage suffered, if he/she terminated the employment contract as a result of the incident and long after the event.
 
 ## Moral of the story
 
