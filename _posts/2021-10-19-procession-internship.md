@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The procession to internship
+title: The procession to Internship
 categories: infosec
 ---
 
