@@ -122,6 +122,8 @@ The TAC Engineer title holds authority behind the answer and because of this the
 
 -	To become a good engineer in TAC, you will have to work 10 hsours in an 8-hour shift.
 
+- If the issue is time-sensitive, call to the hotline (the agent will create the ticket). If the issue is not time-sensitive, create the ticket through the self-service portal.
+
 ## Ratings and more metrics
 
 Rating given by the customer at the end of a ticket is separated into three questions:
