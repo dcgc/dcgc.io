@@ -116,7 +116,7 @@ The TAC Engineer title holds authority behind the answer and because of this the
 
 -	Troubleshooting: start little first (define scope), collect logs (provided by customer), search for bugs in the relevant software (based on bug platform), look for configuration issues and then you can think about RMA (because RMA is not the end-all-be-all solution).
 
--	If you are put on hold by a TAC Engineer or if he asks you to wait for a moment, it means he is going around the floor asking for help because he doesn’t know what to do.
+-	If you are put on hold by a TAC Engineer or if he asks you to wait for a moment, it means he/she is going around the floor asking for help because he/she doesn’t know what to do.
 
 -	Talk is cheap: if it is not in the case/ticket notes, it didn’t happen.
 
@@ -128,11 +128,11 @@ The TAC Engineer title holds authority behind the answer and because of this the
 
 Rating given by the customer at the end of a ticket is separated into three questions:
 
-- How was your experience?: 
+- How was your experience?: typically it contains a biased deposition based on the feelings and emotion of the customer, coming from the customer's perceived  engineer's performance and the satisfaction he/she has based on the solution.
 
-- How knowledgeable was the support representative?: 
+- How knowledgeable was the support representative?: regularly it is answered as "very knowledgable" or "yes" due to the lack of knowledge of the customer (product "gated" knowledge).
 
-- Would you recommend support to others?:
+- Would you recommend support to others?: If the ticket was solved successfully and customer is satisfied, yes. If the ticket was solved successfully and customer is not satisfied, no. If the ticket was closed and the issue was not solved because it does not have solution or is not an issue, and the customer is an asshole, no.
 
 ## Why I left
 
