@@ -10,7 +10,7 @@ categories: infosec
 
 **Donkey Employee:** Hello this is Donkey; I want to report a harassment case in my department and in my team.
 
-**Bulldog HR:** Ah… Sure, of course. Can you tell me what happen?
+**Bulldog HR:** Ah… Sure, of course. Can you tell me what happened?
 
 **Donkey Employee:** Absolutely. I am a donkey in a team of jackasses, and I was told by my colleague that I am not dumb enough for the team, that I should stop giving 100% and not be too smart; that I should go back to the country I came from. That I am not one of the jackasses and that I am a disgrace to the team. This jackass also tells other colleagues from my team the same and encourages them to not speak to me or greet me. I have never faced anything like this, what should I do?
 
