@@ -142,6 +142,8 @@ When collaborating with engineers inside TAC there were two main problems: bad T
 
 Escalations are also a crap-shoot: usually escalation engineers are not cut-out to the issue you are trying to solve. There’s nothing worse than the sinking feeling a TAC Engineer gets when realizing he/she has no clue what to do on a ticket, and that when the internal search fails to return an answer to the problem, you contact escalation engineers, leaving you helpless and leaving the customer even more frustrated. Eventually, you solve the issue, the ticket is closed, and you move on to the next ticket. But it leaves a mark on you and shows you that some of the people who are in certain positions, leave a lot be desired.
 
+Finally, working weekends were called "russian roullete": a lot of the major changes are done outside of business hours by customers (organizations), meaning if there would be a fuck-up by the engineer from the customer side, or the product you supported was acting faulty again, you were in for a treat (a bridge call lasting several hours). Sometimes nothing would happen and the shift would be a breeze. Fortunately most of the time, working on weekends were a voluntary act, but sometimes you were forced to do it because you need to be a "team-player". To be honest... fuck that, weekends are to rest or to work on yourself, not do your main job from the business week. You would make more money, sure, but if you wanted to make more money, you would change to a better job (hint: that is why you improve yourself).
+
 ## Ratings and more metrics
 
 Rating given by the customer at the end of a ticket is separated into three questions and is usually known as the "bingo" score:
