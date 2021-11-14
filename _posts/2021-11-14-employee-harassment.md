@@ -70,4 +70,4 @@ Despite [some good advancements and good outlook](https://anonfiles.com/x2T1e6V1
 
 The moral of the story is that you shouldn’t be a donkey (dumb and small) and you should know better than to expect justice from places that do not look for the best of interest regarding its employees. Inclusion and Diversity are words that look good in Marketing. “Lay low”, do your thing (whatever it is) and then move on to the next place. Because organizations are full of very stupid employees (really), jackasses are promoted and looked upon.
 
-Now... are you going to be a donkey, a jackass or a working horse?
+Now... are you going to be a donkey, a jackass or a stallion?
