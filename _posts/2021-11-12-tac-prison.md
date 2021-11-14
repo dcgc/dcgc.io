@@ -68,7 +68,7 @@ As in a prison, TAC quality depends a lot on the product, people and pervasive e
 
 **Don't Carer:** the people who you can rely on most of the time, because they don't care about consequences. Usually they are exceptional at their job, help others if asked, and do their job rather quick because they don't care about the job. It is just something they do for money and if whatever they need to do to maintain is enough, they will do it. On the other hand, because they are very good, they can change job if they please. Because they don't care.
 
-**Smokers/Kitcheners:** the people who got a need to go smoke outside or go to the kitchen every 30 minutes, because either that is how they operate (hyperactive) to stay focused and motivated for the job, or because they need to "catch a breath". With COVID-19 and Home Office, these people will stop existing.
+**Smokers/Kitcheners:** the people who got a need to go smoke outside or go to the kitchen every 30 minutes, because either that is how they operate (hyperactive) to stay focused and motivated for the job, or because they need to "catch a breath". With COVID-19 and Home Office, these people have less opportunity to do so, hiding "in plain sight".
 
 **Assholer:** the people who are assholes and need to show it to everyone. They smudge it in their colleague's faces. Usually is because they have personal problems, are unsatisfied with their lives, or have envy of other colleagues, but cannnot be better than others.
 
