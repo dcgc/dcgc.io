@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A dialogue between an Employee and Human Resources
+title: A conversation between an Employee and HR
 categories: infosec
 ---
 
