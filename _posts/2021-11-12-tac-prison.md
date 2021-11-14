@@ -130,7 +130,7 @@ Finally, after some time working as a TAC engineer, you will have the nightmare 
 
 - If you want shit and giggles, put the customer on the speaker phone and have a good time with the team.
 
-- As a TAC Engineer, when filling a bug seen on a ticket, make sure it was not reported previously. You want to report meaningful bugs, not junk bugs.
+- As a TAC Engineer, when filling a bug seen on a ticket, make sure it was not reported previously. You want to report meaningful bugs, not junk bugs, as this will label you worth by the development team.
 
 ## Collaboration and Routine
 
