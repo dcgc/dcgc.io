@@ -25,3 +25,5 @@ Don't be like Cruella de Vil:
 - Security planning, operations and engineering is a teamwork: you talk and have a say in things but so do others.
 
 - Be responsible: own your actions and stop using other people for your deeds.
+
+- Don't be evil: it is a tiring trope, we have seen it already. You can stop, ok?
