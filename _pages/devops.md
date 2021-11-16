@@ -1,3 +1,9 @@
+---
+layout: post
+title: DevOps
+permalink: /devops
+---
+
 # Prelude to DevOps - the Need for Speed
 
 Competition and business innovation is driving the need for speed:
