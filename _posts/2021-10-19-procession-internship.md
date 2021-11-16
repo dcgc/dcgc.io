@@ -106,115 +106,111 @@ Illusion of friendliness by the company.
 
 ### Key Accountabilities/Responsibilities
 
->	As #POSITION_NAME - Trainee, you will:
+-	*As #POSITION_NAME - Trainee, you will:*
 
 Enumeration of responsibilities commences...
 
->	Working/work with #INFRASTRUCTURE regarding #DOMAIN/AREA_OF_JOB requirements for #STUFF.
+-	*Working/work with #INFRASTRUCTURE regarding #DOMAIN/AREA_OF_JOB requirements for #STUFF.*
 
 Hint on what technology you will work with.
 
->	Support other #OTHER_POSITION_NAMES as required.
+-	*Support other #OTHER_POSITION_NAMES as required.*
 
 Who you will work with on a regular basis.
 
->	Gain knowledge on #TECHNOLOGY_NAME features.
+-	*Gain knowledge on #TECHNOLOGY_NAME features.*
 
 "On-the-job” learning ([“unshit yourself”](https://pastebin.com/JSVfbvrw)).
 
->	Work in an IT environment with Agile methodologies.
+-	*Work in an IT environment with Agile methodologies.*
 
 Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
 ### Profile and Skills
 
-> Our organization is looking at the following profile:
+- *Our organization is looking at the following profile:*
 
 What you need to “be” in terms of “hard-skills” and work-personality.
 
->	Relevant third level qualification or currently undertaking qualification.
+-	*Relevant third level qualification or currently undertaking qualification.*
 
 What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, funny innit.
 
-> Excellent analytical skills with strong attention to detail.
+- *Excellent analytical skills with strong attention to detail.*
 
 You can read and understand text, diagrams, code, etc.
 
->	Strong communication skills.
+-	*Strong communication skills.*
 
 You can speak and be understood in the language you communicate.
 
->	Ability to work in high pressure industry with strict deadlines.
+-	*Ability to work in high pressure industry with strict deadlines.*
 
 Ability to not give a fuck when you get shouted at and/or get an unreasonable and unfair task.
 
->	Knowledge of both the Waterfall and Agile methodologies.
+-	*Knowledge of both the Waterfall and Agile methodologies.*
 
 Know fake Agile and have heard about Waterfall from university (because they still teach that crap).
 
->	Previous experience with #TECHNOLOGY_NAME is desirable.
+-	*Previous experience with #TECHNOLOGY_NAME is desirable.*
 
 You need to understand the technology of the position you are applying for.
 
->	Experience with #TECHNOLOGY_NAME.
+-	*Experience with #TECHNOLOGY_NAME.*
 
 You need to understand the technology of the position... yes.
 
->	Proficiency in #TECHNOLOGY_NAME is desirable.
+-	*Proficiency in #TECHNOLOGY_NAME is desirable.*
 
 You need to understand the… again?
 
->	Willingness to learn
+-	*Willingness to learn*
 
 Willingness to listen to others (senior teammates), even when they are wrong.
 
->	Strong team player
+-	*Strong team player*
 
 You follow orders and agree with what people say, unconditionally.
 
->	Fluent in English
+-	*Fluent in English*
 
 You know English from school and television.
 
->	In addition, you'll need the following key skills:
+-	*In addition, you'll need the following key skills:*
 
 What you need to “be” in terms of “soft-skills”, life-personality, what qualifications you have and repeated items.
 
->	Strong relationship and interpersonal skills.
+-	*Strong relationship and interpersonal skills.*
 
 You are not an asshole.
 
->	Good analytical and problem-solving ability.
+- *Good analytical and problem-solving ability.*
 
 You can read and understand text, diagrams... yes.
 
->	Ability to remain calm under pressure, prioritizing effectively.
+-	*Ability to remain calm under pressure, prioritizing effectively.*
 
 Ability to not give a fuck when you get shouted... yes.
 
->	High level of attention to detail.
+-	*High level of attention to detail.*
 
 You can read and understand text… again?
 
->	A collaborative approach to your work.
+-	*A collaborative approach to your work.*
 
 You follow orders and agree with what people say... yes.
 
-
->	Education and Knowledge.
+-	*Education and Knowledge.*
 
 You are not a street hood.
 
-> University degree or equivalent.
+- *University degree or equivalent.*
 
 You need to have a degree from a university, because that will be the deciding factor for the company accepting you for an interview.
 
 ### Safeguards
 
-> We are proud to be an equal opportunity employer. We do not discriminate against individuals on the basis of race, 
-> gender, age, citizenship, religion, sexual orientation, gender identity or expression, disability, bla, bla, bla. We 
-> value the unique talents of all our people, who come from diverse backgrounds with different personal experiences and 
-> points of view and we are committed to providing an environment of mutual respect.
+- *We are proud to be an equal opportunity employer. We do not discriminate against individuals on the basis of race, gender, age, citizenship, religion, sexual orientation, gender identity or expression, disability, bla, bla, bla. We value the unique talents of all our people, who come from diverse backgrounds with different personal experiences and points of view and we are committed to providing an environment of mutual respect.*
 
 Do not expect this to be true and this paragraph is a legal requirement by the company so they can save themselves from legal complications regarding shenanigans.
 
