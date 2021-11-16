@@ -15,3 +15,5 @@ defaults:
       layout: "default"
 disqus:
   shortname: duartecastelograndedecarvalho
+include:
+   - _pages
