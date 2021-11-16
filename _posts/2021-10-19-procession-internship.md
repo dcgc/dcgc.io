@@ -62,45 +62,45 @@ A bullshit job is a job which is pointless. A firm believer of the job enjoys an
 Let’s take a look at a job offer from a company I’m familiar with, and understand what they look for in a trainee/intern, so as to grasp what are the expectations we can assume from this opportunity.
 
 ### Department/Organization
->	#DEPARTMENT_NAME is an IT department responsible for all #DEPARTMENT_NAME Applications on the #COMPANY group, supporting bla, bla, bla. 
+-	*#DEPARTMENT_NAME is an IT department responsible for all #DEPARTMENT_NAME Applications on the #COMPANY group, supporting bla, bla, bla.*
 
 Official description of the department inside the organization and IT infrastructure, not representative of their real functions.
 
->	#DEPARTMENT_NAME functions include multiple teams with different roles including architecture, developing, testers and bla, bla, bla. 
+-	*#DEPARTMENT_NAME functions include multiple teams with different roles including architecture, developing, testers and bla, bla, bla.*
 
 Continuation of the official description of the department and detailing what types of roles it has.
 
->	#DEPARTMENT_NAME aims to link business and IT, enhancing communication and allowing the business to ameliorate itself while following the IT.
+- *#DEPARTMENT_NAME aims to link business and IT, enhancing communication and allowing the business to ameliorate itself while following the IT.*
 
 Explanation on why IT exists in the company, not necessarily on what you will encounter.
 
 ### Job “Summary”
 
->	We are currently seeking to recruit a #POSITION_NAME - Trainee. 
+-	*We are currently seeking to recruit a #POSITION_NAME - Trainee.*
 
 Your job title.
 
->	This is a great opportunity to gain professional experience and develop skills on #WHAT_YOU_DO, including #TECHNOLOGY_NAME and #EXAMPLE_OF_TASK across multiple locations (#DIFFERENT_OFFICES).
+-	*This is a great opportunity to gain professional experience and develop skills on #WHAT_YOU_DO, including #TECHNOLOGY_NAME and #EXAMPLE_OF_TASK across multiple locations (#DIFFERENT_OFFICES).*
 
 Brief description on the envisioned purpose of the role in the department and the “sales pitch”. 
 
->	The candidate will be working with the #DEPARTMENT_TEAM to understand #BUSINESS_STUFF and assist the #EXTERNAL_OR_INTERNAL_TEAM in #MAIN_TASK supporting the #EXTERNAL_OR_INTERNAL_TEAM.
+-	*The candidate will be working with the #DEPARTMENT_TEAM to understand #BUSINESS_STUFF and assist the #EXTERNAL_OR_INTERNAL_TEAM in #MAIN_TASK supporting the #EXTERNAL_OR_INTERNAL_TEAM.*
 
 Brief description on the envisioned daily collaboration and work dynamic of the role in the department.
 
->	The #PROJECT_NAME implementation supports multiple business stuff within #COMPANY_NAME and bla, bla, bla.
+-	*The #PROJECT_NAME implementation supports multiple business stuff within #COMPANY_NAME and bla, bla, bla.*
 
 Official description of the “project” your work will be under.
 
->	The candidate's responsibilities include bla, bla, bla.
+-	*The candidate's responsibilities include bla, bla, bla.*
 
 Official enumeration of some of the envisioned tasks the position entails.
 
->	This role plays an important part in #ORGANIZATION_NAME and/or #PRODUCT_OR_SERVICE_NAME. Our ideal candidate will be responsible for a good relationship with the business and ensure requirements are bla, bla, bla.
+-	*This role plays an important part in #ORGANIZATION_NAME and/or #PRODUCT_OR_SERVICE_NAME. Our ideal candidate will be responsible for a good relationship with the business and ensure requirements are bla, bla, bla.*
 
 Official positioning of the role and department inside the company; envisioning expectations for the role.
 
->	If you enjoy providing #ROLE_DESCRIPTION, we'd like to meet you.
+-	*If you enjoy providing #ROLE_DESCRIPTION, we'd like to meet you.*
 
 Illusion of friendliness by the company.
 
@@ -126,10 +126,8 @@ Who you will work with on a regular basis.
 
 Every company uses “Fake Agile”, [get used to it](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 
-
 ### Profile and Skills
 
-> 
 > Our organization is looking at the following profile:
 
 What you need to “be” in terms of “hard-skills” and work-personality.
@@ -138,7 +136,6 @@ What you need to “be” in terms of “hard-skills” and work-personality.
 
 What is an UK-based qualification system doing on a job ad for a position to be taken in a country outside of UK, funny innit.
 
-> 
 > Excellent analytical skills with strong attention to detail.
 
 You can read and understand text, diagrams, code, etc.
