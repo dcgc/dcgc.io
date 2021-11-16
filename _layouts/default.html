@@ -35,7 +35,17 @@
         {% endfor %}
         </ul>
         
-        <p><a href="https://dcgc.io/ue.md">Unreal Engine</a></p>
+        <ul>
+        {% for category in site.categories %}
+          <li><b>{{ category | first }}</b>
+        <ul>
+        {% for post in category.last %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+        </ul>
+        </li>
+        {% endfor %}
+        </ul>
         
       </section>
       <footer>
