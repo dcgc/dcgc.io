@@ -17,3 +17,4 @@ disqus:
   shortname: duartecastelograndedecarvalho
 include:
    - _pages
+   - _posts 
