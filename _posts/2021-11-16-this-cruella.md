@@ -15,3 +15,13 @@ Cruella is known to be mean and rude, frequently barging into other people's bus
 Cruella is known to be short-tempered. She gets annoyed easily with Jasper and Horace's foolishness and throws a tantrum when things don't go her way. Her anger seems to be a problem, as it makes her reckless and impulsive, as she drove her team and department into a ravine. She may also be bipolar, as she is prone to psychotic fits; her reckless management is a prime example. This happened again and again when she tried to build Security Operations, only to end up being a “drag and drop” kid’s play doodles. However, she did seem to be a slightly reasonable woman in her actions, as she attempted to reasonably parlays with HR, as to dismiss several people, becoming clear that it was the only way for her to maintain her power.
 
 Cruella de Vil, Cruella de Vil. If she doesn't scare you, no evil thing will. To see her is to take a sudden chill. Her menacing pose, the ice in her stare. All innocent employees had better beware. She's like a spider waiting for the kill. At first you think Cruella is the devil, but after time has worn away the surprise, you come to realize, you've seen her kind of eyes, watching you from very far (from her pedestal). Watch out, don’t gamble your future.
+
+Don't be like Cruella de Vil:
+
+- ["Bitches get stitches"](https://pastebin.com/hyxtUu1K) but ["snitches get stitches"](https://pastebin.com/Wk2wzpFv), so it works both ways.
+
+- Stay relevant in your position (manager) by your contribution: your usefulness dictates your success, not your name or who you are.
+
+- Security planning, operations and engineering is a teamwork: you talk and have a say in things but so do others.
+
+- Be responsible: own your actions and stop using other people for your deeds.
