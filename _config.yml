@@ -15,4 +15,3 @@ defaults:
       layout: "default"
 disqus:
   shortname: duartecastelograndedecarvalho
-baseurl: "/"
