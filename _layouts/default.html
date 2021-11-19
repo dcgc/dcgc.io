@@ -19,14 +19,18 @@
         <p>The opinions expressed herein are my own and do not represent my employer’s views in any way. Nothing posted here should be considered official or sanctioned by my employer or any other organization I’m affiliated with.</p>
         <p> Email: <a href="mailto:geral@dcgc.io">{{ site.email | default: site.github.email }}</a> <a href="https://dcgc.io/pgp.asc">PGP</a></p>
         <p> <a href="https://github.com/dcgc"><img style="max-height: 50px; max-width: 50px;" src="https://dcgc.io/icone-github-rouge.png"/></a><a href="https://gitlab.com/dcgc"><img style="max-height: 50px; max-width: 50px;" src="https://dcgc.io/gitlab-logo.png"/></a></p>
-        <p style="margin:0"> <a href="{{ "/threat-intelligence/" | absolute_url }}">Threat Intelligence</a></p>
-        <p style="margin:0"> <a href="{{ "/cloud-security/" | absolute_url }}">Cloud Security</a></p>
-        <p style="margin:0"> <a href="{{ "/devops/" | absolute_url }}">DevOps</a></p>
-        <p style="margin:0"> <a href="{{ "/unreal-engine/" | absolute_url }}">Unreal Engine</a></p>
         <p></p>
       </header>
       <section>
         {{ content }}
+      </section>
+      <section>
+        <p style="margin:0"> <a href="{{ "/threat-intelligence/" | absolute_url }}">Threat Intelligence</a></p>
+        <p style="margin:0"> <a href="{{ "/cloud-security/" | absolute_url }}">Cloud Security</a></p>
+        <p style="margin:0"> <a href="{{ "/audit/" | absolute_url }}">Auditing Networks, Perimeters & Systems</a></p>
+        <p style="margin:0"> <a href="{{ "/ids/" | absolute_url }}">Network Intrusion Detection</a></p>
+        <p style="margin:0"> <a href="{{ "/devops/" | absolute_url }}">DevOps</a></p>
+        <p style="margin:0"> <a href="{{ "/unreal-engine/" | absolute_url }}">Unreal Engine</a></p>
       </section>
       <footer>
         <p><b>Duarte Castelo Grande de Carvalho</b></p>
