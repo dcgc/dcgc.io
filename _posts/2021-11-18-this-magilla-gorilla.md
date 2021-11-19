@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Magilla Gorilla and his bananas
+title: This is Magilla Gorilla
 categories: infosec
 ---
 
