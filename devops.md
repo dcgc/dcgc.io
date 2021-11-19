@@ -3,7 +3,6 @@ layout: page
 title: DevOps
 categories: notes
 permalink: /devops/
-
 ---
 
 # Prelude to DevOps - the Need for Speed
