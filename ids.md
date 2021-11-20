@@ -5,4 +5,3 @@ categories: notes
 permalink: /ids/
 ---
 
-# Network Intrusion Detection
