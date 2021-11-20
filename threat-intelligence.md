@@ -5,4 +5,3 @@ categories: notes
 permalink: /threat-intelligence/
 ---
 
-# Threat Intelligence
