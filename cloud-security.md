@@ -5,4 +5,3 @@ categories: notes
 permalink: /cloud-security/
 ---
 
-# Cloud Security
