@@ -5,4 +5,3 @@ categories: notes
 permalink: /audit/
 ---
 
-# Auditing Networks, Perimeters & Systems
