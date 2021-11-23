@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Managed Shitty Services
+title: MSS - Managed Shitty Services
 categories: infosec
 ---
