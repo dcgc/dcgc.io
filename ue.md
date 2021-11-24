@@ -204,3 +204,17 @@ Most objects in a level/world are static (actor not intended to move or update d
 **Stationary mobility:** actor that does not move by itself, but can be changed by action from external (for example, objects you can move, bomb from gun, etc.)
 
 **Movable mobility:** actor that moves and state is altered by itself or by another object.
+
+
+**PlayerStart Actor:** defines where the player will start the level.
+  BadSize icon on PlayerStart will say that the starting position for the player is not valid (e.g., clipping on floor).
+
+
+**Component** is a group of actors combined together. You start by adding an actor to the level, and then, on the properties, with the add button, you select another actor to be added as a component. For example, static mesh of cylinder and then component of spotlight on one of the ends of the cylinder, to make a flashlight. When the actor is rotated or moved in an axis, all the components are also rotated and/or moved based on the root of the center of the actor.
+
+
+**Movement Actor:** adds movement to a object.
+  {Rotating Component} Rotation Rate: the speed at which it rotates.
+  {Rotating Component} Pivot Translation: distance of rotation within the center, if it rotates itself, rotates around, etc.
+  
+Volumes: 
