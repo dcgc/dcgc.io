@@ -112,7 +112,11 @@ DirectionalLight Properties:
     Cast Shadows on Cloud: cast any shadows from opaque meshes onto clouds.
     Cast Shadows on Atmosphere: cast any shadows from opaque meshes into the atmosphere when a SkyAtmosphere is used.
     Cast Cloud Shadows: cast any shadows from the clouds onto the atmosphere and other scene elements.
+    Cloud Scattered Luminance Scale : color of the clouds.
     CTRL+L with mouse, is a shortcut for rotating the Sun in any axis.
+    
+SkyLight Properties:
+
     
 AtmosphericFog Actor (old way): provide a realistic sense of atmosphere, air density, and light scattering through atmospheric media.
   
