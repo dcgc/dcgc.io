@@ -80,7 +80,7 @@ Temperature (enable/tick the box): it changes the color of the light (warm/cold 
 
 Affects the World is an option to enable/disable the light (effect in the level).
 
-Cast Shadows is an option to disable/enable shadows created from the light (can be used for performance saving).
+Cast Shadows is an option to disable/enable shadows created from the light (can be used for performance saving). A lot of objects have the same property (property of material of objects).
 
 Indirect Lighting Intensity: reflected lights that can light an object in a level.
 
