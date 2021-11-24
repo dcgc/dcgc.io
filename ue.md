@@ -74,7 +74,7 @@ If Directional light is movable, it can move and change other properties during 
 
 Intensity of the light changes the intensity (amount/brightness) of the light.
 Color Picket gives the color for the light.
-Source Angle and Source Soft Angle determines how soft the edges of the light will be. This is to create the effect of hard and soft shadows when casting light into an object and/or scene. The higher the volume, the softer the lights. It uses the Ray Tracing functionality for this.
+Source Angle and Source Soft Angle determines how soft the edges of the light will be. This is to create the effect of hard and soft shadows when casting light into an object and/or scene. The higher the volume, the softer the lights. On top of both properties, you can put Ray Tracing functionality for reflective lighting properties.
 
 Temperature (enable/tick the box): it changes the color of the light (warm/cold light).
 
