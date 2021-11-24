@@ -106,11 +106,34 @@ Rectlight/Spotlight Properties:
   Barn Door Lenght: the size of the visors on the spotlight/rectlight.
   Source texture: it is to cast the light with a filter (texture).
 
-Skylight Properties:
+DirectionalLight Properties:
+  Atmosphere and Cloud Section:
+    Atmosphere Sun Light: the AtmosphereFog actor will use rotation of DirectionalLight actor to determine where the Sun disk should be placed in the sky. 
+    Cast Shadows on Cloud: cast any shadows from opaque meshes onto clouds.
+    Cast Shadows on Atmosphere: cast any shadows from opaque meshes into the atmosphere when a SkyAtmosphere is used.
+    Cast Cloud Shadows: cast any shadows from the clouds onto the atmosphere and other scene elements.
+    CTRL+L with mouse, is a shortcut for rotating the Sun in any axis.
+    
+AtmosphericFog Actor (old way): provide a realistic sense of atmosphere, air density, and light scattering through atmospheric media.
+  
+BP_SkySphere Actor (old way): physically-based sky and atmosphere-rendering technique, provides clouds to the level.
 
-
-  Atmospheric Fog Actor:
-  Sky Sphere Actor:
+Sky Atmosphere Actor (new way, for both previous actors): can more acuratelly render how a sky should look like at different times of a day (Sun position). Allows for smoother transition from ground to atmosphere (outer space).
+  Sky Atmosphere Properties:
+    {Atmosphere} Multiscattering: defines how much of the sun light scatters or reflects/bounces on the atmosphere (maximum is 1.0).
+    {Planet} Transform Mode: used to define where the bounds of the Planet should exist based on the location/position of the Sky Atmosphere Actor.
+        Planet Top at Absolute World Position: puts the ground level (surface of the Planet) of atmosphere at world origin coordinates (0,0,0) in the scene. Sky Atmosphere is not movable when this option is selected. 
+        Planet Top at Component Transform: puts ground level (surface of the Planet) of atmosphere relative to component's transform origin. Moving Sky Atmosphere, moves atmosphere within the level. Actor
+        Planet Center at Component Transform: puts atmosphere centered to the component's transform origin. Moving Sky Atmosphere, moves atmosphere within the level.
+    {Planet} Ground Albedo: determines the color of the light that is reflected.
+    {Atmosphere Rayleigh} Rayleigh Scattering: determines the densedity of the scattering of the "color" of sky depending on Sun position or time of day, due to smaller particles. Example, sky appears red or more yellow/orange at sunset due to the Sun casting light to less of the sky and therefore less particles (less dense air), giving this effect. When the Sun is high in the sky, the sky is bluer or blue and we sees less of the red (more dense air) because of more particles in the sky.
+    {Atmosphere Rayleigh} Rayleigh Exponential Distribute: how high up you have to go in order for the air to get less dense.
+    {Atmosphere Mie} Mie Scattering: involves light scattering due larger particles such as dust or air pollution. Example, use this effect to create a haze or dust effect from a desert, or to create a regular fog.
+    {Atmosphere Absorption} Absorption Scale: set how much light gets absorved in the atmosphere.
+    
+VolumetricCloud actor: you can customize the appearence of the clouds. More realistic clouds.
+    Layer Bottom Altitude: specifies distance from the ground in Km, for the clouds.
+    Layer Height: specifies distance from the ground in Km, for the clouds to stop appearing.
   
 Unreal Engine is the program to run games,
 Unreal Editor is the application to create games with Unreal Engine, that play with Unreal Engine.
