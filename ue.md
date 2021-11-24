@@ -72,6 +72,46 @@ If Directional light is static, cannot change lightness, color during the game.
 If Directional light is stationary cannot move but can change lightness, color during the game.
 If Directional light is movable, it can move and change other properties during the game.
 
+Intensity of the light changes the intensity (amount/brightness) of the light.
+Color Picket gives the color for the light.
+Source Angle and Source Soft Angle determines how soft the edges of the light will be. This is to create the effect of hard and soft shadows when casting light into an object and/or scene. The higher the volume, the softer the lights. It uses the Ray Tracing functionality for this.
+
+Temperature (enable/tick the box): it changes the color of the light (warm/cold light).
+
+Affects the World is an option to enable/disable the light (effect in the level).
+
+Cast Shadows is an option to disable/enable shadows created from the light (can be used for performance saving).
+
+Indirect Lighting Intensity: reflected lights that can light an object in a level.
+
+Volumetric Scattering Intensity - it is lighting related with fog.
+
+Pointlight/Spotlight Properties:
+Radius:
+  Attenuation Radius: Sets the reach of the light and defines what objects it will affect; serves as the outer bounds when calculating the falloff of the light.
+  Source Radius: simulates the size of the light source.
+  Soft Source Radius: you can set how full/gradient your light is (inside of what you set for source radius).
+  Source Length: gives elongated or tube-like reflective shape, as if the light were coming form a fluorescent light fixture.
+
+Spotlight Properties:
+Light cones: 
+  Spotlight emits light from a single point in a cone shape. Users are given two cones to shape the light - the Inner Cone Angle and Outer Cone Angle.
+  Set the outer cone angle greater than the inner cone angle to create a soft-edged spotlight. Set the inner cone agle greater than the outer to create a hard-edged spotlight. 
+  With inner light, you set the strong/real light size. With outer light, you set the dimmer light / fallout portion light size.
+  This effect is done on real spotlights with the barn doors (visors/flaps) on the sides of the light.
+  
+Rectlight/Spotlight Properties:
+  Source Width/Height: size of light.
+  Barn Door Angle: the angle of the visors on the spotlight/rectlight.
+  Barn Door Lenght: the size of the visors on the spotlight/rectlight.
+  Source texture: it is to cast the light with a filter (texture).
+
+Skylight Properties:
+
+
+  Atmospheric Fog Actor:
+  Sky Sphere Actor:
+  
 Unreal Engine is the program to run games,
 Unreal Editor is the application to create games with Unreal Engine, that play with Unreal Engine.
 Play button uses Unreal Engine.
