@@ -5,6 +5,24 @@ categories: notes
 permalink: /devops/
 ---
 
+Requirements:
+
+- DevOps
+- Cloud Computing: Azure
+- Experience with Metrics: Grafana, Prometheus
+- Experience with Logging: Splunk
+- Experience with Tracing: Jaeger, OpenTracing, OpenCensus
+- Strong understanding of Site Reliability Engineering (SRE) concepts
+- Understanding of SLIs, SLOs and SLAs from the service level to the business level
+- Understanding of various types of proactive monitoring needs of production systems including infrastructure monitoring, synthetic monitoring & application performance monitoring
+- Experience with APM: Dynatrace, New Relic, App Dynamics, DataDog to analyze application performance
+- Agile methodologies such as Scrum with focus on Continuous Integration and Deployment
+- Good understanding of data architecture concepts
+- Software documentation (Confluence)
+- Project Management Tool (Jira)
+- Excellent planning and communication skills
+- Team player with willingness to collaborate
+
 # Prelude to DevOps - the Need for Speed
 
 Competition and business innovation is driving the need for speed:
