@@ -237,3 +237,12 @@ Most objects in a level/world are static (actor not intended to move or update d
   
   
   Group Actors: CTRL + G
+  
+  
+**Blueprints**
+- Level Blueprints: hold data and instructions for a level. You typically use this type of blueprint for data only specific to a level.
+- Blueprints Classes: turn actor/asset into blueprint. You typically use this type of blueprint only for data related to an object or group of objects from a level/world. You can have several instances of a blueprint.
+
+**Variables**
+
+**Functions**
