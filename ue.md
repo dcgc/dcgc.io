@@ -217,4 +217,23 @@ Most objects in a level/world are static (actor not intended to move or update d
   {Rotating Component} Rotation Rate: the speed at which it rotates.
   {Rotating Component} Pivot Translation: distance of rotation within the center, if it rotates itself, rotates around, etc.
   
-Volumes: 
+**Volumes:** static meshes invisible to a player.
+  Blocking volume: prevent actors to enter that volume.
+  Camera Blocking Volume: like a blocking volume but prevents/blocks camera to enter that volume (e.g., blocing camera in specific areas in 3rd person games).
+  Trigger Volume: triggers events, when an actor enters or exits the volume.
+  Pain causing volume: causes damage to an actor when entering the volume.
+    {Property} Damage Per Sec
+    {Property} Pain Interval
+    {Property} Damage Type
+    {Property} Entry Pain
+ KillZ Volume: areas in the level where it is insta-dead (if actor enters the volume).
+ Physics Volume: areas where the physics change to what is defined in the properties of the volume in terms of physics (e.g., movement of player).
+ 
+ A lot of volume types are used to tweak performance of level/world.
+ 
+ 
+ Project Settings
+  Editor Startup Map: defines the level that is loaded when the project is opened.
+  
+  
+  Group Actors: CTRL + G
