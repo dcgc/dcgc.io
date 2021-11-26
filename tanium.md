@@ -1,0 +1,1 @@
+GET-MSHOTFIX | WHERE-OBJECT ($_.HOTFIXID -match "KBxxx"")
