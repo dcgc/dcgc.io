@@ -6,7 +6,7 @@ permalink: /vm/
 ---
 
 - Automated VM Program
-- False Positive Reduction
+- False Positive Reduction (Falses Positives are tuning opportunities)
 - False Negative Identification
 
 - We discover vulnerabilities, verify their presence and determine their potential business 
