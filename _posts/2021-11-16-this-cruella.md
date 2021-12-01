@@ -16,7 +16,7 @@ Cruella is known to be short-tempered. She gets annoyed easily with Jasper and H
 
 Cruella de Vil, Cruella de Vil. If she doesn't scare you, no evil thing will. To see her is to take a sudden chill. Her menacing pose, the ice in her stare. All innocent employees had better beware. She's like a spider waiting for the kill. At first you think Cruella is the devil, but after time has worn away the surprise, you come to realize, you've seen her kind of eyes, watching you from very far (from her pedestal). Watch out, don’t gamble your future.
 
-Don't be like Cruella de Vil:
+**Don't be like Cruella de Vil:**
 
 - ["Bitches get stitches"](https://pastebin.com/hyxtUu1K) but ["snitches get stitches"](https://pastebin.com/Wk2wzpFv), so it works both ways.
 
