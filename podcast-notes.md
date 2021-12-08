@@ -156,3 +156,198 @@ Colleges do get funding from vendors though. They even pay to use vendor curricu
 So, without asking for endorsement of the products, which EDR solutions do not suck and deserve to be looked into?
 
 Trust, credibility, Likebility. 
+
+Is it ethical, moral or stress-relief?
+
+Ethics and moral are temporal, spacia and cultural. Add the digital facet, within cyberescurity, where is the line and who sets the line and when it is ok to move the line?
+
+The argument is: it is a grey area. But sometimes dire actions taken get real consequences. Where is that line, has that line been trampoled over, are we right to continue to trampole over that line, do we have a moral/ethical thing, do we take a step back, do we take a step forward, ...?
+
+Ethics: collective agreement (I don't wanna be that guy because we as a group have agreed that's wrong)
+
+Morals: personal judgement/choice of how I hold myself against myself (am I morally right on what I'm doing).
+
+Digital is global (looking into it as an unified set-piece when in different nations, what is wrong in some places is commonplace in others)
+
+Can I wake up and look myself in the mirror and be ok with what I did? (Moral)
+Are you sure you should've been doing that shit? (Ethics)
+
+I hate seeing people being taking advantage from. Justice, if you take advantage of something/someone else, I am gonna step in. It is the justice component, I didn't start it, but it is retribution.
+
+You take them down, and you don't let them back up again.
+
+The minute you start holding something against somebody, you're deviating from the way it is supposed to be,
+
+Kant's theory is an example of a deontological moral theory–according to these theories, the rightness or wrongness of actions does not depend on their consequences but on whether they fulfill our dut
+
+There is no amount of money you can give me that will make me a sellout. It's morals for me. I don't know if it's ethics for the herd.
+
+Some of it comes from your upbringing. If YOU think that is a possibility then you are the one that is going to twist on that, 100% morals/ethics can be shaped by your up bringing because you earn from, not just follow. Shape your own technicalities.
+
+If you don't protect like a trade secret, it is not a trade secret.
+
+Does anonymity make us look at our moral/ethics from a different lens, or do we just turn them off?
+
+Judgement: can I trust you, can you get shit done? That is how judgement as far about goes.
+
+You are always shaping your morals if you thought-provoke yourself. Experiences will also play into it. 
+
+Life is a journey - we are all constantly changing as we have more and different experiences
+
+If it is mentionable, it is manageable.
+
+I might lose a lot of friends and followers, but I get to keep my whole soul and integrity.
+
+Turn a light on and the roaches hide, make it bright enough and they sizzle.
+
+Corporate hack-back: you are a business and you crossed a line in warfare and you don't know who you are going after.
+
+Biggest difference between military and civilian on attribution, the "compass" has to be 100% certain on the first. Be careful with false attribution.
+Fear of attribution, being held accountable for my actions because I don't have super powers. So If i go down the line, most likely to get caught. I suppose it is different if you have super powers.
+
+“Security as a life skill” is one of the most unique thoughts in our space. Security is NOT just the responsibility of anyone with Security in their title. It's everyone's responsibility!
+
+The HUGE problem is security vs features. One makes money, and the other one costs on the short term. 
+
+There is no buddy/community accountability because it's ME and MINE, and no YOU and YOURS. People today don't feel they can make a difference. In a smaller community, it is clearer your deeds mean something.
+
+We love convenience so we humans are good at justifying things.
+
+Complexity is the enemy of security. "A system is made perfect, not when there is nothing more to add, but when there is nothing left to take away" Atoine de Saint Expury
+
+It's not so much we don't know how to use it- we don't understand how it can be used against us.
+
+Well, sort of, but there are some predominant ethical theories (duty ethics, utilitarianism, etc) that are the root of almost everyone's (in the west, at least) ethical systems.
+
+For one problem we solve, we create a few more. It is human nature.
+
+The only time we rise above ourselves is when we have a source of authority above ourselves.
+
+How did we have jet packs in the 60s during the Super Bowl, but. It for commercial? Capitalism wins, same with pharma, don’t fix, get people addicted and you keep your revenue stream.
+
+Tactile environment and conditioning are far more impactful to our development (positive and negative) than being "told" or having something explained.
+
+Information has always been biased (going back to Civil War times and beyond)! And that's not good or bad, it's just reality; the best info is drawn from multiple sources across the spectrum.
+
+There is a change in perception that within a digital landscape the threat or risk posture is far less than in a physical realm.
+
+Information Security industry needs to curl up on the floor and die. Literally. It is like a cup of tea with sugar: you put the sugar in, you mix it with the tea and then it is gone. A cup of tea is a cup of tea. No more, no less. Don't add anything to it.
+
+We all don't even speak the same language depending on the vertical.
+
+The current culture is so held to their persona and presence through media and platform.
+
+When approaching and liaising with end-users and IT users outside of our specialty, we need to do it without our jargon, acronyms and geek talk, much like doctors do when they talk to patients (because the medicine field also has medical jargon).
+
+The acronyms seem to be the industry trying to say the same thing that was said years ago. It does more alienating and discouraging than it does getting people interested in the field
+
+Many different products have to come up with a different name for the same thing. Marketing.
+
+It's the "smartest guy in the room" syndrome where language that doesn't sound normal or familiar helps maintain a space and aloofness. Elitism within our community. We also have corporate speak with the bullshit titles and the acronyms for processes that are the same elsewhere with a common sense name, but called differently somewhere else.
+
+German for IT/Infosec terminology: each word will be composite non-abbreviated.
+
+Acronyms come from short-hand and the problem comes from making it an acronym soup.
+
+Do you really want to say "Internet Small Computer Systems Interface" every time in a conversation instead of saying iscuzzy? No, but not everyone will know.
+
+There are conflicting identical anachronisms between IT, Infosec and GRC.
+
+When you present at conferences and there is a Q&A slide, ask the audience or tell them what you heard before, to trigger them to interact and participate. Usually when you ask "is there any questions", no one asks the presenter out of shiness. But also, how do they ask questions when they didn't understand anything that was said? They don't, because they don't want to be exposed for not knowing in the first place. And when you ask questions you paint a target on your back.
+
+We also have to extinguish from this industry the folks that have to feel they can hold their tails higher than the rest. "Coin-checking" with certs is the peacocking equivalent of military wearing their dress uniform and awards rack.
+
+Part of the talent shortage, IMO, is the newbies get intimidated out of the secret club. I have zero issue not being the smartest in the room, yet it's intimidating to feel like the dumbest
+
+Let me play at contrarian for a second: during the board meeting, do you understand 100% of what CFO or CMO reporting on? Do they not use acronyms? Do you know all of those?
+
+I tried to focus so hard on red team, and kept getting told there was no room for it in my market, that I flushed all that knowledge and studied blue team now they want red team. I'm just bitching now.
+
+Part of the problem might be that with the complexity and amazing amount of variables in this industry, how well do ANY 20 IT professionals have a firm understanding of the concept of any topic? And don't want to own up to that. 
+
+Start with their certs and "training" as every governing body wants to be unique and better than the others. 
+
+While you need to be business savvy, is it possible to have a leader with not enough tech savvy.
+
+You learn a LOT more about a topic when you try to teach it.
+
+Eschew Obfuscation.
+
+IoT is a catch-all for unsecured interface.
+
+FUBIJAR - Fucked up but im just a reservist.
+
+AI: Think clippy from Microsoft but slightly smarter. We like to think it’s better, but in reality, in most vendors cases…it isn’t.
+
+It's like a hydra though- cut off one marketers head and two more grow- classic two for one strat.
+
+What about all the bullshit automated emails too. If I want to know I’ll tell you to contact me, not just because I walked pass your booth.
+
+PCI - Personal Credit Information
+PCI - Payment Card Industry
+Business trumps all. CEOs, CTOs, CFOs... They are not always ready to listen and we have a soup. They need and WE NEED to show the value of dedicated internal teams
+
+My perpetual happiness is usually due to medication. IT Security industry can be very stressful. I feel dirty offering MDR - but love having the conversations with solutions that will actually support the bus as a segue to internsl SOC. Like hand-holding incoming staff.
+
+MDR (Managed) / NDR (Network) = Fancy MSSP
+
+How do you educate the business when it is their business and will do what they want anyway?
+
+Everybody is pointing fingers but who is responsible, really? Who is responsible for the security at the organization? Most organizations don't have a clear delegation of who is ultimately responsible for security. And sometimes is designed that why because they don't want to be the person to take the fall or to make the call (Qualys or Tenable?).
+
+CISO shouldn't be reporting to IT. Fox house / hen house shenanigans. 
+
+Sometimes you see dual-role as CISO and Architect, so as the person in that role can easily hide their shit, because if the architect design is shitty, it is blessed by CISO role with process; if the process is shitty, it is blessed by architectural decisions and historical decisions made in the organization that validates it.
+
+Every time you bury someone in the organization, you are reducing the chances of letting a message get across, you waterdown the message. It is the business responsiblity to make business decisions. Don't bury whatever needs to be said for the good of the business.
+
+CISO lives with every risk decision made. If CEO makes a lot of shitty decisions, you as a CISO are not getting your point across. If you are communicating and shitty decisions are still made, it is shitty management. You go somewhere else.
+
+Enterprise CISO should report to Legal (separation of duties bound by code of ethics). Having access to the legal is important. Conflicting messages from legal and CISO really killing the mood. Lawyers understand risk, maybe not the technical nuance, but the lawyers are most risk-minded. Legal is where rubber hits the road when the business is in trouble. Goes back to being a good consultant. Legal would also make the best ally, if you think about it from a liability standpoint. Even if they're not concerned for security- they will absolutely be concerned with liability. We'd have to educate though that liability is not just a check box. Most often than not, lawyers are your ally/peer in the company in terms of Legal.
+
+SMB CISO reports to highest position that exists.
+
+CEO -> CFO, COO, CIO, CISO (new kid on the block)
+
+A CISO or vCISO can be so much more effective if he/she could have the ears of the CEO for a couple of minutes. Do they just not understand the importance of the risk which is why they won’t take another report? If they took it serious there would be no question... CISO are the red headed step children, children that were seen and not heard. You spend enough time in the board meetings with whole C-suite as CISO and  you could do with less time in these meetings.
+
+Over all- I HAVE seen positive environments and talk to happy CISOs... but more often they're brow beaten. CISO are not lasting long inside their roles. It's like they hire CISO for box check then when they don't actually have a magical wand to wave welp... NEXT- we need new CISO. 
+
+When CEO says he does not time for you because he controls the message and the business, telling the truth does not line up with the business. You can educate the business all you what, but if they don’t have what is “acceptable “ defined, you are still blind. Time to go.
+
+CEO needs to use Social Engineering when liasing with all people in the organization.
+
+I always thought I was just being polite- then I got into infosec and found out I was a social engineer.
+
+Privacy policy does not protect you. It pushes all responsibility from the company to you, how is that acceptable?
+
+Cyber Insurance assessment + legal produce semi-decent high-level recommendations. Risk assessment (external audit) can also help. Going technical from 0 to 60 does not work most of the time. But also, Cyber Insurance can be a rip-off. When coverage for the event goes over 10M, it gives us the opportunity to explain the likelihood of it taking place and the ways to minimize the probability.
+
+How do you convert risk management to business value increase?
+
+The cyber realm is not real for most people even though those same people interact with that realm each day.
+
+Scared to call out vendors and business for going fast and not doing full implementations. New blinking lights = new product and no support for old version. They don't want to give a warning because I bet it will open up opportunities for lawsuits for whatever they warn about. How can we make the companies continue to support all versions.
+Check the box, gots to look good for the board. Can’t be truthful and say we need help. Don’t want to look like I don’t know enough.
+
+Is zero trust result just proper active firewall and access management?
+
+Are we more concerned that there is pentest and hacking videos all over there teaching them to break into all this stuff without understanding the device?
+
+People are lazy until they’ve had a reason to be motivated.
+
+Someone has to take the risk of being the first to send the message.
+
+They won’t fix it because they want to sell you a new tool with new promises to keep you distracted.
+
+I layed into the MDR vendor today for not detecting our pentester.
+
+But the vendor can get away with saying it’s not deployed properly. How do we fight that.
+
+The only companies that would be able to survive are those with the large enough legal staff.
+
+All someone needs to do is get a uniform for the local MRI repair vendor, walk into the hospital or imaging lab and have at it.
+
+A couple of classes with organized material of examples of how these "cyber problems" can have catastrophic effects, would be excellent contributions to law and ethics classes.
+
+Why does the ISP tech come in make sure you can get to google and then just leave?
