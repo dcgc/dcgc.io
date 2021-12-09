@@ -351,3 +351,115 @@ All someone needs to do is get a uniform for the local MRI repair vendor, walk i
 A couple of classes with organized material of examples of how these "cyber problems" can have catastrophic effects, would be excellent contributions to law and ethics classes.
 
 Why does the ISP tech come in make sure you can get to google and then just leave?
+
+Must have 10 years of experience in a technology that’s only 6 years old!
+
+The unreasonable expectations in the application are just to prepare you to work in the industry.
+
+If I can get someone who won’t burn down the house and won’t make me look silly, I want to talk to them.
+
+It's actually not always the Hiring Managers faults. Sometimes, HR adds additional qualifications beyond what Hiring Managers request.
+
+A HR company just needs to start. They all pull from each other. I see so often orgs asking, what does your job description say.
+
+What is the solution? You have an open position, what do you key off of to forward to an interview. That is what HR does. You are now boss, what do you tell them to do?
+
+People that are looking for positions also don't have confidence in themselves. To know how to sell themselves. Some people that have certs is great however, they also do not know how to map the certs that earned. Or even talk to that cert in the job interview. I do think that certs can demonstrate evidence of ability. Knowledge and skill come with experience.
+
+Certs often do not demonstrate practical knowledge that are immediately applicable in an enterprise environment. They don't teach the logic to assess the situation and act accordingly.
+
+We need more decision makers creating entry level positions. There aren’t enough out there!
+
+People aren’t professional interviewers. There needs to be an additional pathways way in - especially if there is a talent shortage.
+
+Let's up end the education system. Combine the learning with hands on, when you actually DO what is taught, you get a badge. As you earn badges, you create a resume.
+
+Suspend your ego. Be non-judgmental. Validate others. Honor reason. Be Generous.
+
+Give people a “day on the job” and see how they would really respond in the environment. That is better than some subjective interview.
+
+I struggled trying to figure out how to make knowledge management more valued by security orgs... then I figured out that CISO was the ultimate KM role, so yeah...
+
+It's fascinating how Compliance positions desires heavy Accounting backgrounds, then fail during the IT Audits.
+
+There is no one-way into the Infosec industry. It is not one bucket, it is all buckets.
+
+Create a guide that covers the general definitions and qualifications of the technical positions. Then, provide the common tasks and value the roles can provide for the company.
+
+Create a standard for the IT Hiring Process. Market it on a site. Charge subscriptions. Then give back to the community. Need to target the VP level and C-Suite.
+
+Security leaders need to break the roles down into realistic entry level positions.
+
+Point being, we can search within our community for the Leaders who are empathetic to the cause. Then, have them start using the standards that we create for interviewing/hiring. Human Resources will go along with it, because it'll make their jobs easier, once they have a template.
+
+People need to know how to think outside the box and use the transferable skills.
+
+Create a full guide for family, but free version with key points. Yes, charge. Even $5 or $10, can donate to things like Rural Tech Fund (gets tech teaching materials into rural and under-served schools) or nonprofit security cons... YES. Then give back to the community and promote via scholarships, training, etc. Do a Patreon or a donation option, they can accept donations as well. Become a non-profit. No politics. No stance. For the community as a whole. Your amount of effort is directly related to your intrinsic reward.
+
+Hiring guide for HR.
+
+Working group of recruitment for InfoSec.
+
+Or at least a list of "standards" for hiring candidates. Start auditing Human Resources for their hiring practices in I.T.
+
+Aside from the fundamentals, there is arguably no when since technology is constantly changing.
+
+True. There's also a lot of folks who suffer from imposter syndrome seem to have either grown up in abusive situations or ended up in toxic work environments...
+
+A lot of college is just about personal growth. You can get lots of that outside of college for a lot less money. :D
+
+Depends on the degrees and certs in relation to the position. Generally speaking, their values are often exaggerated.
+
+If I don’t have my shit figured out, I have no purpose. If you don’t have your shit figured out, you don’t have purpose either. If my shit and your shit align, we can do good shit together. If they don’t align, we can’t. I’m in this shit, you’re in this shit, and they’re in this shit too. We’re all in this shit together. Some of us are aligned (with our purpose) and some of us aren’t. If and where we’re in alignment, meaning our purposes can serve each other’s purposes, we’re allies. Where there isn’t alignment, we’re adversaries.
+Simple. Alignment = Ally. Miss-Alignment = Adversary.
+Find your purpose first, then look for common ground in others. Don’t assume, validate. Assuming I know my purpose or your purpose or their purpose without validation leads to aimless bullshit. Lord knows, we have too much aimless bullshit already.
+
+It's a tough call to make. I find that those who struggle early in life are capable of much greater passion, and understand the consequences of their actions.
+
+This goes back to the talk last week... hiring talent. The reasons why hackers are winning is because they don't spend time with certs and degrees. "Can you do this?" "Great, you're hired.".
+
+You do this shit because you want to make a difference, with your knowledge, experience, and help other leapfrog into the industry and not go through the same hurdles as you did.
+
+Time is a precious commodity I can't produce and don't know how much I have. So I want to invest my time in the things I want to do.
+
+I only ask what anyone asks of someone they respect, that the thought of me does not compel you to violent spasms of projectile vomiting.
+
+Complexity is what keeps administrators from understanding IT. Features are what sell,... which builds complexity. Vicious circle.
+
+That's counterproductive. The most famous hacker also means you got caught. And a lot of us helped get him out....and payback wasn't great, hence the frustration. Unfortunately, guys like him are beacons for naive debutantes. Too much romanticism and "wild west" mentality with hacking. It's hard work to do it well.
+
+Exactly. Consulting with Security for new applications is often an afterthought, rather than getting them involved in the beginning. Great point.
+
+Because there's no overall message of safety. Everyone has their own approach about what is the most important piece and act accordingly. I think to come to a common set of terms and ideals, it would take a framework. Sections would be broken down by area of coverage, then common definitions/milestones/purpose/goals/deliverables could be identified. Basically, a similar approach to what PMI uses to identify their 49 processes could be used to apply to the security model. It could be difficult some of it is culturally driven where we learned and how we learned. You create a general set of guidelines that cover most of the areas, that may not be applicable to every scenario, but allow companies to create a foundation for security. 
+
+"Perhaps happiness is always to be found in the journey uphill, and not in the fleeting sense of satisfaction awaiting at the next peak. Much of happiness is hope, no matter how deep the underworld in which that hope was conceived."
+
+"Do you have time to discuss our Lord and Savior, Ubuntu?"
+
+The 7 deadly SIEMs
+
+The 10 COMMAND prompts
+
+You can always give scammers the information of exes and people you don't like: email addresses, phone numbers, birthdays.
+
+What bothers me is telecoms offering premium services to block robo/scam calls. Once I started paying for sprint premium caller id 99% of the calls stopped. Seems like a scam in itself... profiteering off a service that should come with the cell service in the first place imo.
+
+Scams is hacking humans. It is the conman (convincing).
+
+Scam complexity, level and depth has increased.
+
+the same thing happens on LinkedIn, we see that majority of Users/Viewers dont click through on an article, they just react and move on.
+
+Hungry Angry Lonely Tired (HALT)
+
+my secret is to turn the phone off while I do deep work - so I disconnect from all that nonsense for several hours. 
+
+Tag the people too- like not in that annoying way... but if you really talk to them or engaged in their posts- tag them
+
+Monetizing Security Awareness Knowledge.
+
+The way to reach people is honestly just youtube it. Let's be honest here guys.
+
+Stop labeling crap cybersecurity and go for the pop hashes.
+
+Verify, but trust.
