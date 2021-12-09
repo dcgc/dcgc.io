@@ -463,3 +463,110 @@ The way to reach people is honestly just youtube it. Let's be honest here guys.
 Stop labeling crap cybersecurity and go for the pop hashes.
 
 Verify, but trust.
+
+Jaded person: bitter, jaded people tend to project a self-righteous attitude suggesting they’re justified in feeling resentment. They’re often bored and cynical. They observe and criticize more often than they participate. Because they believe they’ve been burned, they no longer have the trust necessary to build solid, positive relationships. They believe the world is unfair and freely express their impatience and anger. They no longer expect success, but don’t accept responsibility for their failures; instead, they blame others. They’re almost always irritable and frequently express annoyance in most situations.
+
+Jaded people often lash out at others. Bitter sarcasm and criticism are hallmarks. They often feel like they’re victims of what they perceive as injustice. The injustice leads to resentment, anger, and general unhappiness. Jaded people are more likely to suffer from burnout, mental health issues (depression, anxiety, et al.), broken relationships, and chemical dependency (self-medication).
+
+Someone who’s jaded has given up, lost hope, and just exists to exist. They’re debilitated and they’re debilitating to the people around them. Someone who isn’t jaded, is still fighting the good fight.  They’re relaxed, rested, energetic, and active. Jaded people have a negative impact. People who aren’t jaded make a positive difference, creatively solving problems and hoping for better outcomes. The truth is, jaded people hurt themselves and others. People who aren’t jaded help themselves and others.
+
+Jaded people are NOT bad people. Please don’t make this mistake. Often, they are good people who care(d) deeply about something. They care(d) so much, they took it personal and suffer(ed) for it.
+
+To simple? Maybe, but the point is this; we need to do everything we can to avoid becoming jaded.
+
+But how?
+
+Start with a simple and honest self-evaluation; are you jaded? If you’re not sure, ask someone close to you. Then decide:
+
+If you’re jaded, choose to come back or not.
+If you’re not jaded, learn how to keep yourself from becoming jaded or not.
+
+The mindset and skills are the same either way.
+
+People who work in our industry often (or always) find our work stressful. When we become jaded, we negatively impact our quality of life and become much less effective in our work. Back to our definition of the word; jaded people are fatigued by being overworked and/or made dull, apathetic, or cynical by experience. Being jaded is not acceptable to me, and it shouldn’t be acceptable to you either. So, let’s do something about it.
+
+People who work in our industry are some of the most passionate, motivated, and intelligent people anywhere in the world. We’re unique and we’re amazing! The passion pushes us to work our tails off, mostly without appreciation beyond our paycheck (we do get paid well though). Some of us work 50, 60, 70+ hour weeks, forgo vacations, and sleep much less than we should. Our passion will work against us when/if we’re not in balance. The constant hard-driving workload can lead to fatigue and exhaustion. Eventually, something has to give.
+
+To make matters worse, it doesn’t matter how many hours we put in, security incidents are inevitable. No matter what we do, we cannot prevent all bad things from happening. When the bad thing happens, then “they” notice; the appreciation we longed for becomes condemnation. Nobody cares about the 1,000s of hours we put in, often while others weren’t watching. They want to know why the bad thing happened and who’s to blame.
+
+Feeling any injustice? Oh, how we need tools to fight against becoming jaded! So, what to do?
+
+Somewhere along the line, we might get our priorities messed up. Our job is a job. We do it as well as we can, but we must recognize that work is not life. Work is part of life, but it is NOT life. 
+
+Good priorities might look something like this:
+
+1. Faith
+2. Spouse (if you’ve got one)
+3. Family
+4. Work
+5. Friends
+
+Notice how “self” isn’t listed? Self supersedes all priorities. Self-preservation is primal.
+
+Bad priorities look like this:
+
+1. Work
+2. Fame
+3. Money
+4. Spouse
+5. Work
+6. Family
+7. Work
+8. Friends
+
+The first list lends itself to health, the second list lends itself to becoming fatigued, overworked, and exhausted. Couple messed up priorities with the nature of our work; guaranteed failure (if failure is defined as preventing all bad things), and you have a recipe for becoming jaded.
+
+Maybe we’re jaded because we have too many or the wrong expectations. We’re less likely to become jaded when things go well, when we experience things that are good (or exceed our expectations). 
+
+Some (or a lot) of our jadedness comes from being disappointed. We’re setting the wrong or unrealistic expectations, leading to disappointment, leading to frustration, leading to becoming jaded. We think expectations are good, but they’re often not.
+
+What did we expect in the first place? Did we actually expect humans to NOT be human? Did we expect management to treat information security like it was THE issue versus AN issue? Did we expect people to listen to us when we don’t speak their language? Did we expect to not have breaches? Did we expect such a thing as risk elimination, or did we realize this is actually about risk management?
+
+If we set any expectation, we should expect to be disappointed if we have expectations. Expect disappointment, and if it happens often and long enough, it WILL lead to frustration. Frustration is the last step in the path to becoming jaded. 
+
+Essentially, fewer expectations and better expectations = less disappointment and less jadedness. Living life without expectations is NOT the goal, living a life with fewer and more realistic expectations is the goal.
+
+Beware and be aware of jadedness in yourself and others in our industry. It makes us less effective and it steals our joy. If you need help, ask for it. Being jaded is more common than many of us realize, and it does nothing to help our cause. The cause being better information security, and through it, better lives.
+
+
+Knowledge without action is negligence.
+
+Ignorance isn’t bliss, it’s breach.
+
+Truth is paywalled, the lies are free.
+
+The noise of crap in the media is going so fast, by the time someone pegs the truth of the matter, it's already gone.
+
+There is also so much falsification, that it does not mean anything anymore. It is too much the norm.
+
+It's only fake if the "fact checkers" are told it doesn't fit a rhetoric of disruption.
+
+SaaS - Sarcasm as a Service
+
+Is it a gap of consequence or is it the great equalizer? How many voices are silenced by the threat of violence. How many great men would have stayed safe if they had had the internet?
+
+Tearing someone down with words is a skill, it is an advantage. Using your size is just another form of bullying that the internet removes.
+
+Does everyone really need a voice? Does everyone feels really matter? Social media has made us feel we are all important and connected, but are we...
+
+How Society works - there WILL be judgement for all acts as permanent in the eyes of the Internet.
+
+LinkedIn is full blown political crap. LinkedIn = "Happy Birthday/Anniversary" from 98% of your connections most of the time.
+
+Does it matter if he would say it to their face. That's my point, why should the "big" guys be allowed to say what they want. Isn't the internet the great equalizer? I mean... if we're looking to apply the same rule from real life to the digital life- we have to also respond to digital life the same way we respond to IRL.
+
+Once they start taking that stuff down, they admint they had the ability since the start. If they start to do something, then they admit they have been doing nothing, that does not send bad message.
+
+Information security is managing risk to unauthorized information disclosure, alteration, and/or destruction using administrative, physical, and technical controls. Cybersecurity is the same, but limited to technical controls. The definition of "cyber" is of or pertaining to computers.
+
+We live in an easy button, instant gratification, shortcut world. There are no easy buttons or shortcuts in information security. Period. Stop looking for them. Been fighting this fight for so effing long and banging my head against the wall. Seen enough breaches, incidents and bad things to know some shit.
+
+In my mind the internet and the dream worlds are connected in the back doors. Intention and intuition matter in the pixel as well.
+
+Why do we thing anything we disclose online is ever "private" or that it won't be used for the advantage of anyone who has it? Data = power. I purposely don't tell people the shit I do or the shit that I'm gonna do (other than what I want you to know). Intelligence is nothing more than the logical use and/or taking advantage of data. 
+
+Big Pharma - bottom line is there's no future in cures, but maintaining a reliance on meds for sustainment of condition.
+
+Do good always. Ask yourself as much as you are able, are you making things better or are you making things worse?
+
+Remember kids, stuff you put on the internet is like getting a tattoo... think reaaaalll careful about it. My right to swing my fist ends where your nose begins. We lost the art of debate. But without the trolls how do you know the people that are actually genuine. Is good really good or just the absence of evil?
