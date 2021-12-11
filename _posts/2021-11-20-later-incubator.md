@@ -96,3 +96,9 @@ I prepared for months before the departure: learning the foreign language, learn
 
 # The Promotion
 
+I was contacted by my soon-to-be-employer, specifically people part of the Vendor Incubator program. They liked my enthusiasm and appreciation for the program and wanted me to talk a bit about my experience. To be honest, I was happy to talk about it as I thought that overall, it was a good experience for a student and completely worthwhile. At the same time, I knew there were problems with the program. Conflict arises: do I not go and make up an excuse; do I go and tell the absolute truth and maybe fuck up my chances of going to work abroad; or do I go, tell the “good story” and get some good Samaritan points in my repertoire? I went with the third option and learned early in life (but perfecting as time went along) that sometimes you got to “swallow some frogs”.
+
+I really did not enjoy the experience: not many students showed up (it was exam season), not many students were interested (fiddling their thumbs), and to be honest, I did not have much to say (what could I say?). I felt like saying what I said, would not really make up the minds of these students. It is up to them to decide if they want to apply for this program and participate; nothing I will say will have a role in their decision, to be honest. It felt like a promotion: “join now”. Looking back at it, it was a promotion. From one side, I understood, and it was the least I could do for them (especially given the opportunity I had, even if I earned it). On one side, it felt wrong, and I felt used. I learned a lesson here: don’t say “yes” to everything and be careful with what you sign-off on. Little did I know, the people I met at this event, and responsible for this event, were a sample of what I was about to face at the office, when I would start working abroad. 
+
+# The Impact
+
