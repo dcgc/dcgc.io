@@ -7,8 +7,8 @@ categories: infosec
 
 # The work: What will I do?
 
-# Pentester position: Why I was rejected
+# Security Engineer position: Why I was rejected
  
-# Pentester position: Why I rejected it
+# Security Engineer position: Why I rejected it
 
 # What is the point?
