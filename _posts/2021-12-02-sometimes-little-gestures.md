@@ -19,10 +19,4 @@ How can you discern a bitch from a nice young woman? How can you differentiate a
 ## Corporate Good Gestures
 
 
-## Survival Guide to lay low (the wrong way)
-
-
-## Survival Guide to lay low (the right way)
-
-
 ## Final Hand Cues
