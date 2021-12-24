@@ -12,6 +12,7 @@ How can you discern a bitch from a nice young woman? How can you differentiate a
 
 ## The Pantomime
 
+The IT office is a theatre. Each employee has a role to act on the play being shown and sticking to the script, usually decides that person's future in the company. There are different types of theatre: you got the tragedy (and the shock and intrigue that comes from it), you got the melodrama (and the gossip and bullshit that is a part of it), you got the epic (and the fake committment and battle mode that is played in it), you got the physical (and the cliques and presence that are/is within it), you got the political (and the "power moves" and "office politics" that are characteristic of it) and the comedy (and the hilariocity that it provides).
 
 ## Corporate Bad Gestures
 
