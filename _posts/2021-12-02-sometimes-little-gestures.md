@@ -20,7 +20,6 @@ There are two viewpoints to the development of the office pantomime. In the humb
 
 ## Corporate Bad Gestures
 
-text
 
 ![GESTURE_01](https://dcgc.io/gesture_01.png)
 
