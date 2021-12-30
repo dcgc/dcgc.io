@@ -91,3 +91,17 @@ Intelligence Sources:
 **Intrusion Analysis: fundamental CTI skill:**
 -	Intrusions are attempts, successful or failed, that adversary makes to compromise or attack systems.
 -	Failed intrusions often represent first methods to compromise an organization in which might have commonality with first methods used against other organizations or even overlaps with future tradecraft leveraged.
+
+**CTI Terminology**
+-	Intrusion
+-	Adversary/Threat: individual(s) involved in execution of an intrusion.
+-	Compromise/Breach: successful violation of data confidentiality or integrity what was the intent of the adversary.
+-	Pivot: leveraging intelligence to identify additional intelligence.
+-	Campaign: adversary mission focus.
+-	TLP (Traffic Light Protocol): see image below
+-	Victim: individual/system compromised while achieving objective.
+-	Target: intended victim of an intrusion.
+-	Attack: intrusion executed with the intent of catastrophic outcomes (sabotage).
+-	Persona: fake name or identifier that adversary takes.
+-	TTP’s (Tactics, Techniques and Procedures): tactic is higher-level tradecraft that the adversary intends to use to reach an objective; technique is manner to which the adversary is going to accomplish that tactic; procedure is more granular approach to accomplishing the technique.
+
