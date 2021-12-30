@@ -55,22 +55,22 @@ Intelligence Sources:
 - Risk: likelihood of exploitability of a vulnerability, a successful high impact and/or leverage of the threat.
 
 
-**Types of Analysis: **
--	**Data-driven: accuracy based on dataset’s accuracy and completeness.**
+**Types of Analysis:**
+- Data-driven: accuracy based on dataset’s accuracy and completeness.
 	-	Should be Logically driven.
 	-	Use Good datasets.
--	**Conceptually-driven: accuracy based by feedback over time.**
+-	Conceptually-driven: accuracy based by feedback over time.
 	-	Immediate interpretation of complex concepts.
 	-	Numerous unknowns and undefined variables and relationships.
--	**Structured Techniques: approaches in better evaluating information while reducing impact of bias.**
+-	Structured Techniques: approaches in better evaluating information while reducing impact of bias.
 	-	Data into buckets allows for the abstraction of the CTI analyst and identification of patterns.
 	-	E.g., Analysis of competing hypotheses, devil’s advocate, Team A/B, High-Impact/Low-Probability, Brainstorming, Red Team
--	**Mental Models: experience based on assumptions and expectations.**
+-	Mental Models: experience based on assumptions and expectations.
 	-	Combination of cognitive and perceptual biases that can hinder analysis.
--	**Mosaic Theory: inappropriate belief that there is only one mosaic to make.**
+-	Mosaic Theory: inappropriate belief that there is only one mosaic to make.
 	-	Disparate information comes together to tell the right story.
 	-	Rarely practical and heavily based on analyst interpretation.
--	**Other: descriptive (describes elements of data), explanatory (structure “why” of the situation), evaluative (understand what information means), estimative (“what will happen next?”).**
+-	Other: descriptive (describes elements of data), explanatory (structure “why” of the situation), evaluative (understand what information means), estimative (“what will happen next?”).
 
 **Intelligence Life Cycle**
 - P&D: gaps identified and prioritized; plan is set forth to where and how analysts will get the data and information they need.
