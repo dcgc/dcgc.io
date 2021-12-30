@@ -46,6 +46,14 @@ Intelligence Sources:
 -	Data: sets of values and individual elements of what makes up information. 
 -	Information: collection of data that can answer yes or no questions.
 - Intelligence: analyzed information. _We cannot collect all the data._
+- Intent: what the actor seeks to achieve
+- Opportunity: conditions necessary to achieve threat objectives.
+- Capability: degree to which adversary can succeed in accomplishing objectives.
+- Threats can be established by evaluating Capability + Intent + Opportunity.
+- Impact: effect of compromise on organization.
+- Vulnerability: susceptibility of organization to compromise of CIA.
+- Risk: likelihood of exploitability of a vulnerability, a successful high impact and/or leverage of the threat.
+
 
 **Types of Analysis: **
 -	**Data-driven: accuracy based on dataset’s accuracy and completeness.**
