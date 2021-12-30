@@ -80,3 +80,14 @@ Intelligence Sources:
 - Dissemination: distribution of requested intelligence to interested party (with information disseminated, there might be questions (cycles repeat)).
 - RFI: Request for Information; questions to SME, clarifications to CTI, etc.
 
+**CTI Analysis Elements:**
+-	Primitives (terminology)
+-	Axioms (accepted assumptions)
+-	Abstractions (models)
+	-	Visual representations
+	-	Generalizations
+	-	Transformations
+
+**Intrusion Analysis: fundamental CTI skill:**
+-	Intrusions are attempts, successful or failed, that adversary makes to compromise or attack systems.
+-	Failed intrusions often represent first methods to compromise an organization in which might have commonality with first methods used against other organizations or even overlaps with future tradecraft leveraged.
