@@ -61,3 +61,11 @@ Intelligence Sources:
 	-	Rarely practical and heavily based on analyst interpretation.
 -	**Other: descriptive (describes elements of data), explanatory (structure “why” of the situation), evaluative (understand what information means), estimative (“what will happen next?”).**
 
+**Intelligence Life Cycle**
+- P&D: gaps identified and prioritized; plan is set forth to where and how analysts will get the data and information they need.
+- Collection: plan execution and data collected to fit gap.
+- P&E: preparation for raw data collection.
+- A&P: while analyzing, more information is needed (more collection needs to occur).
+- Dissemination: distribution of requested intelligence to interested party (with information disseminated, there might be questions (cycles repeat)).
+- RFI: Request for Information; questions to SME, clarifications to CTI, etc.
+
