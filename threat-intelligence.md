@@ -34,3 +34,12 @@ Intelligence collects and processes information about competitive entity and age
 Counterintelligence is:
 -	Identification/Assessment/Neutralization/Exploitation of intelligence activities of adversarial entities.
 -	CTI is Counterintelligence
+
+Definitions:
+-	Analysis is to deconstruct intrusions and threat actors.
+-	Synthesis is to construct objects based on unsuccessful intrusions (enhancing understanding of the intrusion), adversary profile and campaigns.
+-	Analytical Judgement uses a process to search for, sort, structure and evaluate data and information. There is never enough time or data; decisions still need to be made.
+-	Good CTI thinks about how they think and reaching a conclusion is defensible, repeatable and understandable to others. CTI’s have different views (people are different). Perception should be active.
+-	Bias is a hindrance to analysis and impossible to eliminate, difficult to understand. Guarantee diversity of CTI analysts (knowledge type) and collaboration between each other to favor less bias. Different backgrounds can also help (e.g., APT is Russian and CTI Analyst understands Russian).
+-	Adversary intent is one of the most difficult goals in intelligence analysis.
+
