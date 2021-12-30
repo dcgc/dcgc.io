@@ -43,6 +43,9 @@ Intelligence Sources:
 -	Good CTI thinks about how they think and reaching a conclusion is defensible, repeatable and understandable to others. CTI’s have different views (people are different). Perception should be active.
 -	Bias is a hindrance to analysis and impossible to eliminate, difficult to understand. Guarantee diversity of CTI analysts (knowledge type) and collaboration between each other to favor less bias. Different backgrounds can also help (e.g., APT is Russian and CTI Analyst understands Russian).
 -	Adversary intent is one of the most difficult goals in intelligence analysis.
+-	Data: sets of values and individual elements of what makes up information. 
+-	Information: collection of data that can answer yes or no questions.
+- Intelligence: analyzed information. _We cannot collect all the data._
 
 **Types of Analysis: **
 -	**Data-driven: accuracy based on dataset’s accuracy and completeness.**
