@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vendor Security Engineer positions and working for one
+title: Vendor Security Engineer
 categories: infosec
 ---
 
