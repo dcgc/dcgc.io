@@ -4,7 +4,7 @@ title: Procession to Internship
 categories: infosec
 ---
 
-![PROCESSION](http://dcgc.io/procession.png)
+![PROCESSION](https://dcgc.io/procession.png)
 
 Trainee: one that is being trained especially for a job. This is the definition according to Merriam-Webster dictionary. This is what we are told when we are learning, when we are starting our learning experience, our developing journey, when we are weeds and when we want to become tall grass. We feel excitement, exhilaration, enthusiasm, and ultimately, it is what we look forward to, when we reach this stage. I could paste here a lot of quotes from famous people (alive or deceased) like many motivational posters do. That would prove the point I am going try to make, of course, but I don’t think I even need to.
 
