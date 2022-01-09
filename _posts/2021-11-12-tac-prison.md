@@ -4,7 +4,7 @@ title: You don't have to stay in TAC prison
 categories: infosec
 ---
 
-![PRISON](http://dcgc.io/prison.png)
+![PRISON](https://dcgc.io/prison.png)
 
 Modern slavery is the exploitation of other people for personal or commercial gain. Usually, it is hidden in plain sight and some form of slavery is more accepted by society than others. People become enclosed in these accepted ecosystems, packing goods, serving food, cleaning floors, making clothes, reaping crops, operating factory machinery and supporting IT products. Corporate entities have an enormous place in this *état d’habitude* and it has been among us for so long that people consider this a normality. A big Vendor will still be among us and in the core because all big players have chucked the big Vendors crap.
 
