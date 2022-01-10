@@ -17,8 +17,12 @@ In the Security spectrum, you have different types of roles: some are associated
 Unfortunately, there is no blueprint in differentiating what role is good and what role is bad in a Vendor company for several reasons: a lot of the information is gatekeeped and not public, and if it is made public, it better be anonymous or else your ass will be kicked out of the office building; and the titles for each role are similar in a lot of cases, but in other situations, they have different naming even if the role itself is closer in reality with something else. 
 
 # What Vendor doesn't want from people
+
+Give me a hat, make it black. Give me a R, a S and an A from the alphabet soup. Give me a quadrant and sprinkle it with some magic. Vendor is all about telling, showing and dealing, even if the product and/or service is subpar. It’s part of the business, after all. The organization needs its employees by their side, infallibly, even if the tide is not turning in their favor. If you have anything to add or need to give your two cents, it better be what they want to hear and not what they need to hear. The message given to the customers is very important for the business of a Vendor, and if you have employees or people associated with the Vendor brand having disparate opinions and arguments, you create confusion to the customer and conflict inside the organization (even if you are right). Constructive critique, counterpoints and loud voices is not something the Vendor wants for this specific reason.
  
 # What Vendor wants from people
+
+
 
 # What was I offered?
 
