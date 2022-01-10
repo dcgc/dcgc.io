@@ -22,7 +22,7 @@ Give me a hat, make it black. Give me a R, a S and an A from the alphabet soup. 
  
 # What Vendor wants from people
 
-
+Like in the army, the higher-up is always right, even when it is wrong. You need to follow orders, you need to follow chain of command and you need to respect their [AUTHORITAH](https://www.youtube.com/watch?v=WptlIruczS0).
 
 # What was I offered?
 
