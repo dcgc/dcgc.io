@@ -5,4 +5,4 @@ categories: notes
 permalink: /write-ups/
 ---
 
-![WRITEUPS](https://dcgc.io/write-ups_logo.png)
+![WRITE-UPS](https://dcgc.io/write-ups_logo.png)
