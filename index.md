@@ -8,7 +8,7 @@
 </ul>
 
 {% for category in page.categories %}
-  <h1>{{ category }}</h1>
+  <h3>{{ category }}</h3>
   <ul>
     {% for page in site.categories[category] %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
