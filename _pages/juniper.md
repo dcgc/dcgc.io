@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Juniper
-categories: vendors
+categories: vendor
 permalink: /juniper/
 ---
