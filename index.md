@@ -7,3 +7,11 @@
   {% endfor %}
 </ul>
 
+{% for category in page.categories %}
+  <h1>{{ category }}</h1>
+  <ul>
+    {% for page in site.categories[category] %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
