@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Qualys
-categories: notes
+categories: vendor
 permalink: /qualys/
 ---
