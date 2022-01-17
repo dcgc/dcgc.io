@@ -2,12 +2,6 @@ Shitty marketing and non-detailed explanation of product.
 
 Vendor makes promise of easy process, and never fullfills. 
 
-silver bullet and easy button bullshit.
-
-lazy security people.
-
-companies led by marketing department, companies driven by "pay for award" shit (magic quandrum, etc.), we want to listen to technical folks.
-
 vendors are not hold accountable.
 
 CISO's most of the time don't have security background. the sales pitch and marketing is directed towards executives and they gobble this up because they don't know how to verify it and how to chanel/filter it.
