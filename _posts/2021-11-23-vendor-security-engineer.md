@@ -34,4 +34,4 @@ Relationships are a very important factor when it comes working in corporation, 
 
 # Enough is enough
 
-It is time to put a final nail in the coffin when it comes to how Security Vendor positions are handled inside a Vendor company.
+It is time to put a final nail in the coffin when it comes to how Security Vendor positions are mishandled inside a Vendor company. Speaking as a customer (now), what I expect from a Vendor company is what it advertises: 
