@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pinneapple Tester
+title: Pineapple Tester
 categories: infosec
 ---
 
