@@ -155,3 +155,5 @@ Indicator Fatigue and Proper Use Cases:
 	- Leveraged against larger datasets for enrichment
 	- Often research value more than concrete detections such as unique correlations in SIEM
 
+Organizations and teams can either focus on actuating on intelligence or on producing intelligence. A team can bounce back and forth between these two concepts (but not doing both at the same time).
+
