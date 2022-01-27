@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Axonius
-categories: vendors
+categories: vendor
 permalink: /axonius/
 ---
