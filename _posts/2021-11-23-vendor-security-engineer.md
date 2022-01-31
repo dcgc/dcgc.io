@@ -34,10 +34,12 @@ Relationships are a very important factor when it comes working in corporation, 
 
 # Enough is enough
 
-**It is time to put a final nail in the coffin when it comes down to how Security Vendor positions are mishandled inside a Vendor company.** 
+**It is time to put a final nail in the coffin when it comes down to how Security Vendor positions are mishandled inside a Vendor company, given their importance for the whole product cycle.** **Enough is enough, man.**
 
-**Enough is enough.**
+**Speaking as a customer (now), what I expect from a Vendor company is what it advertises: quality, caliber, prestige, stature, eminence, etc. The shitty marketing people and the non-detailed explanation of product that we never want, has got to go. Vendor always makes promise of an easy process and never fullfills. Please, stop...**
 
-**Speaking as a customer (now), what I expect from a Vendor company is what it advertises: quality, caliber, prestige, stature, eminence, etc.**
+**I don't expect lazy security people and average joe at these positions, silver bullet (silver bullet preys on people who don't know any better) and easy button bullshit being stuffed down my throat, being led by marketing and sales department one more time, and being driven by that "pay for award" bullshit that is destroying the industry, which, when it doesn't work as intended, vendors are never hold accountable for their incompetence. **
 
-**What I don't expect is lazy security people and average joe at these positions, silver bullet and easy button bullshit being stuffed down my throat, being led by marketing and sales department one more time, and being driven by that "pay for award" bulshit that is destrying the industry.**
+**The Vendor focuses on who can maximize, who can exit and who can walk away with a golden paycheck. Their mission is money and it is a business. I understand that. But outright lying is outright lying, and outright laziness is outright laziness. If you are falling for it, you deserve it I guess. If you onboard a tool that detracts the security of the company, wastes money and time, and deviates from the mission and direction of the company, that is on you I guess. But it doesn't mean that the Vendor company can get away with doin what they are doing**
+
+**All in all, Vendors have to be willing to do a better job, increase quality of transparency. How does your stuff works, how it works, what it does? Also provide clarity for easy conceptual understanding. Educate your customers and you can help them avoid the flak. So, for this, we need proper people at these positions. Don't go hiring some monkey wrench...**
