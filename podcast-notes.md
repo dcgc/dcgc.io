@@ -1,9 +1,3 @@
-Shitty marketing and non-detailed explanation of product.
-
-Vendor makes promise of easy process, and never fullfills. 
-
-vendors are not hold accountable.
-
 CISO's most of the time don't have security background. the sales pitch and marketing is directed towards executives and they gobble this up because they don't know how to verify it and how to chanel/filter it.
 
 CISO don't speak "techinese" and the conversation between vendor and CISO is usually "problem, problem, problem" "solution, solution, solution"
@@ -19,10 +13,6 @@ Non-security companies acquire other companies because they see dollars in the c
 Never acquire products of companies that "AND WE DO CYBER". Always work with companies that their business and business model revolves around cybersecurity.
 
 The fault is from both: the techs should ask "show me, prove me", the sellers should show and sell something appropriate to the problem.
-
-Silver bullet preys on people who don't know any better.
-
-Infosec Vendor: who can maximize, who can exit and who can walk away with a golden paycheck. The mission is money.
 
 CISO/purchaser, the sales and marketing people have a job to do to sell you and market stuff to you, if you fail to see through that, it's your problem, caveat emptor.
 
@@ -45,8 +35,6 @@ It is really frustrating. Marketing thrives on glittering generalities. It would
 how about this for buzz word. Autonomous SOC
 
 Perhaps we should advocate for changing the software development lifecycle to show 'marketing' after each iteration.... to set the expectation?
-
-Vendors: outright lying is outright lying. But if you are falling for it, you deserve it. If you onboard a tool that detracts the security of the company, wastes money and time, and deviates from the mission and direction of the company, that is on you.
 
 Proof of Value instead of Proof of Concept.
 
@@ -91,10 +79,6 @@ Machine Learning happens in Haskell, Rust, R, Python, etc.
 Artifical Intelligence happens in PowerPoint. They didn't call it AI 10 years ago.
 
 Prohibit security vendors marketing altogether and establish an independent assessment agency for evaluating annually and reporting to the public.
-
-Define list of questions to ask every vendor.
-
-Vendors have to be willing to do a better job, increase quality of transparency. How does your stuff works, how it works, what it does? Also provide clarity for easy conceptual understanding. Educate your customers and you can help them avoid the flak.
 
 Using a PC is not tech-savvy.
 
