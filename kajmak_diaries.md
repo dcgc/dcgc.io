@@ -16,9 +16,11 @@ I am still at the dog pound and I am still waiting for someone to pick me up. Th
 I am finally getting out of this joint and going somewhere else. I hope my new owner is not a fucking weirdo and that I am going to a normal place. I was super happy to see my new owner is a regular dude and not some psycho, everything was ready at the place I arrived, and I was not expecting this at all to be honest. The only problem is that I didn't know where the dog's restroom was, so I figured i just piss and shit on the floor. And guess what, the guy just started cleaning my stuff and smiling at me. What a dork.
 
 - 8th February 2022
+
 After my first night of sleep everything still felt weird. I was no longer in the cell and was free to roam around an apartment. He got me some toys (I don't understand what is his obsession with the blue color), and got me some nice food. I no longer have to eat that crap from the shelter. Besides that, the day was pretty chill, he kept staring at three illuminated squares all day and talking to wall. What a weirdo.
 
 - 9th February 2022
+
 The guy left the house today and didn't say anything. I mean, the least you can do is warn someone and let them know where you headed. For just a couple of hours, but still... After that, he finally took me outside but still inside the apartment complex. I didn't see anyone, this place looks like a ghost town. 
 
 - 10th February 2022
