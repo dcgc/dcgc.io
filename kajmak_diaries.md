@@ -1,3 +1,10 @@
+---
+layout: page
+title: Kajmak Diaries
+categories: life
+permalink: /kajmak/
+---
+
 ![KAJMAK](kajmak_diary.png)
 
 - 6th February 2022
