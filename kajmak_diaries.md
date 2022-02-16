@@ -21,20 +21,17 @@ After my first night of sleep everything still felt weird. I was no longer in th
 - 9th February 2022
 The guy left the house today and didn't say anything. I mean, the least you can do is warn someone and let them know where you headed. For just a couple of hours, but still... After that, he finally took me outside but still inside the apartment complex. I didn't see anyone, this place looks like a ghost town. 
 
-- Dia 10 de fevereiro de 22
-- Hoje fiquei com soluços, acho que tive frio ou comi muito depressa.
-Estou sempre à espera para comer. Gosto de o desafiar.
-- Dia 11 de fevereiro de 22
-Já se tornou rotina ir à rua para fazer as minhas necessidades.
-Adoro brincar com o meu dono. 
-- Dia 12 de fevereiro de 22
- Hoje foi a minha primeira visita ao veterinário. 
-Engoli umas gotas desagradáveis. Dei um belo passeio.
-- Dia 13 de fevereiro de 22
-Fui passear à rua e todos perguntavam ao meu dono. 
-O meu nome e a minha idade.
-Hoje vomitei pela primeira vez e tomei o meu primeiro banho
-- Dia 14 de fevereiro de 22
-O entusiasmo foi tanto que deu asneira...aconteceu um rasgão nas calças do meu dono...
-- Dia 15 de fevereiro de 22
-Joguei a bola com o meu dono e desafiei um cao na rua
+- 10th February 2022
+Today I started getting hiccups, this guy turns the heating all the way up at the flat, and when I come from outside I feel the difference in temperature. Either that, or a piece of meat he gave me. I mean, he must be from someplace warm or from another planet, if he can't handle this cold or if he doesn't know what to feed me... Anyway, the grains he got me and that I am eating regularly now are amazing and to die for. I am always waiting for my food and like to challenge him with my beautiful puppy eyes for an extra dose. When I was home, I got new toys. One was a weird wood that humans put in their mouths, it is called a "cigar" and the other was a small man who has orange hair (I think he was the president at some point). anyway, my owner has a weird taste in toys... just give me a plank of wood, a rope and a ball, really...
+
+- 11th February 2022
+Now it has become a routine for my owner to walk around the block, given I finally went to the doggy doctor and I was given permission. She was very nice looking and my owner stopped paying attention to me all of a sudden. Weird... She checked my butt (huh huh) and she gave me a pill to swallow so I don't have any parasites, os something like that. Even my owner didn't know what she was talking about... The least favourite part was when she stuck a needle up my... yes. Until next time, I guess...
+
+- 12th and 13th February 2022
+Now it is the weekend and I have to stay at home and only go around the neighbourhood with my owner for the whole two days. I saw a couple of people asking how old I was and what was my name to my owner, instead of asking it to me... I mean, it is just lack of courtesy, really. The doctor told my owner I could vomit because of the pill, and shortly after I ate some nice wallnut wholemeal grains, I barfed and vomit a little. My owner was once again cleaning my mess and very happy doing it. I was smelly, with the vomit and the dirt outside, so the owner gave me a nice bath in his bathtub. I hope he won't get parasites.
+
+- 14th February 2022
+I was playing outside with my owner and got a little too excited... meaning, I tore his pants up with my teeth and paws. He was not happy and he had to change pants. He kept mumbling and talking to himself for hours, what does he want, just change the damn pants and move on. It's a Dockers, not Yves Laurent. When I was outside I also saw a funny looking dog trying to challenge me... like I am scared of any dog, I am not scared of anyone and if that dog ever shows up again I am gonna stuff my face to him.
+
+- 15th February 2022
+When I was playing with my ball, I saw my arch-nemesis once again. I challenge him but both my owner and his owner separated us. Next time, he will not survive my claws... Argh!
