@@ -1,3 +1,5 @@
+![KAJMAK](kajmak_diary.png)
+
 - Dia 7 de fevereiro de 22
 Ainda estou no canil, mas hoje vou conhecer o meu dono.
 Mal o vi fiquei todo contente. Fomos para casa.
