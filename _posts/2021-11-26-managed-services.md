@@ -46,8 +46,8 @@ Shortly after my TAC experience at the Vendor company I was at (you can read abo
 
 ## The game-changer
 
-## Why MSS is a showcase of what is wrong in the IT Service industry
+### Why MSS is a showcase of what is wrong in the IT Service industry
 
-## Why the decrease of this type of services by external companies
+### Why the decrease of this type of services by external companies
 
-## Why I left and never looked back
+### Why I left and never looked back
