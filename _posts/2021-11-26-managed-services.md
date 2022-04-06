@@ -24,7 +24,7 @@ Shortly after my TAC experience at the Vendor company I was at (you can read abo
 
 ### How engineers get sucked-in into a MSS
 
-### The daily lifes of MSS engineers
+### The daily lives of MSS engineers
 
 ### How engineers end-up leaving a MSS
 
