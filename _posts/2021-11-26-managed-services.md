@@ -20,13 +20,15 @@ Shortly after my TAC experience at the Vendor company I was at (you can read abo
 
 ### The "unnecessary virtualization" software and why is it always a pain in the ass
 
-## The personnel of a MSS
+## The cycle of a MSS tean
 
 ### How engineers get sucked-in into a MSS
 
 ### The daily lifes of MSS engineers
 
 ### How engineers end-up leaving a MSS
+
+## Personnel of a MSS
 
 ### Security Incident Team - the restless fire brigade who has to put out arsoned fires
 
@@ -41,3 +43,11 @@ Shortly after my TAC experience at the Vendor company I was at (you can read abo
 ### Security Top-Management - the outspoken and positive-outlooking people who delegate all their work and like to have lunch at Sheraton/Hilton
 
 ### Security Service Delivery Managers - the customer's bitch
+
+## The game-changer
+
+## Why MSS is a showcase of what is wrong in the IT Service industry
+
+## Why the decrease of this type of services by external companies
+
+## Why I left and never looked back
