@@ -14,13 +14,13 @@ Shortly after my TAC experience at the Vendor company I was at (you can read abo
 
 ## What is an IT Management Framework and why is it always a "_mi culpa, tu culpa_"?
 
-## Security MSS Incident Team - the restless fire brigade who has to put out arsoned fires
+## Security Incident Team - the restless fire brigade who has to put out arsoned fires
 
-## Security MSS Change Team - the laidback cooking chefs who solely follow pre-made recipes 
+## Security Change Team - the laidback cooking chefs who solely follow pre-made recipes 
 
-## Security MSS Problem Team - the too thourough private eyes that never get conclusive evidence
+## Security Problem Team - the too thourough private eyes that never get conclusive evidence
 
-## Security MSS Assistants and Miscellanous - the "I don't know what the fuck they are doing here" people
+## Security Assistants and Miscellanous - the "I don't know what the fuck they are doing here" people
 
 ## Security Mid-Management - the controlling people that don't know when to stop
 
