@@ -12,7 +12,7 @@ Shortly after my TAC experience at the Vendor company I was at (you can read abo
 
 The trend we see happening currently due to the piss-poor MSS and disguised Break/Fix that companies have faced during the last 10 to 15 years, due to the fact that security breaches and targeted hacking have been mainstreamed and popularized (fear-mongering by media), and due to the ridiculously high contract expenditure needed to hire a contractor service, is that it became clear that more and more companies are starting to build these teams in-house and attracting talent with higher salaries and with the promise of building a MSS infrastructure from the ground up (which can be tempting and alluring to several security professionals). It is not a huge shift, but it is clear that it is happening due to the amount of customers not renewing or breaking contract with the MSS's. The MSS I was in was one of the last that run its course, having its department budget being cut in more than half, with no training and onboarding whatsoever being provided and with shallow hiring that leaned on having contractors working inside the company that probably shouldn't have ended up there.
 
-## The typical rendered service, technology-stack and process-framework of a MSS
+## The typical rendered service, technology-stack and process/framework of a MSS
 
 There are several MSS that are provided by big companies, as explained before, where the actual offer can differ from one another due to the fact that the companies offering the MSS service have their own strengths and weaknesses regarding security technologies, product/service catalogs that possess, and their market placement within the IT industry. So when it comes to packaging the MSS offer, some companies could be: 
 
