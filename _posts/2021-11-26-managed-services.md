@@ -24,7 +24,11 @@ There are several MSS that are provided by big companies, as explained before, w
 
 Ocasionally, a MSS may have some of these services packaged together and position themselves strongly in the service market, but very frequently it ends up only offering one or two of the listed services, reason being that MSS providers themselves want to build, enable and provide the services in a cost-effective manner. By focusing upon core competencies of the company itself (e.g., a network vendor will provide H&W for network infrastructure), having framework and tools at their disposal to allow round-the-clock service (e.g., customer experience tools and site reliability contracts), it makes it so that the MSS offering ultimately is a reduced one, but on a counterpoint, a strong one. An important factor to consider in these types of dynamics, specific to MSS, is that outsourcing security service hands over critical control of the customer's infrastructure to an outside party, the MSS company. While it doesn't relieve the customer of having the ultimate responsibility for errors, it means that the customer of an MSS company still has the ultimate responsibility for its own security, and as such must be prepared to manage and monitor the outcome of the MSS's actions, and hold it accountable for the services for which it is contracted. The lack of transparency in the signed contracts, which include the Service Level Agreements (SLA), Service Level Objectives (SLO), Service Level Indicators (SLI) and the covered perimeter originate a lot of heated arguments between the customer of the MSS and the MSS itself, especially when shit hits the fan. The business risks that this entails can result in information assets, upon which the business depends, not being securely configured and managed, which in turn could result in asset compromise due to violations of confidentiality, availability, and integrity. System being unavailable, data in-transit not being encryted, infrastructure being changed operationally and configuration-wise, you name it...
 
-### The '1984' Customer Experience software and why it is a time-controlling mechanism
+Let's tackle some of the most common culprits in the MSS offering around town and, certainly, some that I have observed in my time. Let's look at their shortcomings and their ulterior motives.
+
+### The '1984' Customer Experience software
+
+why it is a time-controlling mechanism
 
 ### The IT Service Management and why is it always a clusterfuck
 
