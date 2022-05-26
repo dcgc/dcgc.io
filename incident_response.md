@@ -8,9 +8,7 @@ Friction: In a tough and tense situation, contention and hostility can occur. In
 
 Unity of Command: Ensure there is a solid, realible, and well known decision making process in place. The group should be an odd number to prevent deadlocks. Achieve decision making in a timely manner.
 
-# **Six Steps of Incident REsponse**
-
- 
+# **Six Steps of Incident Response**
 
 ## **Step One: Preparation**
 
@@ -234,7 +232,7 @@ Key decision
 
 1.  Is the “event” an actual “incident”?
 
- 2.  Do we watch and learn? If so, how long? Or do we pull the plug?
+2.  Do we watch and learn? If so, how long? Or do we pull the plug?
 
 </td></tr><tr><td>
 
@@ -248,24 +246,300 @@ The assessment process has determined the event(s) constitutes a real “inciden
 
 **Example Assessment Questions**
 
- ·  Is the “event” explainable, plausible, a mistake, a human error, a system error, or some other explainable occurrence?
+- Is the “event” explainable, plausible, a mistake, a human error, a system error, or some other explainable occurrence?
 
- ·  What is “normal”, and has the situation deviated enough to be abnormal?
+- What is “normal”, and has the situation deviated enough to be abnormal?
 
- ·  How widely used/deployed is the system, platform, or application that is affected? What is the needed uptime or business impact?
+- How widely used/deployed is the system, platform, or application that is affected? What is the needed uptime or business impact?
 
- ·  What is the value of the system/data and the uptime to the organization?
+- What is the value of the system/data and the uptime to the organization?
 
- ·  Is it possible to remotely exploit the vulnerability?
+- Is it possible to remotely exploit the vulnerability?
 
- o  Is the vulnerability from a configuration error?
+- Is the vulnerability from a configuration error?
 
- o  Or programming type error?
+- Or programming type error?
 
- o  Is there a vulnerability in an underlying library?
+- Is there a vulnerability in an underlying library?
 
- ·  Is there publicly available or reported exploit code or method that can be used against the system?
+- Is there publicly available or reported exploit code or method that can be used against the system?
 
- ·  Are there compensators currently in place (in fact deployed)?
+- Are there compensators currently in place (in fact deployed)?
 
-     
+**Step Three: Containment**
+
+ <table><tbody><tr><td>
+
+**Containment Step (Control Pain)**
+
+</td><td>
+
+**Key activity: System and environment modification occurs in response**
+
+</td></tr><tr><td>
+
+Characterize the incident, which drives follow on activity
+
+</td><td>
+
+The type of incident will determine actions taken. Some example and possible actions:
+
+ DoS/DDoS – control WAN/SP
+
+ Virus Infection – contain LAN/System
+
+ Remote compromise – firewall, net trace, update ACL
+
+ Data loss – user activity, data breach
+
+ System held hostage – recover from backup and harden
+
+ Website Defacement – repair, harden
+
+ Internal / employee – monitor, HR
+
+ Domestic Espionage – evidence, civil tort
+
+ International Espionage – Government support
+
+ Other policy violation – evidence support
+
+</td></tr><tr><td>
+
+Notification Role
+
+ Government: Public Affairs Officer
+
+ Corporate: Media Liaison
+
+ Academic: University media relations office
+
+</td><td>
+
+Various parties may require notification. Internal parties include management, HR, Legal, public relations, system, or business owner who is responsible for the affected system(s). Use caution, depending on type, because the attacker may be an insider.
+
+ Always follow “need to know” principle.
+
+ Log notifications in the IR document.
+
+ Remain factual and avoid speculation.
+
+</td></tr><tr><td>
+
+Immediate action
+
+</td><td>
+
+“Stop” the attacker through some form of access control technique. For example, disable affected account(s), change account passwords, implement a router ACL, or create a firewall block rule.
+
+ Avoid changing volatile state data or the system state early on. Once volatile information is collected, then system changes can occur based on business priority.
+
+ Maintain low profile - avoid any tip off.
+
+</td></tr><tr><td>
+
+Initial data collection: what to gather early
+
+</td><td>
+
+Collect network trace, logs, system volatile info, and memory image.
+
+ If needed, make a forensic disk copy for later or parallel analysis. This process may interrupt the environment based on forensic capabilities. Always confirm with the business on down time windows.
+
+</td></tr><tr><td>
+
+Immediate isolation
+
+</td><td>
+
+System or network segment isolation may be necessary. Pulling the plug sacrifices volatile data. Be cautious about damage to applications and databases. Pulling the plug is not the standard today. Rather, memory image and online disk image, then targeted shutdowns to avoid data loss.
+
+</td></tr><tr><td>
+
+Longer term actions
+
+</td><td>
+
+If the system cannot be taken offline, many actions are possible, but must be fully documented based on a valid business case. For example, network monitoring activity can occur in parallel post initial perimeter containment while the IR team continues with the Eradication step and a hardened replacement system is brought up.
+
+</td></tr><tr><td>
+
+Key decisions
+
+</td><td>
+
+1.  Case specific best method to stop intruder (attacker, malware) and control the situation
+
+ 2.  What is the risk to continuing operation?
+
+ 3.  What actions are necessary to mitigate?
+
+</td></tr><tr><td>
+
+Containment step exit criteria
+
+</td><td>
+
+The attackers’ ability to affect the network is effectively stopped.
+
+ The affected system(s) are identified.
+
+ Compromised systems volatile data collected, memory image collected, and disks are imaged for analysis.
+
+</td></tr></tbody></table>  
+
+Step Four: Eradication
+
+ <table><tbody><tr><td>
+
+Eradication Step (Clean Up)
+
+</td><td>
+
+Key activity: remove attacker’s presence from the environment
+
+</td></tr><tr><td>
+
+Root Cause Identification (RCI)
+
+</td><td>
+
+Using identification and containment information, determine root cause, and execution path to remove the attacker.
+
+</td></tr><tr><td>
+
+Determine rootkit potential
+
+</td><td>
+
+Rootkits modify the system by lying to the user. Hence, the system is not trustable. If a rootkit is suspected, wipe the disk, reformat, and restore from most recent ‘clean’ backup. Then update the system and applications, patch the OS, and otherwise harden necessary services. Once these sub steps are completed, return the system to production.
+
+</td></tr><tr><td>
+
+Improve defenses
+
+</td><td>
+
+Improve perimeter, DMZ, network, OS and application findings - everywhere
+
+</td></tr><tr><td>
+
+Perform vulnerability analysis
+
+</td><td>
+
+Perform network wide VA scan. Search for other potential weaknesses and remediate. Follow a high to low priority.
+
+</td></tr><tr><td>
+
+Key decisions
+
+</td><td>
+
+Has the environment been hardened to reduce a potential recurrence?
+
+</td></tr><tr><td>
+
+Eradication step exit criteria
+
+</td><td>
+
+The IR team and the business are confident that network and systems are configured to eliminate a repeat occurrence.
+
+</td></tr></tbody></table>  
+
+Step Five: Recovery
+
+ <table><tbody><tr><td>
+
+Recovery Step (Return to Normal)
+
+</td><td>
+
+Key activity: return validated system(s) to operation
+
+</td></tr><tr><td>
+
+Validation
+
+</td><td>
+
+Verify systems, applications, and databases are operating; no signs of compromise
+
+</td></tr><tr><td>
+
+Restore operations
+
+</td><td>
+
+Coordinate the restore operation time window with the business
+
+</td></tr><tr><td>
+
+Implement Monitoring
+
+</td><td>
+
+There are many opportunities to “monitor” the system for repeat events.
+
+ For example, specific Snort IDS rules, OS integrity check tools, increase router logging, configure supplemental system and application logging, or automate a security point system.
+
+ Also, new alerts within the SIEM system.
+
+</td></tr><tr><td>
+
+Key decisions
+
+</td><td>
+
+Any sign of repeat events?
+
+</td></tr><tr><td>
+
+Recovery step exit criteria
+
+</td><td>
+
+No evidence of repeat events or incidents
+
+</td></tr></tbody></table>  
+
+Step Six: Lessons Learned (or Follow Up)
+
+ <table><tbody><tr><td>
+
+Lessons Learned Step (Communicate)
+
+</td><td>
+
+Key Activity: document event, actions, and remediation plan (samples later)
+
+</td></tr><tr><td>
+
+Write follow up report, conduct
+
+ Lessons Learned meting
+
+</td><td>
+
+IR team works up full report of the event, reviews with the relevant subject matter experts and business, gain signature on follow up recommendations.
+
+</td></tr><tr><td>
+
+Key Decisions
+
+</td><td>
+
+Is management satisfied the incident is closed?
+
+</td></tr><tr><td>
+
+Lessons Learned Exit Criteria
+
+</td><td>
+
+Management is satisfied the incident is closed.
+
+ There is an action plan to respond to operational issues which arose from this incident. For example, instrumentation, logging, or helpdesk procedures.
+
+</td></tr></tbody></table>
