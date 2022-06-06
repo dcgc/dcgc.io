@@ -65,3 +65,5 @@ DocuSign for document generation
 ZoomIn for online help
 BRED for Swift links
 Salesforce - for initial user provisionning
+Brinqa
+Cryptographic Module Validation Program CMVP:  
