@@ -57,3 +57,11 @@ Day 3
 Day 4
 - Prioitize incident response training in addition to roles based trading
 - Timeline is important for training and fedramp within 10 days and annually
+
+Fininfo
+Heap
+For SMS : Twilio, Clickatell & Plivo
+DocuSign for document generation
+ZoomIn for online help
+BRED for Swift links
+Salesforce - for initial user provisionning
