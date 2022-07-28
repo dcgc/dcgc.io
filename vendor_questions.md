@@ -31,26 +31,25 @@ permalink: /vendor-questions/
 
 -	Do you require remote access into the product/service to support it? Do you require remote access to be always active? What steps are taken to secure remote access?
 
--	What monitoring for data breaches and suspicious activities do you provide? How and when do you notify me if there is a breach? If I experience fines/penalties, do you offer support and protection? Do you provide insurance to cover data breaches related to the product/service? Do you assist with notification of the accounts in the event of a data breach when the product/service is the cause? If yes to previous question: to what degree do you assist with notification? Cover the cost, send the notifications, provide credit monitoring for the accounts impacted?
+-	What monitoring for data breaches and suspicious activities do you provide? How and when do you notify me if there is a breach? If I experience fines/penalties, do you offer support and protection? Do you provide insurance to cover data breaches related to the product/service? Do you assist with notification of the accounts in the event of a data breach when the product/service is the cause? If yes to the previous question: to what degree do you assist with notification? Cover the cost, send the notifications, provide credit monitoring for the accounts impacted?
 
 -	If you are a privately held company, what are your company's yearly financials and funding plans? What percentage of your annual revenue is invested in R&D for this product/service? How does your company differentiate in the market?
 
--	Can you provide historical and previous path of the product/service; especially, if product/service as acquired from another company? Can you showcase and explain the current feature/development/patch/support roadmap for this specific product/service? How frequent are products/services updated and are accounts informed of any changes?
+-	Can you provide historical and previous path of the product/service; especially, if product/service was acquired from another company? Can you showcase and explain the current feature/development/patch/support roadmap for this specific product/service? How frequent are products/services updated and are accounts informed of any changes?
 
 -	Can you give figures of adherence by other accounts regarding this product/service? Can you explain the real-world exposure of this product/service and impact it has on your current accounts?
 
--	Who is your competition? What is the current market state regarding the market segment your product/service belongs to? What accolades and/or recognition does your product/service has?
+-	Who is your competition? What is the current market state regarding the market segment your product/service belongs to? What accolades and/or recognition does your product/service have?
 
 -	Does your product/service include Customer Success delivery contract? How will your Customer Success team help us meet our goals? Can we obtain references and see case studies similar to our use case? Will we have a Customer Success engineer dedicated to our account? Does your team have experience with a business like ours and understand our needs?
 
--	Does your product/service include Technical Assistance Center support contract? What are your support hours working time (and time zone) and is the support global? How is your support department structured? If applicable, do you provide Hands & Eyes support for on-site location?
+-	Does your product/service include Technical Assistance Center support contract? What are your support hours working time (and time zone) and is the support global? How is your support department structured? If applicable, do you provide Hands & Eyes support for on-site location (if applicable)?
 
--	Does your product/service include Professional Services consulting contract? What are the resources allocated to our account (project/improvement)? How is your consulting department structured? How long does it take / how much does it cost to set up a proof of concept (PoC)? What are the accounts with largest actual deployments? Can we talk to other accounts with a deployment of the same size as our use case?
+-	Does your product/service include Professional Services consulting contract? What are the resources allocated to our account (project/improvement)? How is your consulting department structured? How long does it take and how much does it cost to set up a proof of concept (PoC)? What are the accounts with the largest actual deployments? Can we talk to other accounts with a deployment of the same size as our use case?
 
 -	Does your product/service have a dedicated Business Unit development team allocated to it? Does your product/service have a dedicated Service Delivery management team? Does your product/service adhere to any quality assurance: functional, non-functional, availability, scalability, security? What quality management processes do you have in place to ensure consistency of quality and meeting deadlines? What features does your product/service provide for data analysis and data metrics?
 
 -	Can you showcase and demonstrate the work relationship and work done for an example of a current account? Please answer the following questions:
-
   - Did the account achieve their goals by acquiring/subscribing to your product/service? Do you feel that the account achieved the goals?
   - What do you think it should have been different about the project and/or relationship with the account? If you could have changed one thing, what would it have been?
   - How long did it take before you and the account both saw results? Did you and the account stay on the pre-stipulated schedule?
