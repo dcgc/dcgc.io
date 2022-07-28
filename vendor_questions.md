@@ -55,12 +55,12 @@ permalink: /vendor-questions/
   - How long did it take before you and the account both saw results? Did you and the account stay on the pre-stipulated schedule?
   - How did you know when you succeeded at what was promised?
   - Did the account understand the product/service and did you understand the account needs?
-  - When there was friction and disagreement between you and the account, during the use and implementation of the product/service, how well did you handle conflict-resolution?
+  - When was there friction and disagreement between you and the account, during the use and implementation of the product/service, and how well did you handle conflict-resolution?
   - What is the average response time to the account’s questions or requests?
   - What was the average feedback score given by the account in regards to support, consulting and customer success? What is the type of feedback used (Net Promoter Score (NPS), Customer Satisfaction Survey (CSAT), Customer Effort Score (CES), Post-Purchase Survey (PPS), Product Development Survey (PDS), Usability Surveys (UX))? What is the type of questions posed (customer satisfaction, product use, customer demographics, future actions, multiple-choice (MCQ), open-ended, etc.)?
   - What were the other products/services the account considered from your portfolio and from the competition?
 
--	How good is your partner program? If account were to partner with you, who would be their key contact within your company? How do you allow the account’s engineers/personnel to overcome the product/service skill/knowledge gap and the skill/knowledge related to the segment where the product/service is inserted in? Do you offer assistance with deployment or training for personnel?
+-	How good is your partner program? If an account were to partner with you, who would be their key contact within your company? How do you allow the account’s engineers/personnel to overcome the product/service skill/knowledge gap and the skill/knowledge related to the segment where the product/service is inserted in? Do you offer assistance with deployment or training for personnel?
 
 -	How do you perform risk management in your organization? How is the product/service included in the equation? How will you protect our account and usage of product/service from risk? How will you ensure the availability, confidentiality and integrity of my systems and services connected to the product/service while testing is being performed by you? What is the availability percentage (three/four/five 9’s)?
 
@@ -68,9 +68,9 @@ permalink: /vendor-questions/
 
 -	How much of the threat surface targeting the business segment and segments of the product/service is your organization aware of? How do you respond to such threats? Does your organization have security incident handling/response and/or security requests regarding the product/service?
 
--	How do you store the Personal Identifiable Information (PII) and Personal Card Information (PCI) of the accounts and how do you store information regarding the product/service operation? How do you ingest and process that data? Is encryption used in any stage? Is the service and/or the product able to adhere to / adhering to Zero Trust (ZTA)? How does the product/service peer with SaaS/PaaS/IaaS providers?
+-	How do you store the Personal Identifiable Information (PII) and Personal Card Information (PCI) of the accounts and how do you store information regarding the product/service operation? How do you ingest and process that data? Is encryption used in any stage? Is the service and/or the product able to adhere to Zero Trust Architecture (ZTA)? How does the product/service peer with SaaS/PaaS/IaaS providers?
 
--	Which Security Compliance certifications does you product/service have? What account industry-specific Security compliance and standard does your product/service allow the account to comply with?
+-	Which Security Compliance certifications does your product/service have? What account industry-specific security compliance control and standard does your product/service allow the account to comply with?
 
 -	Does the product/service have a component that requires a datacenter and remote service from your side? Do you review physical and environmental risks regarding both datacenter and equipment residing in it? Do you have procedures in place for business continuity in the event that datacenter is inaccessible? Do you have a written policy for physical security requirements for the datacenter? What data center providers do you use if any? How many data centers store sensitive data? What countries are data centers located in? Are there any additional details you would like to provide about your physical and data center security program?
 
