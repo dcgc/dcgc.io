@@ -5,6 +5,8 @@ categories: notes
 permalink: /vendor-questions/
 ---
 
+## Vendor Standardized List of Questions
+
 -	Who is this product for? Who is this product tailored, destined and built for/to? What is the specific use case and market segment that this product adheres to?
 
 -	What specific problems is your solution trying to solve? What are the specific use cases that this product responds to? Will this product be adequate for a use case such as mine?
