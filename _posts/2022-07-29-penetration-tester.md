@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Penetration Testers
+title: Pursuit of Penetration Testing
 categories: infosec
 ---
 
@@ -89,6 +89,10 @@ After certifying (the paper), after devoting time to studying Penetration Testin
 The results were not surprising: I got more interviews. But what was surprising was the interviewing posture of the interviewers on most interviews: because I got the paper, the interview was less demanding, less laborious, less detailed, and less technical. The interviewers thought that because the candidate had a piece of paper, he was in the "clear" to work for their organization. It is alarmingly serious and a red flag. It shows that some roles are dependent on a piece of paper, on pre-conceived notions of what Penetration Tester qualifications should ideally be, and not on the actual technical skills of someone, especially on the answers a candidate gives based on the inquiry. It also shows that some places are not mature enough to start offering Penetration Testing services and/or having an internal Penetration Testing team, don't have the backbone to do so, and will not attract the right and correct people to be working on such a thing.
 
 Now, it will depend on the individual: some people are ok with this and will accept. Good professionals and people who have passion for the field will discard such chances, go back to the drawing board and continue with self-development. It's the outlook on what the talk about demand vs offer in "CyberSecurity" is about: you have a lot of positions being built and opened for different types of jobs inside Information Security, but most of them are goalless and unfocused, created by people with no "security vision" whatsoever. Then you have a lot of people wanting to jump onto the ship, but without any idea where they are going or with a lot of misconceptions on what is actually done. The previously mentioned Penetration Testing positions are created and filled, which is why the bar is set low. 
+
+## Pentester position: Why I should reconsider it
+
+CyberSecurity positions in corporations are overall entry-level and stale. The complexity of the work done and the effort put in, is most of the time minimal and not thought-provoking. So, if one tends to sought after Information Security work that is purely technical and requires hands-on in most of the business working hours, you end up looking for a position such as Penetration Tester. It is true that a lot of the activities done as a Penetration Tester require reporting (which consists of writing reports) and meeting (which consists of participating with meetings) with customers and/or internal teams, but it also requires to use tools, test systems and applications, and in the end, be exposed to new things. Unfortunately, not many roles in Information Security are like this, so even with all the faults described, you incline to look at the positive so as to see the big picture, which is to develop yourself through other means (e.g., Pentest-as-a-service companies, freelance, etc.). Should I stay or should I go?
 
 ## What is the point?
 
