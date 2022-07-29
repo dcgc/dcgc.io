@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pursuit of Penetration Testing
+title: Penetration Testers
 categories: infosec
 ---
 
