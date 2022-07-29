@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Procession to Internship
+title: Internships
 categories: infosec
 ---
 
