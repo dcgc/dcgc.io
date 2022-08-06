@@ -32,4 +32,6 @@ categories: infosec
 
 **Cow HR:** Come on, now. I am sure we don't need to reach such extents and conclusions.
 
+![PHONE_2](https://dcgc.io/boss.jpeg)
 
+**Tiger Big Boss:** 
