@@ -6,15 +6,15 @@ categories: infosec
 
 ![PHONE](https://dcgc.io/phone_conversation.png)
 
-**Bulldog HR:** Hello this is HR; how can I help you and who may I be speaking with?
+**Bulldog HR:** Hello, this is HR. How can I help you and who may I be speaking with?
 
-**Donkey Employee:** Hello this is Donkey; I want to report a harassment case in my department and in my team.
+**Donkey Employee:** Hello, this is Donkey. I want to report a harassment case in my department and in my team.
 
-**Bulldog HR:** Ah… Sure, of course. Can you tell me what happened?
+**Bulldog HR:** Ah... Sure, of course. Can you tell me what happened?
 
 **Donkey Employee:** Absolutely. I am a donkey in a team of jackasses, and I was told by my colleague that I am not dumb enough for the team, that I should stop giving 100% and not be too smart; that I should go back to the country I came from. That I am not one of the jackasses and that I am a disgrace to the team. This jackass also tells other colleagues from my team the same and encourages them to not speak to me or greet me. I have never faced anything like this, what should I do?
 
-**Bulldog HR:** Humm…. I understand your situation and I am surprised to hear such a thing… I must ask you to please explain the situation further and tell me when this started happening and what colleague started doing this to you.
+**Bulldog HR:** Humm... I understand your situation and I am surprised to hear such a thing… I must ask you to please explain the situation further and tell me when this started happening and what colleague started doing this to you.
 
 **Donkey Employee:** Of course. When my manager stopped appearing at the office for several weeks, not caring about the team and not giving meaningful updates about our future, and when my close and friendly colleagues left, my colleague who hated me since I joined the team, seized the opportunity and started badmouthing me to all the team, including the new jackasses. I don’t understand what I did, why do people do this?
 
