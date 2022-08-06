@@ -44,7 +44,7 @@ categories: infosec
 
 **Unintelligible talk from the other side of the phone:** Wah wah wah wah wah wah wah
 
-**Tiger Big Boss:** Wow... Now I have seen everything in my lifetime. Well... Time to go to the bakery have lunch for cheap, just like the rest of the suckers working for me.
+**Tiger Big Boss:** Bye now, I have more important things to do.
 
 ## Words and Definitions
 
