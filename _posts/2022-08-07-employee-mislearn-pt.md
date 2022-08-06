@@ -6,14 +6,6 @@ categories: infosec
 
 ![PHONE](https://dcgc.io/phone_conversation_2.jpeg)
 
----
-layout: post
-title: A conversation between an Employee and HR in Portugal
-categories: infosec
----
-
-![PHONE](https://dcgc.io/phone_conversation_2.jpeg)
-
 **Cow HR:** Hello, this is HR. How can I help you and who may I be speaking with?
 
 **Horse Employee:** Hello, this is Horse. I want to report a case of my superiors and direct manager not providing me with anything to do at my internship. I have been working here for 7 months and have not been assigned any task or responsibility, nor did my senior colleagues provide me with any guidance or taught me anything. What should I do?
