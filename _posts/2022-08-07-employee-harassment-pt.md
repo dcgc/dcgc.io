@@ -4,4 +4,5 @@ title: A conversation between an Employee and HR in Portugal
 categories: infosec
 ---
 
-![PHONE](https://dcgc.io/phone_conversation.png)
+![PHONE](https://dcgc.io/phone_conversation_2.jpeg)
+
