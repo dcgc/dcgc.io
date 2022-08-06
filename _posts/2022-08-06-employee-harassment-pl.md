@@ -24,7 +24,7 @@ categories: infosec
 
 **Bulldog HR:** Ok, if there is no physical threat, then it is much harder to prove your point, unfortunately. Were there any verbal insults towards you?
 
-**Donkey Employee:** This person was talking jackanese in front me, thinking I wouldn’t understand, and starts badmouthing me in front of everyone. Whatever happened with inclusion and speaking a universal language inside a corporation?
+**Donkey Employee:** This person was talking jackanese in front me, thinking I wouldn’t understand, and starts badmouthing me in front of everyone. Whatever happened with inclusion and speaking an universal language inside a corporation?
 
 **Bulldog HR:** Donkey, calm down, I assure you that we as an organization look up for a healthy relationship between each other and the self-respect of every one of our employees. We thrive to contribute to a safe and inclusive environment. What is happening must be something else, I believe that maybe you got things wrong? Tell me, was there any humiliation done towards you?
 
