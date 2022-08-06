@@ -39,4 +39,12 @@ categories: infosec
 
 ## Words and Definitions
 
+Mentorship:
+
+Mismanagement:
+
+Negligence:
+
 ## Moral of the story
+
+[official regulation enforcing these expectations](https://anonfiles.com/B6m8142dy4/regulamento_estagio_iefp_pdf)
