@@ -39,11 +39,11 @@ categories: infosec
 
 ## Words and Definitions
 
-Mentorship:
+**Mentorship:**
 
-Mismanagement:
+**Mismanagement:**
 
-Negligence:
+**Negligence:**
 
 ## Moral of the story
 
