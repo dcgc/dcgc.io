@@ -35,3 +35,8 @@ categories: infosec
 ![PHONE_2](https://dcgc.io/boss.jpeg)
 
 **Tiger Big Boss:** 
+
+
+## Words and Definitions
+
+## Moral of the story
