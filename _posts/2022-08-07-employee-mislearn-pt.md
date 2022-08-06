@@ -10,38 +10,47 @@ categories: infosec
 
 **Horse Employee:** Hello, this is Horse. I want to report a case of my superiors and direct manager not providing me with anything to do at my internship. I have been working here for 7 months and have not been assigned any task or responsibility, nor did my senior colleagues provide me with any guidance or taught me anything. What should I do?
 
-**Cow HR:** Ah, Horse! I am surprised to hear you say that... Sure, of course. Can you tell me what happened?
+**Cow HR:** Ah, Horse! I'm surprised to hear you say that... Sure, of course. Can you tell me what happened?
 
-**Horse Employee:** Certainly. I am currently in a one-year internship subsidized by the government, starting my career in Information Security and was told that my performance and how well I did in this company, would dictate my future here. I am eager to learn, I study on my free time while attending classes at the university. I want to develop myself and give my best, while having a great time here. 
+**Horse Employee:** Certainly. I am currently in a one-year internship subsidized by the government, starting my career in Information Security and was told that my performance and how well I did in this company, would dictate my future here. I am eager to learn, I study on my free time while attending classes at the university, it is going to be my last year. I want to develop myself and give my best, while having a great time here. 
 
-**Cow HR:** Now, now. We enjoy your enthusiasm but calm down. Not everything is about work in life, don't you know? You need to enjoy more your time here at the company. Your colleagues, our parties, free coffee and sweets... Don't you like fun and freebies? What about the party we did and where our interns were unprofessional and got drunk? You didn't find it hilarious?
+**Cow HR:** Now, now. We enjoy your enthusiasm but calm down. Not everything is about work in life, don't you know? You need to enjoy your time here at the company. Your colleagues, our parties, free coffee and sweets... Don't you like fun and freebies? What about the party we did and where our interns were unprofessional and got drunk? You didn't find it hilarious?
 
-**Horse Employee:** But... I enjoy my colleagues, talking to them about other things other than work and going for lunch with them. All the pranks we do all the time when we should be working, or the jokes we make at the expense of each other's shortcomings. It's fun, but what about my work and my position here? What am I doing here as an intern? What is my goal?
+**Horse Employee:** But... I enjoy my colleagues, talking to them about things other than work, like football, and going for lunch with them is alway a blast. All the pranks we do all the time when we should be working, or the jokes we make at the expense of each other's shortcomings; I love all of it. It's fun all-around but what about my work and my position here? What am I doing here as an intern? What is my goal?
 
 **Cow HR:** It doesn't matter, Horse. You are here to learn how to slack and "exist', collect the money and have a big grin on your face. Enjoy while it lasts.
 
-**Horse Employee:** While it lasts?... I am an intern. I am supposed to be doing something or being taught something specific, no? I thought I was here to learn from others expertise and seniority, to learn on the job and with hands-on work.
+**Horse Employee:** While it lasts?... I am an intern. I am supposed to be doing some task or being taught something specific, no? I thought I was here to learn from others expertise and seniority, to learn on the job and with hands-on work. I can't be slacking and "existing", I will have a bad feedback and evaluation at the end of my internship.
 
-**Cow HR:** What about the certification trainings you had? That doesn't count? You didn't like the lackluster training you were provided?
+**Cow HR:** What about the certification trainings you had? That doesn't count? You didn't like the lackluster training you were provided? What about the knowledge transfer you had with our colleagues abroad? You didn't understand what they explained at those half-assed meetings?
 
-**Horse Employee:** Ah... Yes, I learned from the trainings that I studied on my own time and that have nothing of value related to our use cases at work.... But what about my daily work, my daily duties? What should I be doing? I need to report back to the Government Employment Center and tell them what I did.
+**Horse Employee:** Ah... Yes, I learned from the trainings and knowledge transfer. I studied on my own time and a lot of it has nothing to do with our use cases at work. I still appreciate it but what about my daily work, my daily duties? What should I be doing? I need to report back to the Government Employment Center and tell them what I did.
 
-**Cow HR:** Don't you worry, we can bullshit them and say you did great job, that you were the poster-horsey. We just need the head count and a lot of interns. You folks are cheap labour.
+**Cow HR:** Don't you worry, we can bullshit them and say you did great job, that you were the poster-horsey. We just need the head count and a lot of interns. You folks are cheap.
 
-**Horse Employee:** What?... I don't understand... I have to talk with someone else. I have not worked on a single Single Incident, Simple Change and/or Normal Change under ITIL framework that I had to learn on my own... There ust be someone who understand where I am coming from.
+**Horse Employee:** What?... I don't understand... I have to talk with someone else. I have not worked on a single Incident, Simple Change and/or Normal Change under ITIL framework that I had to learn on my own... There must be someone who understands where I am coming from.
 
-**Cow HR:** Come on, now. I am sure we don't need to reach such extents and conclusions.
+**Cow HR:** Come on, now. I am sure we don't need to reach such extents and conclusions. We don't want bad things happening.
 
 ![PHONE_2](https://dcgc.io/boss.jpeg)
 
-**Tiger Big Boss:** 
+**Unintelligible talk from the other side of the phone:** Wah wah wah wah wah wah wah
 
+**Tiger Big Boss:** What? You are going to leave? Why?
+
+**Unintelligible talk from the other side of the phone:** Wah wah wah wah wah wah wah
+
+**Tiger Big Boss:** You are working in our company for 7 months and have not done a single Simple Change? Are you serious? You are joking, right? Let me talk to your manager, so you go do a Simple Change at night, outside of business hours, while having to do it in the office... Because you don't have a laptop. I know tonight is pouring down a lot and you have to take the bus, but a little rain didn't bother anyone, right?
+
+**Unintelligible talk from the other side of the phone:** Wah wah wah wah wah wah wah
+
+**Tiger Big Boss:** Wow... Now I have seen everything in my lifetime. Well... Time to go to the bakery have lunch for cheap, just like the rest of the suckers working for me.
 
 ## Words and Definitions
 
-**Mentorship:**
+**Mentorship:** A mentor is an individual with expertise who can help develop the career of a mentee and give a starting point in the beginning of the mentee's career. A mentorship is the protected relationship based on a group of activities conducted by the mentor, in order to train the mentee towards achieving that aforementioned development and beginning. The career-related functions that establishes the mentor as a coach, provide advice to enhance the mentee’s professional performance and development. Its focus also goes beyond learning specific competencies or tasks and builds a climate of trust so the mentee can feel secure to seek advice on issues impacting their professional success.
 
-**Mismanagement:**
+**Mismanagement:** 
 
 **Negligence:**
 
