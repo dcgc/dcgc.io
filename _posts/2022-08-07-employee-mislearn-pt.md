@@ -12,7 +12,7 @@ categories: infosec
 
 **Cow HR:** Ah, Horse! I'm surprised to hear you say that... Sure, of course. Can you tell me what happened?
 
-**Horse Employee:** Certainly. I am currently in a one-year internship subsidized by the government, starting my career in Information Security and was told that my performance and how well I did in this company, would dictate my future here. I am eager to learn, I study on my free time while attending classes at the university, it is going to be my last year. I want to develop myself and give my best, while having a great time here. 
+**Horse Employee:** Certainly. I am currently in a one-year internship subsidized by the government, starting my career in Information Security and was told that my performance and how well I did in this company, would dictate my future here. I am eager to learn, I study on my free time while attending classes at the university, it is going to be my last year in studies. I want to develop myself and give my best, while having a great time here. 
 
 **Cow HR:** Now, now. We enjoy your enthusiasm but calm down. Not everything is about work in life, don't you know? You need to enjoy your time here at the company. Your colleagues, our parties, free coffee and sweets... Don't you like fun and freebies? What about the party we did and where our interns were unprofessional and got drunk? You didn't find it hilarious?
 
