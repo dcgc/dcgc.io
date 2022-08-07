@@ -40,7 +40,7 @@ categories: infosec
 
 **Unintelligible talk from the other side of the phone:** Wah wah wah wah wah wah wah
 
-**Tiger Big Boss:** You are working in our company for 7 months and have not done a single Simple Change? Are you serious? You are joking, right? Let me talk to your manager, so you go do a Simple Change at night, outside of business hours, while having to do it in the office... Because you don't have a laptop. I know tonight is pouring down a lot and you have to take the bus, but a little rain didn't bother anyone, right?
+**Tiger Big Boss:** You are working in our company for 7 months and have not done a single Simple Change? Are you serious? You are joking, right? Let me talk to your manager, so you go do a Simple Change tonight, outside of business hours, while having to do it in the office... Because you don't have a laptop. I know it will be pouring down a lot and you have to take the bus, but a little rain didn't hurt anyone, right?
 
 **Unintelligible talk from the other side of the phone:** Wah wah wah wah wah wah wah
 
