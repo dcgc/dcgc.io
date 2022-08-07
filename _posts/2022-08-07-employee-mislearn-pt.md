@@ -26,9 +26,9 @@ categories: infosec
 
 **Horse Employee:** Ah... Yes, I learned from the trainings and knowledge transfer. I studied on my own time and a lot of it has nothing to do with our use cases at work. I still appreciate it but what about my daily work, my daily duties? What should I be doing? I need to report back to the Government Employment Center and tell them what I did.
 
-**Cow HR:** Don't you worry, we can bullshit them and say you did great job, that you were the poster-horsey. We just need the head count and a lot of interns. You folks are cheap.
+**Cow HR:** Don't you worry, we can make something up and tell them you did great job, that you were the poster-horsey. We just need the head count and a lot of interns. You folks are cheap.
 
-**Horse Employee:** What?... I don't understand... I have to talk with someone else. I have not worked on a single Incident, Simple Change and/or Normal Change under ITIL framework that I had to learn on my own... There must be someone who understands where I am coming from.
+**Horse Employee:** What?... I don't understand... I must talk with someone else. I have not worked on a single Incident, Simple Change and/or Normal Change under ITIL framework that I had to learn on my own... There must be someone who understands where I am coming from.
 
 **Cow HR:** Come on, now. I am sure we don't need to reach such extents and conclusions. We don't want bad things happening.
 
