@@ -4,6 +4,8 @@ title: It doesn't have to be crazy at work
 categories: infosec
 ---
 
+![CRAZY WORK](https://dcgc.io/crazy-work.png)
+
 “It’s crazy at work.” How often have you heard that? Or said it yourself? Probably too often.
 
 For many, “it’s crazy at work” has become their normal. But why's that?
