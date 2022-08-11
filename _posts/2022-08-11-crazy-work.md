@@ -6,25 +6,7 @@ categories: infosec
 
 ![CRAZY WORK](https://dcgc.io/crazy-work.png)
 
-“It’s crazy at work.” How often have you heard that? Or said it yourself? Probably too often.
-
-For many, “it’s crazy at work” has become their normal. But why's that?
-
-At the root is an onslaught of physical and virtual real-time distractions slicing work days into a series of fleeting work moments.
-
-Tie that together with a trend of over-collaboration, plus an unhealthy obsession with growth at any cost, and you’ve got the building blocks for an anxious, crazy mess.
-
-It’s no wonder people are working longer, earlier, later, on weekends, and whenever they have a spare moment. People can’t get work done at work anymore.
-
-Work claws away at life. Life has become work’s leftovers. The doggy bag. The remnants. The scraps.
-
-That’s just not OK. It’s unacceptable.
-
-What’s worse is that long hours, excessive busyness, and lack of sleep have become a badge of honor for many people these days. Sustained exhaustion is not a badge of honor, it’s a mark of stupidity. Companies that force their crew into this bargain are cooking up dumb at their employees’ expense.
-
-And it’s not just about organizations — individuals, contractors, and solopreneurs are burning themselves out the very same way.
-
-You’d think with all the hours people are putting in, and all the promises of tech’s flavor of the month, the load would be lessening. It’s not. It’s getting heavier.
+“It’s crazy at work.” How often do we hear this? Probably too often. For me, “it’s crazy at work” was my normal. Why's that? At the root is an onslaught of physical and virtual real-time distractions slicing work days into a series of fleeting work moments. Tie that together with a trend of over-collaboration, plus an unhealthy obsession with growth at any cost, and you’ve got the building blocks for an anxious, crazy mess. It’s no wonder people are working longer, earlier, later, on weekends, and whenever they have a spare moment. People can’t get work done at work anymore. Work claws away at life and life has become work’s leftovers. That’s just not OK. It’s unacceptable. What’s worse is that long hours, excessive busyness, and lack of sleep have become a badge of honor for many people these days. Sustained exhaustion is not a badge of honor, it’s a mark of stupidity. Companies that force their crew into this bargain are cooking up dumb at their employees’ expense. You’d think with all the hours people are putting in, and all the promises of tech’s flavor of the month, the load would be lessening. It’s not. It’s getting heavier.
 
 But the thing is, there’s not more work to be done all of the sudden. The problem is there’s hardly any uninterrupted, dedicated time to do it.
 
