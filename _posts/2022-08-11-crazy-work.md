@@ -6,17 +6,11 @@ categories: infosec
 
 ![CRAZY WORK](https://dcgc.io/crazy-work.png)
 
-“It’s crazy at work.” How often do we hear this? Probably too often. For me, “it’s crazy at work” was my normal. Why's that? At the root is an onslaught of physical and virtual real-time distractions slicing work days into a series of fleeting work moments. Tie that together with a trend of over-collaboration, plus an unhealthy obsession with growth at any cost, and you’ve got the building blocks for an anxious, crazy mess. It’s no wonder people are working longer, earlier, later, on weekends, and whenever they have a spare moment. People can’t get work done at work anymore. Work claws away at life and life has become work’s leftovers. That’s just not OK. It’s unacceptable. What’s worse is that long hours, excessive busyness, and lack of sleep have become a badge of honor for many people these days. Sustained exhaustion is not a badge of honor, it’s a mark of stupidity. Companies that force their crew into this bargain are cooking up dumb at their employees’ expense. You’d think with all the hours people are putting in, and all the promises of tech’s flavor of the month, the load would be lessening. It’s not. It’s getting heavier.
+“It’s crazy at work.” How often do we hear this? Probably too often. For me, “it’s crazy at work” was my normal. Why is that? At the root is an onslaught of physical and virtual real-time distractions slicing work days into a series of fleeting work moments. Tie that together with a trend of over-collaboration, plus an unhealthy obsession with growth at any cost, and you’ve got the building blocks for an anxious, crazy mess. It’s no wonder people are working longer and whenever they have a spare moment. People can’t get work done at work anymore. Work claws away at life and life has become work’s leftovers. That is just not ok. It is unacceptable. What is worse is that long hours, excessive busyness, and lack of sleep have become a badge of honor for many people these days. Companies that force their crew into this bargain are cooking up dumb at their employees’ expense. You’d think with all the hours people are putting in, and all the promises of tech’s flavor of the month, the load would be lessening. It’s not. It’s getting heavier.
 
-But the thing is, there’s not more work to be done all of the sudden. The problem is there’s hardly any uninterrupted, dedicated time to do it.
+Many modern companies seem to be great at one thing: wasting. Wasting time, attention, money, energy. Out of the 60, 70, 80 hours a week many are expected to pour into work, how many of those hours are really spent on the work itself? And how many are tossed away in meetings, lost to distraction, and withered away by inefficient business practices? The bulk. The answer isn’t more hours, it’s less bullshit. Less waste, not more production.
 
-Working more but getting less done? It doesn’t add up. But it does — it adds up to a majority of time wasted on things that don’t matter.
 
-Many modern companies seem to be great at one thing: wasting. Wasting time, attention, money, energy.
-
-Out of the 60, 70, 80 hours a week many are expected to pour into work, how many of those hours are really spent on the work itself? And how many are tossed away in meetings, lost to distraction, and withered away by inefficient business practices? The bulk.
-
-The answer isn’t more hours, it’s less bullshit. Less waste, not more production. And far fewer things that induce distraction, always-on anxiety, and stress.
 
 Stress is an infection passed down from organization to employee, from employee to employee, and then from employee to customer. And it’s becoming resistant to traditional treatments. The same old medicine is only making it worse.
 
