@@ -36,125 +36,242 @@ I have not been a decision-maker or a suit in many of these places I worked at. 
 
 ## The World Stays the Same
 
-
+?
 
 
 
 ## Make It Up as You Go
 
+?
+
 ## Comfort
+
+?
 
 ## Forty and Eight
 
+?
+
 ## Protectionism
+
+?
 
 ## Quality of an Hour
 
+?
+
 ## Effective > Productive
+
+?
 
 ## Outworking
 
+?
+
 ## Work Away from Work
+
+?
 
 ## Office Hours
 
+?
+
 ## Calendar Tetris
+
+?
 
 ## Presence Prison
 
+?
+
 ## Availability
+
+?
 
 ## FOMO
 
+?
+
 ## We're Family
+
+?
 
 ## Follow the Leader
 
+?
+
 ## Trust Battery
+
+?
 
 ## Being Upfront
 
+?
+
 ## Own it
+
+?
 
 ## Low-Hanging Fruit Can Still Be Out of Reach
 
+?
+
 ## Sleep
+
+?
 
 ## Balance
 
+?
+
 ## Hire the Head
+
+?
 
 ## Nobody Hits the Ground Running
 
+?
+
 ## Ignore Talent
+
+?
 
 ## Salary Hostage
 
+?
+
 ## Benefits Who?
+
+?
 
 ## Library Mindset
 
+?
+
 ## Disconnected Vacations
+
+?
 
 ## Truthful Goodbyes
 
+?
+
 ## When to Real-Time
+
+?
 
 ## Dreadlines
 
+?
+
 ## Don't React
+
+?
 
 ## Ironman Weeks
 
+?
+
 ## New Normal
+
+?
 
 ## Bad Habits Beat Good Intentions
 
+?
+
 ## Independencies
+
+?
 
 ## Commitment
 
+?
+
 ## Compromise on Quality
+
+?
 
 ## Narrow as You Go
 
+?
+
 ## Nothingness
+
+?
 
 ## Enough
 
+?
+
 ## Worst Practices
+
+?
 
 ## Whatever It Takes
 
+?
+
 ## Have Less To Do
+
+?
 
 ## Three's a Company
 
+?
+
 ## Stick With It
+
+?
 
 ## Say No
 
+?
+
 ## Risk Without Risking
+
+?
 
 ## It Is The Season
 
+?
+
 ## Bet On Black
+
+?
 
 ## Priced to Lose
 
+?
+
 ## Launch and Learn
+
+?
 
 ## Promises You Can Keep
 
+?
+
 ## Copycats
+
+?
 
 ## Changes
 
+?
+
 ## Stayups
+
+?
 
 ## Severity
 
+?
+
 ## Good Old Days
+
+?
 
 ## Choose Calm
 
+?
