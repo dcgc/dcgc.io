@@ -5,7 +5,7 @@ categories: notes
 permalink: /vm/
 ---
 
-** Vulnerability Management **
+# Vulnerability Management
 
 - Automated VM Program
 - False Positive Reduction (Falses Positives are tuning opportunities)
