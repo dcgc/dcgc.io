@@ -1,3 +1,10 @@
+---
+layout: page
+title: E-mail Etiquette
+categories: notes
+permalink: /email/
+---
+
 Useful phrases for opening emails
 Opening greeting to one person
 * Dear Mr/ Ms/ Dr/ Professor + family name (= Dear Mr./ Ms./ Dr./ Prof + family name)
