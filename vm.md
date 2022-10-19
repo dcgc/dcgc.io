@@ -7,6 +7,8 @@ permalink: /vm/
 
 # Vulnerability Management
 
+![VM](https://dcgc.io/vm.png)
+
 - Automated VM Program
 - False Positive Reduction (Falses Positives are tuning opportunities)
 - False Negative Identification
