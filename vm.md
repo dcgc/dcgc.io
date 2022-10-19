@@ -9,12 +9,15 @@ permalink: /vm/
 
 ![VM](https://dcgc.io/vm.png)
 
+## General Purpose Guidelines
+
 - Automated VM Program
+
 - False Positive Reduction (Falses Positives are tuning opportunities)
+
 - False Negative Identification
 
-- We discover vulnerabilities, verify their presence and determine their potential business 
-  impact throughout the vulnerability management lifecycle.
+- We discover vulnerabilities, verify their presence and determine their potential business impact throughout the vulnerability management lifecycle.
 
 - Instead of point solutions and single systems, consider everything at large scale.
 
@@ -22,7 +25,7 @@ permalink: /vm/
 
 - Handling risks, presenting ratings, and empowering triage are further concerns central to VM.
 
-- VM is an extension of performing Threat Modeling.
+- Vunerability Management is an extension of performing Threat Modeling.
 
 - Introduce vulnerability assessment methodology.
 
@@ -36,9 +39,8 @@ permalink: /vm/
 
 - Logging and active monitoring
 
-- Security, functionality, convenience, performance
-  You can only pick 3
-
+- Security, functionality, convenience, performance **[You can only pick 3]**
+  
 - Documentation is important.
 
 - Writing consistent and coherent policies.
