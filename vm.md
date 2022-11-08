@@ -9,6 +9,18 @@ permalink: /vm/
 
 ![VM](https://dcgc.io/vm.png)
 
+## Definitions
+
+- **Vulnerability**: Flaw or weakness in a system that can be exploited
+- **Security** Audit: Assess the adequacy of controls and evaluate compliance
+- **Vulnerability** Assessment: Description and analysis of vulnerabilities in a system
+- **Red Team**: Team that tests the controls in an environment to identify vulnerabilities
+- **Penetration Testing**: Circumvent the security features of a system to demonstrate risk
+- **Vulnerability Management**: Ongoing, repeatable processes for identifying, remediating, or accepting risk
+- **Risk**: Possibility of loss or injury
+
+
+
 ## General Purpose Guidelines
 
 - Automated VM Program
