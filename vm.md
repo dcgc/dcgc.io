@@ -12,14 +12,16 @@ permalink: /vm/
 ## Definitions
 
 - **Vulnerability**: Flaw or weakness in a system that can be exploited
-- **Security** Audit: Assess the adequacy of controls and evaluate compliance
+- **Security Audit**: Assess the adequacy of controls and evaluate compliance
 - **Vulnerability** Assessment: Description and analysis of vulnerabilities in a system
 - **Red Team**: Team that tests the controls in an environment to identify vulnerabilities
 - **Penetration Testing**: Circumvent the security features of a system to demonstrate risk
 - **Vulnerability Management**: Ongoing, repeatable processes for identifying, remediating, or accepting risk
 - **Risk**: Possibility of loss or injury
 
+Audits are performed to know how well an organization adheres against a set of standards or procedures, but it doesn't necessarily tell wether those standards and procedures are effective. The audits are just an evaluation method to the organization's own set of standards and does not provide insight into the organizational risk or risk profile an organization has.
 
+There are two things to be aware regarding risk: the foreseen and the unforeseen.
 
 ## General Purpose Guidelines
 
