@@ -23,6 +23,9 @@ Audits are performed to know how well an organization adheres against a set of s
 
 There are two things to be aware regarding risk: the foreseen and the unforeseen.
 
+
+
+
 ## General Purpose Guidelines
 
 - Automated VM Program
