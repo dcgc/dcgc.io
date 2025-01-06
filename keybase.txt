@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/duartedcarvalho
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dcgc.io
+  * I am duartedcarvalho (https://keybase.io/duartedcarvalho) on keybase.
+  * I have a public key with fingerprint C2F2 5761 B06F 9A8D 1052  D6B7 F874 679B B515 577F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101eb14719d63f566bc77d598ae4a9dfa2e73829953c2c4482c380b36d032c3ce340a",
+      "fingerprint": "c2f25761b06f9a8d1052d6b7f874679bb515577f",
+      "host": "keybase.io",
+      "key_id": "f874679bb515577f",
+      "kid": "0101eb14719d63f566bc77d598ae4a9dfa2e73829953c2c4482c380b36d032c3ce340a",
+      "uid": "39bcec78aabbb84d32e390e974d6ea19",
+      "username": "duartedcarvalho"
+    },
+    "service": {
+      "hostname": "dcgc.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1736168276,
+  "expire_in": 157680000,
+  "prev": "c7608abe092f58678f49d46a0ab777de0fd65d5a855517ed646eecf5724c6ef0",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSBVBGD4nS+tEUS8F9pBNtxeTvc3M7gEhKkKsKLtgVnCY2Zk9Z9N2
+j3tWKy2zSCHFh4oKySS6R5iE0o0Su5P5YBkVvdgdQ5DoXiA1a/nWY/MyM/983zff
+//HfnpAWioRfHXm5ontspDT84EZjWShe2bu6ElCXbQXRSlDMhzdewnjKjxXbDESB
+JEsyp7KGZYMh1YIIURNjBg2dcI0YzCIKx6quGAZUTcXUNF0xVV2iKmKSKo4mVzWJ
+gGxg2U6ce0nPdnwhayqWAjGSqYQsg+hMlqDCEMWWjjWEDUqhDCHGliAm3FTAEOYo
+SfEc2xU1cYkN2/sH/j/7LhuWUw1qchPrhFBKdY2pClcNiRtYY4gT2QiAKe45ZBMX
+aFZGPJ8zk3jlpCThgu3ZQDyW2yYP8g0aGgGacfNPR0nP9V3TLRHFhO8nU9GA5G9N
+BqjNnMb+8mPUdphIUjDKuZeyXQdEZYE0fTsQlLGKZKQrGGUDviVpezxmBwgRtS6J
+FfzDy4P8MZJ0QrlkKBbUEdYtzWAaIhKhWMTEJYshyCDRIYQy5gxpiHPTgljRTMQt
+CQQdlTouiEJhk8SFZMqOO8Qv8zjYfrNzw+hQOBJKHzMqmLBQZNykkblrb8n4FZvW
+nNk02zEalJVvLy+Lds1a8PpAbU0iL1ldkLn7fUd7ztyZhxeri1ovXKlJLN+zZFfv
+z77zRTvbGk5eOvmr+Whi7dSOgcKhm/K1618X55xLs8etOn72QD94eDy8bOHgk/lX
+67MGUP6UsNNd9en6vMHm8WCpNuFbT0vj/qMvpsyffGh/QdXT3IsVrYkVQx1FauSx
+Vvu1pXAov6IrdHf6+OqmodLej6Do6bGC9cUR9n3as8qL9z6vvJV3v3XvunTY8ch9
+XtC/7118zWDTrR8nKr519g8Uv+nLncGcql2r791Zvir/i5MJTz0+eDqSkV6P27Zt
+BBM/nJGzXL/vbs+Vujk76lBN42+tw0Yc
+=w7Di
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/duartedcarvalho
+
+==================================================================
