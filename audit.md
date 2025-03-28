@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Auditing Networks, Perimeters & Systems
+title: Auditing/Monitoring Infrastructure
 categories: notes
 permalink: /audit/
 ---
